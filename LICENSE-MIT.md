@@ -1,6 +1,8 @@
-MIT License
+# MIT License
 
 Copyright (c) 2021 Jean-Marc Viglino
+
+**All codes and all non font or icon files are licensed under the MIT License.**
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
