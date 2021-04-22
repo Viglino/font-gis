@@ -1,0 +1,33 @@
+{
+  "font": "font-gis",
+  "version": "1.0.0",
+  "prefix": "fg",
+  "copyright": "Jean-Marc Viglino",
+  "license": "OFL-1.1",
+  "homeoage": "https://github.com/Viglino/font-git#,",
+  "glyphs": {
+    "fg-point": { "font": "font-gis", "name": "point", "code": 59905, "theme": "geometry", "search": "", "date": "2021-04-15" },
+    "fg-polyline-pt": { "font": "font-gis", "name": "polyline-pt", "code": 59906, "theme": "geometry", "search": "", "date": "2021-04-15" },
+    "fg-polygon-pt": { "font": "font-gis", "name": "polygon-pt", "code": 59907, "theme": "geometry", "search": "", "date": "2021-04-15" },
+    "fg-polygon-hole-pt": { "font": "font-gis", "name": "polygon-hole-pt", "code": 59908, "theme": "geometry", "search": "", "date": "2021-04-15" },
+    "fg-rectangle-pt": { "font": "font-gis", "name": "rectangle-pt", "code": 59909, "theme": "geometry", "search": "", "date": "2021-04-15" },
+    "fg-square-pt": { "font": "font-gis", "name": "square-pt", "code": 59910, "theme": "geometry", "search": "", "date": "2021-04-15" },
+    "fg-circle-o": { "font": "font-gis", "name": "circle-o", "code": 59911, "theme": "geometry", "search": "", "date": "2021-04-15" },
+    "fg-polyline": { "font": "font-gis", "name": "polyline", "code": 59913, "theme": "geometry", "search": "", "date": "2021-04-15" },
+    "fg-polygon-o": { "font": "font-gis", "name": "polygon-o", "code": 59914, "theme": "geometry", "search": "", "date": "2021-04-15" },
+    "fg-polygon-hole-o": { "font": "font-gis", "name": "polygon-hole-o", "code": 59915, "theme": "geometry", "search": "", "date": "2021-04-15" },
+    "fg-rectangle-o": { "font": "font-gis", "name": "rectangle-o", "code": 59916, "theme": "geometry", "search": "", "date": "2021-04-15" },
+    "fg-square-o": { "font": "font-gis", "name": "square-o", "code": 59917, "theme": "geometry", "search": "", "date": "2021-04-15" },
+    "fg-polygon-hole": { "font": "font-gis", "name": "polygon-hole", "code": 59918, "theme": "geometry", "search": "", "date": "2021-04-15" },
+    "fg-polygon": { "font": "font-gis", "name": "polygon", "code": 59919, "theme": "geometry", "search": "", "date": "2021-04-15" },
+    "fg-rectangle": { "font": "font-gis", "name": "rectangle", "code": 59920, "theme": "geometry", "search": "", "date": "2021-04-15" },
+    "fg-square": { "font": "font-gis", "name": "square", "code": 59921, "theme": "geometry", "search": "", "date": "2021-04-15" },
+    "fg-circle": { "font": "font-gis", "name": "circle", "code": 59922, "theme": "geometry", "search": "", "date": "2021-04-15" },
+    "fg-poi": { "font": "font-gis", "name": "poi", "code": 59926, "theme": "poi", "search": "", "date": "2021-04-15" },
+    "fg-poi-alt": { "font": "font-gis", "name": "poi-alt", "code": 59927, "theme": "poi", "search": "", "date": "2021-04-15" },
+    "fg-measure": { "font": "font-gis", "name": "measure", "code": 59912, "theme": "measure", "search": "", "date": "2021-04-15" },
+    "fg-measure-line": { "font": "font-gis", "name": "measure-line", "code": 59923, "theme": "measure", "search": "", "date": "2021-04-15" },
+    "fg-measure-area": { "font": "font-gis", "name": "measure-area", "code": 59924, "theme": "measure", "search": "", "date": "2021-04-15" },
+    "fg-measure-area-alt": { "font": "font-gis", "name": "measure-area-alt", "code": 59925, "theme": "measure", "search": "", "date": "2021-04-15" }
+  }
+}

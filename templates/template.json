@@ -1,0 +1,11 @@
+{
+  "font": "<%= fontName %>",
+  "version": "<%= version %>",
+  "prefix": "<%= className %>",
+  "copyright": "<%= author %>",
+  "license": "<%= license %>",
+  "homeoage": "<%= homepage %>",
+  "glyphs": {<% _.each(glyphs, function(glyph, i){ %><% if(i) { %>,<% } %>
+    "<%= className %>-<%= glyph.name %>": { "font": "<%= fontName %>", "name": "<%= glyph.name %>", "code": <%= glyph.code %>, "theme": "<%= glyph.theme %>", "search": "<%= glyph.search %>", "date": "<%= glyph.date %>" }<% }); %>
+  }
+}

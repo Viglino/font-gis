@@ -1,0 +1,36 @@
+{
+  "name": "font-gis",
+  "version": "1.0.0",
+  "description": "Icon font set for use with GIS and spatial analysis tools",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node serve.js",
+    "build": "gulp Iconfont"
+  },
+  "keywords": [
+    "font",
+    "GIS",
+    "maps"
+  ],
+  "author": {
+    "name": "Jean-Marc Viglino",
+    "url": "https://github.com/Viglino"
+  },
+  "homepage": "https://github.com/Viglino/font-git#,",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Viglino/font-git.git"
+  },
+  "license": "OFL-1.1",
+  "devDependencies": {
+    "async": "^3.2.0",
+    "gulp": "^4.0.2",
+    "gulp-consolidate": "^0.2.0",
+    "gulp-iconfont": "^11.0.0",
+    "gulp-iconfont-css": "^3.0.0",
+    "gulp-rename": "^2.0.0",
+    "live-server": "^1.2.1"
+  },
+  "dependencies": {}
+}
