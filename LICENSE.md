@@ -9,7 +9,7 @@ You can use it for commercial projects, open source projects, or really almost w
 
 * Font-GIS font is licensed under the [SIL OFL 1.1 License](https://scripts.sil.org/OFL)
 * Icons and SVG files are licensed under the [CC BY 4.0 License](https://creativecommons.org/licenses/by/4.0/)
-* Codes and all non font or icon files are licensed under the [MIT License](https://opensource.org/licenses/MIT)
+* Codes and all non font or icon files are licensed under the [MIT License](https://github.com/Viglino/font-gis/blob/main/LICENSE-MIT.md)
 
 ## Attribution
 Attribution is required by MIT, SIL OFL, and CC BY licenses. Font-GIS files already 
