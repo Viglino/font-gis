@@ -1,9 +1,10 @@
-BSD 3-Clause License
+# BSD 3-Clause License
 
 Copyright (c) 2021, Jean-Marc Viglino
 All rights reserved.
 
 **All Font-GIS icon and SVG files are licensed under the BSD 3-Clause License.**
+[Full text](https://creativecommons.org/licenses/by/3.0/)
 
 Redistribution and use in source and binary forms, with or without
 modification, are permitted provided that the following conditions are met:
