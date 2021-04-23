@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="uEA3E-help-larrow.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   id="svg4460"
+   height="100"
+   width="100"
+   version="1.1">
+  <sodipodi:namedview
+     inkscape:document-rotation="0"
+     inkscape:current-layer="svg4460"
+     inkscape:window-maximized="1"
+     inkscape:window-y="-8"
+     inkscape:window-x="-8"
+     inkscape:cy="52.487892"
+     inkscape:cx="-30.305537"
+     inkscape:zoom="4.9166667"
+     showgrid="false"
+     id="namedview11"
+     inkscape:window-height="1017"
+     inkscape:window-width="1920"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <defs
+     id="defs4462" />
+  <metadata
+     id="metadata4465">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     id="path4142"
+     style="fill:#000080;stroke-width:1.13494"
+     d="M 37.976566,0.00390625 C 37.462479,-0.0274703 36.907172,0.12286184 36.345707,0.51953125 25.310772,8.313856 13.653621,15.078762 1.3925825,20.810547 c -2.05948912,0.962443 -1.64393809,3.806799 0,4.873047 8.1009618,5.253384 15.1045455,11.714686 20.8925775,19.398437 2.171369,2.881689 7.123077,0.06562 4.927735,-2.847656 C 21.832494,35.094214 15.592073,28.927947 8.4199263,23.689453 19.168549,18.400708 29.440672,12.302572 39.224613,5.3925781 l 0.002,-0.00195 c 2.409825,-1.7023993 0.977714,-5.2507537 -1.25,-5.38671875 z M 16.994145,20.751953 c -3.121015,0.09676 -4.256553,4.913904 -0.869141,5.488281 37.590244,6.368149 69.087603,35.130066 78.275391,71.748047 v 0.002 c 0.884758,3.527079 6.389805,2.022869 5.503906,-1.501953 -9.622746,-38.354488 -42.820092,-69.006555 -82.259766,-75.6895 -0.224971,-0.03815 -0.442323,-0.05333 -0.65039,-0.04687 z" />
+</svg>
