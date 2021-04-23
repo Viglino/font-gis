@@ -57,7 +57,7 @@
     "fg-layer-up": { "font": "font-gis", "name": "layer-up", "code": 59973, "theme": "layer", "search": "", "date": "2021-04-23" },
     "fg-layer-down": { "font": "font-gis", "name": "layer-down", "code": 59974, "theme": "layer", "search": "", "date": "2021-04-23" },
     "fg-layer-alt": { "font": "font-gis", "name": "layer-alt", "code": 59975, "theme": "layer", "search": "", "date": "2021-04-23" },
-    "fg-layer-alt-o": { "font": "font-gis", "name": "layer-alt-o", "code": 59976, "theme": "", "search": "", "date": "2021-04-23" },
+    "fg-layer-alt-o": { "font": "font-gis", "name": "layer-alt-o", "code": 59976, "theme": "layer", "search": "", "date": "2021-04-23" },
     "fg-layer-stack": { "font": "font-gis", "name": "layer-stack", "code": 59977, "theme": "layer", "search": "", "date": "2021-04-23" },
     "fg-layer-stack-o": { "font": "font-gis", "name": "layer-stack-o", "code": 59978, "theme": "layer", "search": "", "date": "2021-04-23" },
     "fg-measure": { "font": "font-gis", "name": "measure", "code": 59912, "theme": "measure", "search": "", "date": "2021-04-15" },
