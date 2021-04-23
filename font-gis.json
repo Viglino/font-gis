@@ -38,6 +38,26 @@
     "fg-poi-favorite": { "font": "font-gis", "name": "poi-favorite", "code": 59934, "theme": "poi", "search": "", "date": "2021-04-23" },
     "fg-poi-favorite-o": { "font": "font-gis", "name": "poi-favorite-o", "code": 59935, "theme": "poi", "search": "", "date": "2021-04-23" },
     "fg-poi-home": { "font": "font-gis", "name": "poi-home", "code": 59936, "theme": "poi", "search": "", "date": "2021-04-23" },
-    "fg-poi-home-o": { "font": "font-gis", "name": "poi-home-o", "code": 59937, "theme": "poi", "search": "", "date": "2021-04-23" }
+    "fg-poi-home-o": { "font": "font-gis", "name": "poi-home-o", "code": 59937, "theme": "poi", "search": "", "date": "2021-04-23" },
+    "fg-earth": { "font": "font-gis", "name": "earth", "code": 59938, "theme": "globe", "search": "", "date": "2021-04-23" },
+    "fg-earth-euro-africa": { "font": "font-gis", "name": "earth-euro-africa", "code": 59939, "theme": "globe", "search": "", "date": "2021-04-23" },
+    "fg-earth-atlantic": { "font": "font-gis", "name": "earth-atlantic", "code": 59940, "theme": "globe", "search": "", "date": "2021-04-23" },
+    "fg-earth-america": { "font": "font-gis", "name": "earth-america", "code": 59941, "theme": "globe", "search": "", "date": "2021-04-23" },
+    "fg-earth-pacific": { "font": "font-gis", "name": "earth-pacific", "code": 59942, "theme": "globe", "search": "", "date": "2021-04-23" },
+    "fg-earth-australia": { "font": "font-gis", "name": "earth-australia", "code": 59943, "theme": "globe", "search": "", "date": "2021-04-23" },
+    "fg-earth-asia": { "font": "font-gis", "name": "earth-asia", "code": 59944, "theme": "globe", "search": "", "date": "2021-04-23" },
+    "fg-earth-north": { "font": "font-gis", "name": "earth-north", "code": 59945, "theme": "globe", "search": "", "date": "2021-04-23" },
+    "fg-earth-south": { "font": "font-gis", "name": "earth-south", "code": 59946, "theme": "globe", "search": "", "date": "2021-04-23" },
+    "fg-earth-o": { "font": "font-gis", "name": "earth-o", "code": 59947, "theme": "globe", "search": "", "date": "2021-04-23" },
+    "fg-earth-euro-africa-o": { "font": "font-gis", "name": "earth-euro-africa-o", "code": 59948, "theme": "globe", "search": "", "date": "2021-04-23" },
+    "fg-earth-atlantic-o": { "font": "font-gis", "name": "earth-atlantic-o", "code": 59949, "theme": "globe", "search": "", "date": "2021-04-23" },
+    "fg-earth-america-o": { "font": "font-gis", "name": "earth-america-o", "code": 59950, "theme": "globe", "search": "", "date": "2021-04-23" },
+    "fg-earth-pacific-o": { "font": "font-gis", "name": "earth-pacific-o", "code": 59951, "theme": "globe", "search": "", "date": "2021-04-23" },
+    "fg-earth-australia-o": { "font": "font-gis", "name": "earth-australia-o", "code": 59952, "theme": "globe", "search": "", "date": "2021-04-23" },
+    "fg-earth-asia-o": { "font": "font-gis", "name": "earth-asia-o", "code": 59953, "theme": "globe", "search": "", "date": "2021-04-23" },
+    "fg-earth-north-o": { "font": "font-gis", "name": "earth-north-o", "code": 59954, "theme": "globe", "search": "", "date": "2021-04-23" },
+    "fg-earth-south-o": { "font": "font-gis", "name": "earth-south-o", "code": 59955, "theme": "globe", "search": "", "date": "2021-04-23" },
+    "fg-poi-earth": { "font": "font-gis", "name": "poi-earth", "code": 59956, "theme": "poi", "search": "", "date": "2021-04-23" },
+    "fg-poin-earth": { "font": "font-gis", "name": "poin-earth", "code": 59957, "theme": "poi", "search": "", "date": "2021-04-23" }
   }
 }
