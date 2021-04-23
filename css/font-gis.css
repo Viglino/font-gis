@@ -99,6 +99,8 @@
 .fg-layer-alt-o:before { content: "\ea48"; }
 .fg-layer-stack:before { content: "\ea49"; }
 .fg-layer-stack-o:before { content: "\ea4a"; }
+.fg-layer-add:before { content: "\ea4b"; }
+.fg-layer-add-o:before { content: "\ea4c"; }
 .fg-measure:before { content: "\ea08"; }
 .fg-measure-line:before { content: "\ea13"; }
 .fg-measure-area:before { content: "\ea14"; }
