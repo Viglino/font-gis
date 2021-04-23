@@ -67,4 +67,14 @@
 .fg-measure-area:before { content: "\ea14"; }
 .fg-measure-area-alt:before { content: "\ea15"; }
 .fg-poi:before { content: "\ea16"; }
-.fg-poi-alt:before { content: "\ea17"; }
+.fg-poi-o:before { content: "\ea17"; }
+.fg-poi-alt:before { content: "\ea18"; }
+.fg-poi-alt-o:before { content: "\ea19"; }
+.fg-pin:before { content: "\ea1a"; }
+.fg-pushpin:before { content: "\ea1b"; }
+.fg-pois:before { content: "\ea1c"; }
+.fg-pois-o:before { content: "\ea1d"; }
+.fg-poi-favorite:before { content: "\ea1e"; }
+.fg-poi-favorite-o:before { content: "\ea1f"; }
+.fg-poi-home:before { content: "\ea20"; }
+.fg-poi-home-o:before { content: "\ea21"; }

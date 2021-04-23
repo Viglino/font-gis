@@ -28,6 +28,16 @@
     "fg-measure-area": { "font": "font-gis", "name": "measure-area", "code": 59924, "theme": "measure", "search": "", "date": "2021-04-15" },
     "fg-measure-area-alt": { "font": "font-gis", "name": "measure-area-alt", "code": 59925, "theme": "measure", "search": "", "date": "2021-04-15" },
     "fg-poi": { "font": "font-gis", "name": "poi", "code": 59926, "theme": "poi", "search": "", "date": "2021-04-15" },
-    "fg-poi-alt": { "font": "font-gis", "name": "poi-alt", "code": 59927, "theme": "poi", "search": "", "date": "2021-04-15" }
+    "fg-poi-o": { "font": "font-gis", "name": "poi-o", "code": 59927, "theme": "poi", "search": "", "date": "2021-04-23" },
+    "fg-poi-alt": { "font": "font-gis", "name": "poi-alt", "code": 59928, "theme": "poi", "search": "", "date": "2021-04-15" },
+    "fg-poi-alt-o": { "font": "font-gis", "name": "poi-alt-o", "code": 59929, "theme": "poi", "search": "", "date": "2021-04-23" },
+    "fg-pin": { "font": "font-gis", "name": "pin", "code": 59930, "theme": "poi", "search": "", "date": "2021-04-23" },
+    "fg-pushpin": { "font": "font-gis", "name": "pushpin", "code": 59931, "theme": "poi", "search": "", "date": "2021-04-23" },
+    "fg-pois": { "font": "font-gis", "name": "pois", "code": 59932, "theme": "poi", "search": "", "date": "2021-04-23" },
+    "fg-pois-o": { "font": "font-gis", "name": "pois-o", "code": 59933, "theme": "poi", "search": "", "date": "2021-04-23" },
+    "fg-poi-favorite": { "font": "font-gis", "name": "poi-favorite", "code": 59934, "theme": "poi", "search": "", "date": "2021-04-23" },
+    "fg-poi-favorite-o": { "font": "font-gis", "name": "poi-favorite-o", "code": 59935, "theme": "poi", "search": "", "date": "2021-04-23" },
+    "fg-poi-home": { "font": "font-gis", "name": "poi-home", "code": 59936, "theme": "poi", "search": "", "date": "2021-04-23" },
+    "fg-poi-home-o": { "font": "font-gis", "name": "poi-home-o", "code": 59937, "theme": "poi", "search": "", "date": "2021-04-23" }
   }
 }

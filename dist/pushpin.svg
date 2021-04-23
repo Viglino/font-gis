@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="pushpin.svg"
+   id="svg4460"
+   height="100"
+   width="100"
+   version="1.1">
+  <sodipodi:namedview
+     inkscape:document-rotation="0"
+     inkscape:current-layer="svg4460"
+     inkscape:window-maximized="1"
+     inkscape:window-y="-8"
+     inkscape:window-x="-8"
+     inkscape:cy="87.635217"
+     inkscape:cx="-50.887631"
+     inkscape:zoom="2.6905413"
+     showgrid="false"
+     id="namedview11"
+     inkscape:window-height="1017"
+     inkscape:window-width="1920"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <defs
+     id="defs4462" />
+  <metadata
+     id="metadata4465">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     id="rect830"
+     style="color:#000000;overflow:visible;fill:#000080;fill-opacity:1;stroke-width:5.01574;stroke-linejoin:round;stroke-dashoffset:188.976;stroke:none"
+     d="M 37.233772,-3.1901055e-8 A 5.86953,5.86953 0 0 0 31.364242,5.8695298 5.86953,5.86953 0 0 0 36.933418,11.729889 L 35.482084,40.050372 A 11.73906,11.73906 0 0 0 25.494712,51.65645 h 9.391248 9.888782 l 3.828952,43.099775 a 1.6117263,10.476057 0 0 0 2.792612,0 L 55.225257,51.65645 h 9.888783 9.391248 A 11.73906,11.73906 0 0 0 64.517916,40.050372 L 63.066582,11.729889 A 5.86953,5.86953 0 0 0 68.635758,5.8695298 5.86953,5.86953 0 0 0 62.766228,-3.1901053e-8 Z" />
+</svg>

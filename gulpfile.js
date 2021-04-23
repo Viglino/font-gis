@@ -83,4 +83,6 @@ gulp.task('resname', function(){
     .pipe(gulp.dest("./dist"));
 });
 
+/** Use svgstore to combine svg ? */
+
 gulp.task("default", gulp.parallel("Iconfont", "resname"));
