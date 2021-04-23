@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="uEA05-rectangle-pt.svg"
+   id="svg4460"
+   height="100"
+   width="100"
+   version="1.1">
+  <sodipodi:namedview
+     inkscape:document-rotation="0"
+     inkscape:current-layer="svg4460"
+     inkscape:window-maximized="1"
+     inkscape:window-y="-8"
+     inkscape:window-x="-8"
+     inkscape:cy="55.721416"
+     inkscape:cx="41.469103"
+     inkscape:zoom="5.7134227"
+     showgrid="false"
+     id="namedview11"
+     inkscape:window-height="1017"
+     inkscape:window-width="1920"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     showguides="false" />
+  <defs
+     id="defs4462" />
+  <metadata
+     id="metadata4465">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     d="M 12.550781 15 C 5.66107 15 -2.2838852e-07 20.66107 0 27.550781 C -1.9944717e-07 33.56743 4.3174351 38.645543 10 39.835938 L 10 60.263672 C 4.3174351 61.454445 -1.9944718e-07 66.534133 0 72.550781 C -2.283885e-07 79.440493 5.6610701 85.09961 12.550781 85.099609 C 18.596918 85.099609 23.640641 80.7256 24.791016 75 L 75.246094 75 C 76.397621 80.731839 81.498627 85.09961 87.550781 85.099609 C 94.201808 85.09961 99.655828 79.811706 100.0293 73.248047 A 3.5 3.5 0 0 0 100.09961 72.550781 A 3.5 3.5 0 0 0 100.0293 71.853516 C 99.703148 66.117079 95.495014 61.35586 90 60.246094 L 90 39.853516 C 95.494878 38.744081 99.702909 33.984262 100.0293 28.248047 A 3.5 3.5 0 0 0 100.09961 27.550781 A 3.5 3.5 0 0 0 100.0293 26.853516 C 99.656101 20.289604 94.201991 15 87.550781 15 C 81.534133 15 76.454445 19.317435 75.263672 25 L 24.769531 25 C 23.580232 19.323959 18.561251 15.000001 12.550781 15 z M 12.550781 22 C 15.657411 22 18.099609 24.444151 18.099609 27.550781 C 18.099609 30.657411 15.657411 33.099609 12.550781 33.099609 C 9.444151 33.099609 6.9999999 30.657412 7 27.550781 C 6.9999999 24.444151 9.444151 22 12.550781 22 z M 87.550781 22 C 90.657412 22 93.099609 24.444151 93.099609 27.550781 C 93.099609 30.657412 90.657412 33.099609 87.550781 33.099609 C 84.444151 33.099609 82 30.657412 82 27.550781 C 82 24.444151 84.444151 22 87.550781 22 z M 24.216797 32 L 75.837891 32 C 77.103663 35.294311 79.718702 37.931586 83 39.224609 L 83 60.875 C 79.752203 62.155195 77.155195 64.752203 75.875 68 L 24.175781 68 C 22.890876 64.723531 20.277796 62.105629 17 60.837891 L 17 39.261719 C 20.311799 37.981156 22.94656 35.323812 24.216797 32 z M 12.550781 67 C 15.657411 67 18.099609 69.444151 18.099609 72.550781 C 18.099609 75.657411 15.657411 78.099609 12.550781 78.099609 C 9.444151 78.099609 6.9999999 75.657412 7 72.550781 C 6.9999999 69.444151 9.444151 67 12.550781 67 z M 87.550781 67 C 90.657412 67 93.099609 69.444151 93.099609 72.550781 C 93.099609 75.657412 90.657412 78.099609 87.550781 78.099609 C 84.444151 78.099609 82 75.657412 82 72.550781 C 82 69.444151 84.444151 67 87.550781 67 z "
+     style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#000080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:188.976;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000"
+     id="path910" />
+</svg>

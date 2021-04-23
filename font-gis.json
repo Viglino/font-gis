@@ -23,11 +23,11 @@
     "fg-rectangle": { "font": "font-gis", "name": "rectangle", "code": 59920, "theme": "geometry", "search": "", "date": "2021-04-15" },
     "fg-square": { "font": "font-gis", "name": "square", "code": 59921, "theme": "geometry", "search": "", "date": "2021-04-15" },
     "fg-circle": { "font": "font-gis", "name": "circle", "code": 59922, "theme": "geometry", "search": "", "date": "2021-04-15" },
-    "fg-poi": { "font": "font-gis", "name": "poi", "code": 59926, "theme": "poi", "search": "", "date": "2021-04-15" },
-    "fg-poi-alt": { "font": "font-gis", "name": "poi-alt", "code": 59927, "theme": "poi", "search": "", "date": "2021-04-15" },
     "fg-measure": { "font": "font-gis", "name": "measure", "code": 59912, "theme": "measure", "search": "", "date": "2021-04-15" },
     "fg-measure-line": { "font": "font-gis", "name": "measure-line", "code": 59923, "theme": "measure", "search": "", "date": "2021-04-15" },
     "fg-measure-area": { "font": "font-gis", "name": "measure-area", "code": 59924, "theme": "measure", "search": "", "date": "2021-04-15" },
-    "fg-measure-area-alt": { "font": "font-gis", "name": "measure-area-alt", "code": 59925, "theme": "measure", "search": "", "date": "2021-04-15" }
+    "fg-measure-area-alt": { "font": "font-gis", "name": "measure-area-alt", "code": 59925, "theme": "measure", "search": "", "date": "2021-04-15" },
+    "fg-poi": { "font": "font-gis", "name": "poi", "code": 59926, "theme": "poi", "search": "", "date": "2021-04-15" },
+    "fg-poi-alt": { "font": "font-gis", "name": "poi-alt", "code": 59927, "theme": "poi", "search": "", "date": "2021-04-15" }
   }
 }

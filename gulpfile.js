@@ -77,7 +77,10 @@ function mapGlyphs (glyph) {
 gulp.task('resname', function(){
   return gulp.src(['svg/**/u*.svg'])
     .pipe(rename(function (path) {
+      path.dirname = '';
       path.basename = path.basename.replace(/u([^-]*)-/,'');
     }))
     .pipe(gulp.dest("./dist"));
 });
+
+gulp.task("default", gulp.parallel("Iconfont", "resname"));

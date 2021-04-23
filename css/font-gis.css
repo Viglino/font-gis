@@ -62,9 +62,9 @@
 .fg-rectangle:before { content: "\ea10"; }
 .fg-square:before { content: "\ea11"; }
 .fg-circle:before { content: "\ea12"; }
-.fg-poi:before { content: "\ea16"; }
-.fg-poi-alt:before { content: "\ea17"; }
 .fg-measure:before { content: "\ea08"; }
 .fg-measure-line:before { content: "\ea13"; }
 .fg-measure-area:before { content: "\ea14"; }
-.fg-measure-area-alt:before { content: "\ea15"; }
+.fg-measure-area-alt:before { content: "\ea15"; }
+.fg-poi:before { content: "\ea16"; }
+.fg-poi-alt:before { content: "\ea17"; }
