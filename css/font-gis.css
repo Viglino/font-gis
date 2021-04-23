@@ -45,6 +45,11 @@
   text-align: center;
 }
 
+.fg-arrow-o:before { content: "\ea3a"; }
+.fg-arrow:before { content: "\ea3b"; }
+.fg-modify-line:before { content: "\ea3c"; }
+.fg-modify-poly:before { content: "\ea3d"; }
+.fg-modify-poly-o:before { content: "\ea40"; }
 .fg-point:before { content: "\ea01"; }
 .fg-polyline-pt:before { content: "\ea02"; }
 .fg-polygon-pt:before { content: "\ea03"; }
@@ -84,11 +89,20 @@
 .fg-globe-o:before { content: "\ea37"; }
 .fg-globe-alt:before { content: "\ea38"; }
 .fg-globe-alt-o:before { content: "\ea39"; }
-.fg-arrow-o:before { content: "\ea3a"; }
-.fg-arrow:before { content: "\ea3b"; }
-.fg-modify-line:before { content: "\ea3c"; }
-.fg-modify-poly:before { content: "\ea3d"; }
-.fg-modify-poly-o:before { content: "\ea40"; }
+.fg-layer:before { content: "\ea41"; }
+.fg-layer-o:before { content: "\ea42"; }
+.fg-layers:before { content: "\ea43"; }
+.fg-layers-o:before { content: "\ea44"; }
+.fg-layer-up:before { content: "\ea45"; }
+.fg-layer-down:before { content: "\ea46"; }
+.fg-layer-alt:before { content: "\ea47"; }
+.fg-layer-alt-o:before { content: "\ea48"; }
+.fg-layer-stack:before { content: "\ea49"; }
+.fg-layer-stack-o:before { content: "\ea4a"; }
+.fg-measure:before { content: "\ea08"; }
+.fg-measure-line:before { content: "\ea13"; }
+.fg-measure-area:before { content: "\ea14"; }
+.fg-measure-area-alt:before { content: "\ea15"; }
 .fg-help-larrow:before { content: "\ea3e"; }
 .fg-help-rarrow:before { content: "\ea3f"; }
 .fg-poi:before { content: "\ea16"; }
@@ -104,8 +118,4 @@
 .fg-poi-home:before { content: "\ea20"; }
 .fg-poi-home-o:before { content: "\ea21"; }
 .fg-poi-earth:before { content: "\ea34"; }
-.fg-pin-earth:before { content: "\ea35"; }
-.fg-measure:before { content: "\ea08"; }
-.fg-measure-line:before { content: "\ea13"; }
-.fg-measure-area:before { content: "\ea14"; }
-.fg-measure-area-alt:before { content: "\ea15"; }
+.fg-pin-earth:before { content: "\ea35"; }
