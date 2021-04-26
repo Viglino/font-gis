@@ -21,7 +21,7 @@ Then use an inline element with a class prefixed with `fg-` to add a new icon.
 <i class="fg-poi"></i> <!-- prefix: fg and - icon name: poi -->
 <span class="fg-polyline-pt"></span> <!-- using a <span> is more semantically correct but a little bit verbose. -->
 ```
-Or use it as an image (svg are in the `./dist` folder):
+Or use it as an svg sprite (svg sprites are inlocated in the `./dist/font-gis.svg` file):
 ```html
 <svg class="font-gis fg-3x"><use xlink:href="path/to/dist/font-gis.svg#fg-polyline-pt" /></svg>
 ```
