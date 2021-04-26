@@ -50,6 +50,9 @@
 .fg-modify-line:before { content: "\ea3c"; }
 .fg-modify-poly:before { content: "\ea3d"; }
 .fg-modify-poly-o:before { content: "\ea40"; }
+.fg-copy-point:before { content: "\ea4f"; }
+.fg-copy-line:before { content: "\ea50"; }
+.fg-copy-poly:before { content: "\ea51"; }
 .fg-point:before { content: "\ea01"; }
 .fg-polyline-pt:before { content: "\ea02"; }
 .fg-polygon-pt:before { content: "\ea03"; }
@@ -67,6 +70,7 @@
 .fg-rectangle:before { content: "\ea10"; }
 .fg-square:before { content: "\ea11"; }
 .fg-circle:before { content: "\ea12"; }
+.fg-multipoint:before { content: "\ea52"; }
 .fg-earth:before { content: "\ea22"; }
 .fg-earth-euro-africa:before { content: "\ea23"; }
 .fg-earth-atlantic:before { content: "\ea24"; }
@@ -101,6 +105,19 @@
 .fg-layer-stack-o:before { content: "\ea4a"; }
 .fg-layer-add:before { content: "\ea4b"; }
 .fg-layer-add-o:before { content: "\ea4c"; }
+.fg-layer-rm:before { content: "\ea4d"; }
+.fg-layer-rm-o:before { content: "\ea4e"; }
+.fg-map:before { content: "\ea53"; }
+.fg-map-o:before { content: "\ea54"; }
+.fg-map-poi:before { content: "\ea55"; }
+.fg-world-map:before { content: "\ea56"; }
+.fg-map-route:before { content: "\ea57"; }
+.fg-road-map:before { content: "\ea58"; }
+.fg-cadastre-map:before { content: "\ea59"; }
+.fg-landcover-map:before { content: "\ea5a"; }
+.fg-bus-map:before { content: "\ea5b"; }
+.fg-contour-map:before { content: "\ea5c"; }
+.fg-hydro-map:before { content: "\ea5d"; }
 .fg-measure:before { content: "\ea08"; }
 .fg-measure-line:before { content: "\ea13"; }
 .fg-measure-area:before { content: "\ea14"; }
