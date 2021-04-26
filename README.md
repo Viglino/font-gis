@@ -23,9 +23,9 @@ Then use an inline element with a class prefixed with `fg-` to add a new icon.
 ```
 Or use it as an image (svg are in the `./dist` folder):
 ```html
-<img src="[path-to-svg]/poi.svg" />
+<svg class="font-gis fg-3x"><use xlink:href="path/to/dist/font-gis.svg#fg-polyline-pt" /></svg>
 ```
-<img src="https://github.com/Viglino/font-gis/blob/main/dist/poi.svg" height="30" />
+<img src="https://github.com/Viglino/font-gis/blob/main/svg/geom/uEA03-polygon-pt.svg" height="30" />
 
 ## Contributing
 Please use the [GitHub issue tracker](https://github.com/Viglino/font-gis/issues) to ask for new features 

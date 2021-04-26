@@ -84,5 +84,45 @@ gulp.task('resname', function(){
 });
 
 /** Use svgstore to combine svg ? */
+var svgstore = require('gulp-svgstore');
+var svgmin = require('gulp-svgmin');
+var cheerio = require('gulp-cheerio');
 
-gulp.task("default", gulp.parallel("Iconfont", "resname"));
+gulp.task('store', function(){
+  return gulp.src(['svg/**/u*.svg'])
+    .pipe(rename(function (path) {
+      path.dirname = '';
+      path.basename = 'fg-' + path.basename.replace(/u([^-]*)-/,'');
+    }))
+    .pipe(svgmin({
+      plugins: [{
+        removeAttrs: {attrs: '(stroke|fill|style|color|font-weight|font-family|stroke-width)'},
+        removeViewBox: false,
+        addAttributesToSVGElement: {
+          attributes: [
+            { 
+              fill: 'currentColor' 
+            }, { 
+              'aria-hidden': true 
+            }
+          ]
+        }
+      }]
+    }))
+    .pipe(svgstore())
+    .pipe(cheerio({
+      run: function ($) {
+        $('svg').attr('style',  'display:none');
+        $('symbol').attr('fill',  'currentColor');
+        $('symbol').attr('viewBox',  '0 0 100 100');
+        $('symbol').attr('aria-hidden',  'true');
+      },
+      parserOptions: { xmlMode: true }
+    }))
+    .pipe(rename(function (path) {
+      path.basename = 'font-gis';
+    }))
+    .pipe(gulp.dest('./dist'));
+});
+
+gulp.task("default", gulp.parallel("Iconfont", "store"));

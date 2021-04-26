@@ -26,10 +26,13 @@
   "devDependencies": {
     "async": "^3.2.0",
     "gulp": "^4.0.2",
+    "gulp-cheerio": "^1.0.0",
     "gulp-consolidate": "^0.2.0",
     "gulp-iconfont": "^11.0.0",
     "gulp-iconfont-css": "^3.0.0",
     "gulp-rename": "^2.0.0",
+    "gulp-svgmin": "^3.0.0",
+    "gulp-svgstore": "^7.0.1",
     "live-server": "^1.2.1"
   },
   "dependencies": {}

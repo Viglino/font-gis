@@ -10,6 +10,11 @@
   font-style: normal;
 }
 
+.font-gis {
+  width: 1em;
+  height: 1em;
+}
+
 [class^="<%= className %>-"]:before, [class*="<%= className %>-"]:before {
   font-family: "<%= fontName %>";
   font-style: normal;

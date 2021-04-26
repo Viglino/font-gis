@@ -10,6 +10,11 @@
   font-style: normal;
 }
 
+.font-gis {
+  width: 1em;
+  height: 1em;
+}
+
 [class^="fg-"]:before, [class*="fg-"]:before {
   font-family: "font-gis";
   font-style: normal;
