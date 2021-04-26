@@ -32,6 +32,7 @@ gulp.task('Iconfont', function(done){
           className,
           fontName,
           fontPath: '../fonts/', // set path to font (from your CSS file if relative)
+          dtime: (new Date()).getTime(),
           glyphs: glyphs.map(mapGlyphs),
           author: pack.author.name,
           git: pack.author.name,
@@ -96,7 +97,8 @@ gulp.task('store', function(){
     }))
     .pipe(svgmin({
       plugins: [{
-        removeAttrs: {attrs: '(stroke|fill|style|color|font-weight|font-family|stroke-width)'},
+        removeAttrs: {attrs: '(stroke|fill|style|color|font-weight|font-family|stroke-width)'}
+        /* not working...
         removeViewBox: false,
         addAttributesToSVGElement: {
           attributes: [
@@ -107,6 +109,7 @@ gulp.task('store', function(){
             }
           ]
         }
+        */
       }]
     }))
     .pipe(svgstore())

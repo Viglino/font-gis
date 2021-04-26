@@ -1,10 +1,10 @@
 @font-face {
   font-family: "<%= fontName %>";
-  src: url('<%= fontPath %><%= fontName %>.eot');
+  src: url('<%= fontPath %><%= fontName %>.eot?t=<%= dtime %>');
   src: url('<%= fontPath %><%= fontName %>.eot?#iefix') format('eot'),
-    url('<%= fontPath %><%= fontName %>.woff2') format('woff2'),
-    url('<%= fontPath %><%= fontName %>.woff') format('woff'),
-    url('<%= fontPath %><%= fontName %>.ttf') format('truetype'),
+    url('<%= fontPath %><%= fontName %>.woff2?t=<%= dtime %>') format('woff2'),
+    url('<%= fontPath %><%= fontName %>.woff?t=<%= dtime %>') format('woff'),
+    url('<%= fontPath %><%= fontName %>.ttf?t=<%= dtime %>') format('truetype'),
     url('<%= fontPath %><%= fontName %>.svg#<%= fontName %>') format('svg');
   font-weight: normal;
   font-style: normal;

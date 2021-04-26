@@ -1,21 +1,111 @@
 ﻿<!DOCTYPE html>
 <html>
 <head>
-  <title>FontSymbol defs</title>
+  <title>Font-GIS</title>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 
-  <link href="css/font-gis.css" rel="stylesheet" />
+	<meta name="description" content="Icon font and SVG for use with GIS and spatial analysis tools." />
+	<meta name="keywords" content="svg,font,icons,geo,map,gis,geospacial" />
+  <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1" />
+
+  <link href="css/font-gis.css?" rel="stylesheet" />
   <link href="./index.css" rel="stylesheet" />
-  
+  <!--
+    Code highlighting https://tohtml.com/ style Bred3
+  -->
 </head>
 <body>
   <a href="https://github.com/Viglino/font-gis" class="icss-github-corner"><i></i></a>
   <div id="header">
     <h1>Font-gis</h1>
     <p>SVG icons and font to use with GIS and spatial analysis tools</p>
+    <ul>
+      <li class='fg' onclick="showPage('fg')">
+        Font-GIS
+      </li><li class='icons' onclick="showPage('icons')">
+        Icons
+      </li><li class='example' onclick="showPage('example')">
+        Examples
+      </li>
+    </ul>
   </div>
 
-  <div id="content">
+  <div data-page="fg">
+    <h2>What is Font-GIS?</h2>
+    <i class="fg fg-globe fg-5x"></i>
+    <p>
+      Font-GIS is a set of icons and graphics I've been using in my projects. 
+      <br/>
+      Font-GIS icons and font theme is designed mainly for GIS applications and web mapping tools.
+      Feel free to use it in your commercial projects or open source projects, 
+      or really almost whatever you want. Font-GIS is free, open source, and GPL friendly!
+    </p>
+
+    <h2>How to use it?</h2>
+    <p>
+      You can use Font-GIS as a font or as SVG symbols or images.
+    </p>
+    <p>
+      To use it in a web page, just add the css in your project.
+    </p>
+<pre style="width: 100%; color:#000000;background:#f1f0f0;"><span style="color:#a65700; ">&lt;</span><span style="color:#400000; font-weight:bold; ">link</span><span style="color:#074726; "> </span><span style="color:#074726; ">href</span><span style="color:#806030; ">=</span><span style="color:#e60000; ">"https://viglino.github.io/font-gis/css/font-gis.css"</span><span style="color:#074726; "> </span><span style="color:#074726; ">rel</span><span style="color:#806030; ">=</span><span style="color:#e60000; ">"stylesheet"</span><span style="color:#074726; "> </span><span style="color:#a65700; ">/&gt;</span></pre>
+          
+    <p>
+      Then use an inline element with a class prefixed with fg- to add a new icon.
+    </p>
+<pre style="color:#000000;background:#f1f0f0;"><span style="color:#a65700; ">&lt;</span><span style="color:#400000; font-weight:bold; ">i</span><span style="color:#074726; "> </span><span style="color:#074726; ">class</span><span style="color:#806030; ">=</span><span style="color:#e60000; ">"fg-poi"</span><span style="color:#a65700; ">&gt;</span><span style="color:#a65700; ">&lt;/</span><span style="color:#400000; font-weight:bold; ">i</span><span style="color:#a65700; ">&gt;</span></pre>
+    <i class="fg-poi fg-2x"></i> 
+
+    <p>
+      Using a &lt;span&gt; is more semantically correct but a little bit verbose.
+    </p>
+<pre style="color:#000000;background:#f1f0f0;"><span style="color:#a65700; ">&lt;</span><span style="color:#400000; font-weight:bold; ">span</span><span style="color:#074726; "> </span><span style="color:#074726; ">class</span><span style="color:#806030; ">=</span><span style="color:#e60000; ">"fg-polyline-pt"</span><span style="color:#a65700; ">&gt;</span><span style="color:#a65700; ">&lt;/</span><span style="color:#400000; font-weight:bold; ">span</span><span style="color:#a65700; ">&gt;</span></pre>
+    <span class="fg-polyline-pt fg-2x"></span> 
+
+      
+    <p>
+      Or use it as an svg sprite (svg sprites are inlocated in the ./dist/font-gis.svg file):
+    </p>
+<pre style="color:#000000;background:#f1f0f0;"><span style="color:#a65700; ">&lt;</span><span style="color:#5f5035; ">svg</span> <span style="color:#074726; ">class</span><span style="color:#806030; ">=</span><span style="color:#800000; ">"</span><span style="color:#e60000; ">font-gis fg-2x</span><span style="color:#800000; ">"</span><span style="color:#a65700; ">&gt;</span>
+  <span style="color:#a65700; ">&lt;</span><span style="color:#5f5035; ">use</span> <span style="color:#007997; ">xlink</span><span style="color:#806030; ">:</span><span style="color:#074726; ">href</span><span style="color:#806030; ">=</span><span style="color:#800000; ">"</span><span style="color:#e60000; ">path/to/dist/font-gis.svg#fg-polyline-pt</span><span style="color:#800000; ">"</span> <span style="color:#a65700; ">/&gt;</span>
+<span style="color:#a65700; ">&lt;/</span><span style="color:#5f5035; ">svg</span><span style="color:#a65700; ">&gt;</span>
+</pre>
+    <svg class="font-gis fg-2x">
+      <use xlink:href="./dist/font-gis.svg#fg-polyline-pt" />
+    </svg>
+
+  </div>
+
+  <div data-page="icons">
+    <div id="icon">
+      <div>
+        <i class="fg-poi fg-5x"></i>
+        <i class="fg-poi fg-4x"></i>
+        <i class="fg-poi fg-3x"></i>
+        <i class="fg-poi fg-2x"></i>
+        <i class="fg-poi fg-1x"></i>
+        <br/>
+        <h2>fg-poi</h2>
+        <p>
+          Unicode: <span class="code"></span>
+          -
+          Theme: <span class="theme"></span>
+        </p>
+      </div>
+    </div>
+    <div id="search">
+      <div>
+        <i class="fg-search-map"></i>
+        <input type="search" placeholder="search icon..." />
+        <span class="nb"></span> icons
+      </div>
+    </div>
+    <div id="content">
+    </div>
+  </div>
+  <div data-page="svg">
+    <div id="content">
+    </div>
   </div>
 
   <div id="footer">

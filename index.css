@@ -8,12 +8,43 @@ html, body {
 
 #header > *,
 #footer > *,
-#content {
+#content,
+#search > div,
+#icon > div,
+[data-page] {
+  position: relative;
   max-width: 800px;
   margin-left: auto;
   margin-right: auto;
   display: block;
   padding: 0 16px;
+}
+
+#header ul {
+  margin-bottom: 0;
+  padding: 0;
+  list-style: none;
+}
+#header li {
+  display: inline-block;
+  cursor: pointer;
+  padding: .5em;
+  margin: 0 0 0 .2em;
+  border-radius: .25em .25em 0 0;
+}
+#header li:hover {
+  background-color: rgba(0,0,128,.2);
+}
+#header li.selected {
+  background-color: rgba(0,0,128,.4);
+}
+
+pre {
+  padding: .5em 1em;
+  margin: 0 0 .5em;
+  width: 80%;
+  float: right;
+  box-sizing: border-box;
 }
 
 #header,
@@ -50,6 +81,7 @@ h1 {
 
 #footer {
   margin-top: 1em;
+  clear: both;
 }
 #footer a {
   color: #fff;
@@ -59,6 +91,93 @@ h1 {
   float: right;
   border-radius: 3px;
   background: #2a8;
+}
+
+[data-page="fg"] h2 {
+  margin: 1em 0 0;
+}
+[data-page="fg"] img {
+  float: left;
+  width: 6em;
+  margin-right: 1em;
+}
+[data-page="fg"] .fg-5x {
+  float: left;
+  margin-right: .2em;
+}
+
+[data-page="icons"] {
+  max-width: 100%;
+}
+#icon {
+  background-color: #ccc;
+  margin: 0 -1em;
+}
+#search {
+  background-color: #eee;
+  margin: 0 -1em;
+}
+#icon > div {
+  padding: 0 2em;
+  box-sizing: border-box;
+  overflow: hidden;
+  white-space: nowrap;
+}
+#icon h2 {
+  margin: .5em;
+  display: inline-block;
+}
+#icon p {
+  margin: .25em 0 .5em 0;
+  display: inline-block;
+}
+#icon > div i {
+  margin-right: 10px;
+  line-height: 1em;
+}
+#icon > div i:nth-child(1) {
+  font-size: 10em;
+}
+#icon > div i:nth-child(2) {
+  font-size: 7.5em;
+}
+#icon > div i:nth-child(3) {
+  font-size: 5em;
+}
+#icon > div i:nth-child(4) {
+  font-size: 2.5em;
+}
+#icon > div i:nth-child(5) {
+  font-size: 20px;
+}
+
+#search > div {
+  padding: 1em;
+  font-size: 1.5em;
+}
+#search > div > i {
+  font-size: 1.2em;
+  position: absolute;
+  color: #aaa;
+  top: 50%;
+  left: 1.25em;
+  transform: translateY(-50%);
+}
+
+#search input {
+  outline: none;
+  font-size: 1em;
+  border: 3px solid #ccc;
+  border-radius: 0.3em;
+  color: #666;
+  padding: 0.1em 0.5em 0.1em 2em;
+  margin-right: .5em;
+}
+#search input:focus {
+  border-color: orange;
+}
+::placeholder {
+  color: #ccc;
 }
 
 

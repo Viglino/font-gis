@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="uEA62-search-address.svg"
+   id="svg4460"
+   height="100"
+   width="100"
+   version="1.1">
+  <sodipodi:namedview
+     inkscape:document-rotation="0"
+     inkscape:current-layer="svg4460"
+     inkscape:window-maximized="1"
+     inkscape:window-y="-8"
+     inkscape:window-x="-8"
+     inkscape:cy="30.682757"
+     inkscape:cx="54.539175"
+     inkscape:zoom="8.0000002"
+     showgrid="false"
+     id="namedview11"
+     inkscape:window-height="1017"
+     inkscape:window-width="1920"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <defs
+     id="defs4462" />
+  <metadata
+     id="metadata4465">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     id="path877-7"
+     style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#000080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:8.26787;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:20;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000"
+     d="m 37.179831,6.609878e-5 c -9.530233,0 -19.061096,3.62359560122 -26.308594,10.87109390122 -14.4949968,14.494996 -14.4949968,38.122191 0,52.617187 13.568165,13.568166 35.097661,14.366388 49.685547,2.527344 l 3.576171,3.576172 a 3.9563019,5.9576969 45 0 0 0.646485,3.613281 L 90.730612,99.156316 A 3.9563019,5.9576969 45 0 0 97.740377,97.7403 3.9563019,5.9576969 45 0 0 99.156393,90.730535 L 73.205221,64.779363 A 3.9563019,5.9576969 45 0 0 69.589987,64.132878 L 66.013815,60.556707 C 77.853191,45.968899 77.056669,24.439405 63.488424,10.87116 56.240926,3.6236617 46.710063,6.609878e-5 37.179831,6.609878e-5 Z m 0,8.21679690122 c 7.397091,10e-8 14.795171,2.834234 20.46289,8.501953 11.335439,11.33544 11.335439,29.588389 0,40.923828 -11.335439,11.335439 -29.588388,11.335439 -40.923828,0 -11.3354393,-11.335439 -11.3354393,-29.588388 0,-40.923828 5.66772,-5.66772 13.063846,-8.5019531 20.460938,-8.501953 z" />
+  <path
+     sodipodi:nodetypes="cccccccccccccc"
+     style="fill:#000080;stroke-width:3.86538"
+     d="m 37.474791,17.240817 c 0.294922,-6.58e-4 0.579639,0.107927 0.799226,0.304805 l 18.795095,15.236682 c 0.816415,0.73098 0.298383,1.146116 -0.797457,1.144739 h -4.853836 v 19.259394 c -3.39e-4,0.658533 -0.5341,1.192295 -1.192633,1.192636 H 24.727934 c -0.658536,-3.36e-4 -1.192303,-0.534099 -1.192642,-1.192636 V 33.927043 h -4.853836 c -1.095835,0.0014 -1.613861,-0.413762 -0.797448,-1.144739 L 36.679103,17.545622 c 0.218679,-0.196063 0.501985,-0.30459 0.795688,-0.304805 z"
+     id="path849" />
+</svg>

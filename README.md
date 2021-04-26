@@ -2,7 +2,8 @@
 *Icon font set for use with GIS and spatial analysis tools*
 
 I've collected in this repo icons and graphics I've been using in my projects.
-Font-GIS icons and font theme is designed mainly for GIS applications and web map tools. 
+Font-GIS icons and font theme is designed mainly for GIS applications and web mapping tools. 
+They can be easily included in a project using te font or svg images.
 
 ## Getting started
 

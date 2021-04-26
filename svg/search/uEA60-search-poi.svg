@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="100"
+   height="100"
+   id="svg4460"
+   sodipodi:docname="search-poi.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     id="namedview11"
+     showgrid="false"
+     inkscape:zoom="2.8284272"
+     inkscape:cx="-8.0909857"
+     inkscape:cy="1.0453547"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4460"
+     inkscape:document-rotation="0" />
+  <defs
+     id="defs4462" />
+  <metadata
+     id="metadata4465">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     d="M 35.001953 0 C 15.763603 0 0 15.718951 0 34.902344 C 0 42.335124 2.3744581 49.240855 6.3925781 54.919922 L 30.730469 96.994141 C 34.138959 101.44696 36.404181 100.6015 39.238281 96.759766 L 49.464844 79.355469 C 45.456397 77.374941 41.829879 74.468408 38.9375 70.669922 C 34.976853 65.468507 32.988446 59.386111 32.837891 53.314453 C 23.519889 52.2614 16.400391 44.500231 16.400391 34.902344 C 16.400391 24.572631 24.642653 16.353516 35.001953 16.353516 C 41.737924 16.353516 47.559652 19.840916 50.820312 25.111328 C 56.282759 22.734133 62.236599 22.095719 67.917969 23.09375 C 63.033211 9.6687987 50.089862 -3.7150116e-15 35.001953 0 z "
+     style="fill:#000080;stroke-width:4.26019"
+     id="path4135-0" />
+  <path
+     d="m 66.128569,27.495129 c -6.421938,-0.869687 -13.174974,0.702324 -18.720069,4.924668 -11.09019,8.444688 -13.246305,24.36585 -4.801617,35.45604 7.904723,10.381067 22.339511,12.883637 33.249923,6.237136 l 2.083453,2.736146 a 2.6902856,4.0512343 52.712333 0 0 0.105901,2.493801 l 15.118981,19.855364 a 2.6902856,4.0512343 52.712333 0 0 4.852742,-0.314501 2.6902856,4.0512343 52.712333 0 0 1.593862,-4.594303 L 84.492765,74.434116 A 2.6902856,4.0512343 52.712333 0 0 82.115638,73.668572 L 80.032184,70.932427 C 89.341356,62.182857 90.769309,47.602542 82.86454,37.221414 78.642196,31.676319 72.550507,28.364817 66.128569,27.495129 Z M 65.37874,33.03201 c 4.984523,0.675026 9.711072,3.259989 13.013047,7.596387 6.603951,8.672799 4.938266,20.97253 -3.734531,27.576482 C 65.984458,74.80883 53.684726,73.143145 47.080774,64.470347 40.476823,55.79755 42.142508,43.497818 50.815306,36.893866 55.151705,33.59189 60.394217,32.356983 65.37874,33.03201 Z"
+     style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#000080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5.62215;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:20;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000"
+     id="path877-7" />
+</svg>
