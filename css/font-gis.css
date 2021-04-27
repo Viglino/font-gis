@@ -1,10 +1,10 @@
 @font-face {
   font-family: "font-gis";
-  src: url('../fonts/font-gis.eot?t=1619535948310');
+  src: url('../fonts/font-gis.eot?t=1619540058154');
   src: url('../fonts/font-gis.eot?#iefix') format('eot'),
-    url('../fonts/font-gis.woff2?t=1619535948310') format('woff2'),
-    url('../fonts/font-gis.woff?t=1619535948310') format('woff'),
-    url('../fonts/font-gis.ttf?t=1619535948310') format('truetype'),
+    url('../fonts/font-gis.woff2?t=1619540058154') format('woff2'),
+    url('../fonts/font-gis.woff?t=1619540058154') format('woff'),
+    url('../fonts/font-gis.ttf?t=1619540058154') format('truetype'),
     url('../fonts/font-gis.svg#font-gis') format('svg');
   font-weight: normal;
   font-style: normal;
@@ -139,6 +139,7 @@
 .fg-world-map:before { content: "\ea68"; }
 .fg-pirate-map:before { content: "\ea6b"; }
 .fg-story-map:before { content: "\ea6d"; }
+.fg-map-book:before { content: "\ea7a"; }
 .fg-measure:before { content: "\ea08"; }
 .fg-measure-line:before { content: "\ea13"; }
 .fg-measure-area:before { content: "\ea14"; }

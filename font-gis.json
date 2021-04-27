@@ -95,6 +95,7 @@
     "fg-world-map": { "font": "font-gis", "name": "world-map", "code": 60008, "theme": "map", "search": "", "date": "2021-04-25" , "order": 9849510 },
     "fg-pirate-map": { "font": "font-gis", "name": "pirate-map", "code": 60011, "theme": "map", "search": "", "date": "2021-04-27" , "order": 10062717 },
     "fg-story-map": { "font": "font-gis", "name": "story-map", "code": 60013, "theme": "map", "search": "", "date": "2021-04-27" , "order": 10065399 },
+    "fg-map-book": { "font": "font-gis", "name": "map-book", "code": 60026, "theme": "map", "search": "", "date": "2021-04-27" , "order": 10076992 },
     "fg-measure": { "font": "font-gis", "name": "measure", "code": 59912, "theme": "measure", "search": "", "date": "2021-04-15" , "order": 8985600 },
     "fg-measure-line": { "font": "font-gis", "name": "measure-line", "code": 59923, "theme": "measure", "search": "", "date": "2021-04-15" , "order": 8985600 },
     "fg-measure-area": { "font": "font-gis", "name": "measure-area", "code": 59924, "theme": "measure", "search": "", "date": "2021-04-15" , "order": 8985600 },
