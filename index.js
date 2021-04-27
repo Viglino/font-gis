@@ -94,6 +94,7 @@ $.ajax({
       geometry: [],
       search: [],
       measure: [],
+      routing: [],
       layer: [],
       poi: [],
       map: [],
