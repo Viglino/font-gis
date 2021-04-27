@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="100"
+   height="100"
+   id="svg4460"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="uEA6F-difference.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     id="namedview11"
+     showgrid="false"
+     inkscape:zoom="3.805"
+     inkscape:cx="-22.039536"
+     inkscape:cy="52.185994"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4460"
+     inkscape:document-rotation="0" />
+  <defs
+     id="defs4462" />
+  <metadata
+     id="metadata4465">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     d="M 65.453125 10.826172 L 65.400391 15.826172 C 68.473113 15.859852 71.543982 16.374927 74.458984 17.345703 L 76.039062 12.601562 C 72.628644 11.465803 69.046879 10.86556 65.453125 10.826172 z M 60.087891 11.177734 C 56.534188 11.685526 53.064722 12.738399 49.828125 14.296875 L 51.998047 18.802734 C 54.76822 17.468849 57.751053 16.564126 60.796875 16.128906 L 60.087891 11.177734 z M 80.996094 14.6875 L 78.712891 19.134766 C 81.452805 20.542004 83.980809 22.366164 86.160156 24.529297 L 89.681641 20.980469 C 87.128826 18.446646 84.185888 16.325801 80.996094 14.6875 z M 35 19.125 C 15.699645 19.125 0 34.824645 0 54.125 C 0 73.425355 15.699645 89.125 35 89.125 C 43.934135 89.125 52.086741 85.750752 58.275391 80.220703 C 58.279891 80.221586 58.284592 80.221756 58.289062 80.222656 C 58.354372 80.164316 58.415618 80.101798 58.480469 80.042969 C 58.522469 80.004849 58.563649 79.966049 58.605469 79.927734 C 59.014784 79.552715 59.413991 79.167506 59.804688 78.773438 C 59.880648 78.696947 59.955986 78.620148 60.03125 78.542969 C 60.384412 78.180122 60.729061 77.809457 61.066406 77.431641 C 61.148816 77.339541 61.233006 77.249223 61.314453 77.15625 C 61.712827 76.700632 62.103195 76.237351 62.478516 75.761719 C 61.996891 75.721809 61.517793 75.669689 61.042969 75.607422 C 60.724623 75.565702 60.410767 75.512502 60.095703 75.460938 C 59.938322 75.435158 59.779586 75.414929 59.623047 75.386719 C 59.158247 75.302979 58.697257 75.208316 58.240234 75.103516 C 57.842344 75.012276 57.448265 74.909566 57.056641 74.802734 C 56.992491 74.785234 56.927257 74.769863 56.863281 74.751953 C 44.234032 71.215907 35 59.650854 35 45.875 C 35 37.778297 38.197978 30.451761 43.392578 25.0625 C 43.544248 24.905038 43.698492 24.749799 43.853516 24.595703 C 44.084364 24.366424 44.318453 24.141633 44.556641 23.919922 C 44.718889 23.768767 44.881299 23.618255 45.046875 23.470703 C 45.295668 23.249171 45.550505 23.033573 45.806641 22.820312 C 45.964671 22.688658 46.120468 22.55422 46.28125 22.425781 C 46.696352 22.094335 47.118063 21.770382 47.550781 21.460938 C 47.063584 21.2731 46.571332 21.09622 46.074219 20.929688 C 45.615336 20.775962 45.15059 20.631196 44.683594 20.496094 C 44.673894 20.493294 44.663977 20.491081 44.654297 20.488281 C 44.367417 20.405561 44.076919 20.33336 43.787109 20.257812 C 43.571646 20.201743 43.357694 20.139901 43.140625 20.087891 C 42.792425 20.004241 42.440004 19.932508 42.087891 19.859375 C 41.9617 19.833285 41.837635 19.802054 41.710938 19.777344 L 41.708984 19.779297 C 39.537293 19.353413 37.295151 19.125 35 19.125 z M 93.199219 25.052734 L 89.171875 28.019531 C 90.995394 30.494133 92.436862 33.257579 93.423828 36.169922 L 98.160156 34.564453 C 97.007365 31.16279 95.330693 27.945244 93.199219 25.052734 z M 99.494141 39.769531 L 94.570312 40.640625 C 95.105688 43.669017 95.173462 46.784801 94.763672 49.830078 L 99.71875 50.496094 C 100.19809 46.934028 100.11931 43.305863 99.494141 39.769531 z M 93.798828 54.337891 C 92.927039 57.283298 91.588045 60.100885 89.863281 62.652344 L 94.005859 65.453125 C 96.014293 62.482035 97.571369 59.205409 98.591797 55.757812 L 93.798828 54.337891 z M 86.996094 66.265625 C 84.908169 68.518097 82.46183 70.444388 79.783203 71.953125 L 82.234375 76.310547 C 85.364436 74.547541 88.217636 72.301183 90.662109 69.664062 L 86.996094 66.265625 z M 75.601562 73.904297 C 72.722661 74.988267 69.669942 75.627981 66.599609 75.791016 L 66.865234 80.783203 C 70.452265 80.592734 74.003239 79.849112 77.363281 78.583984 L 75.601562 73.904297 z "
+     style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#000080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:50;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000"
+     id="path848" />
+</svg>

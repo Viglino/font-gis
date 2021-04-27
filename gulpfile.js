@@ -68,8 +68,10 @@ function mapGlyphs (glyph) {
     resp.theme = glyph.theme;
     resp.search = glyph.search;
     resp.date = glyph.date;
+    resp.order = glyph.order;
   }
   if (!resp.date) resp.date = today;
+  if (!resp.order) resp.order = Math.round(((new Date()) - (new Date('2021')))/1000);
   console.log({ name: resp.name, code: resp.codepoint });
   return resp;
 }
@@ -84,7 +86,7 @@ gulp.task('resname', function(){
     .pipe(gulp.dest("./dist"));
 });
 
-/** Use svgstore to combine svg ? */
+/** Use svgstore to create svg sprites */
 var svgstore = require('gulp-svgstore');
 var svgmin = require('gulp-svgmin');
 var cheerio = require('gulp-cheerio');
@@ -115,10 +117,11 @@ gulp.task('store', function(){
     .pipe(svgstore())
     .pipe(cheerio({
       run: function ($) {
-        $('svg').attr('style',  'display:none');
-        $('symbol').attr('fill',  'currentColor');
-        $('symbol').attr('viewBox',  '0 0 100 100');
-        $('symbol').attr('aria-hidden',  'true');
+        // Set SVG attributes
+        $('svg').attr('style', 'display:none');
+        $('symbol').attr('fill', 'currentColor');
+        $('symbol').attr('viewBox', '0 0 100 100');
+        $('symbol').attr('aria-hidden', 'true');
       },
       parserOptions: { xmlMode: true }
     }))
