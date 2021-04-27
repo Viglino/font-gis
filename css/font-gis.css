@@ -1,10 +1,10 @@
 @font-face {
   font-family: "font-gis";
-  src: url('../fonts/font-gis.eot?t=1619540058154');
+  src: url('../fonts/font-gis.eot?t=1619543292092');
   src: url('../fonts/font-gis.eot?#iefix') format('eot'),
-    url('../fonts/font-gis.woff2?t=1619540058154') format('woff2'),
-    url('../fonts/font-gis.woff?t=1619540058154') format('woff'),
-    url('../fonts/font-gis.ttf?t=1619540058154') format('truetype'),
+    url('../fonts/font-gis.woff2?t=1619543292092') format('woff2'),
+    url('../fonts/font-gis.woff?t=1619543292092') format('woff'),
+    url('../fonts/font-gis.ttf?t=1619543292092') format('truetype'),
     url('../fonts/font-gis.svg#font-gis') format('svg');
   font-weight: normal;
   font-style: normal;
@@ -161,6 +161,13 @@
 .fg-poi-earth:before { content: "\ea34"; }
 .fg-pin-earth:before { content: "\ea35"; }
 .fg-pirate-poi:before { content: "\ea6c"; }
+.fg-route:before { content: "\ea7b"; }
+.fg-route-start:before { content: "\ea7c"; }
+.fg-route-end:before { content: "\ea7d"; }
+.fg-car:before { content: "\ea7e"; }
+.fg-bicycle:before { content: "\ea7f"; }
+.fg-pedestrian:before { content: "\ea80"; }
+.fg-hiker:before { content: "\ea81"; }
 .fg-map-search:before { content: "\ea5e"; }
 .fg-search-map:before { content: "\ea5f"; }
 .fg-search-poi:before { content: "\ea60"; }
