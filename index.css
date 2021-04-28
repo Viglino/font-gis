@@ -42,7 +42,7 @@ html, body {
 pre {
   padding: .5em 1em;
   margin: 0 0 .5em;
-  width: 80%;
+  width: calc(100% - 4em);
   float: right;
   box-sizing: border-box;
 }
