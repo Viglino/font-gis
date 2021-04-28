@@ -1,10 +1,10 @@
 @font-face {
   font-family: "font-gis";
-  src: url('../fonts/font-gis.eot?t=1619543292092');
+  src: url('../fonts/font-gis.eot?t=1619597435328');
   src: url('../fonts/font-gis.eot?#iefix') format('eot'),
-    url('../fonts/font-gis.woff2?t=1619543292092') format('woff2'),
-    url('../fonts/font-gis.woff?t=1619543292092') format('woff'),
-    url('../fonts/font-gis.ttf?t=1619543292092') format('truetype'),
+    url('../fonts/font-gis.woff2?t=1619597435328') format('woff2'),
+    url('../fonts/font-gis.woff?t=1619597435328') format('woff'),
+    url('../fonts/font-gis.ttf?t=1619597435328') format('truetype'),
     url('../fonts/font-gis.svg#font-gis') format('svg');
   font-weight: normal;
   font-style: normal;
@@ -50,6 +50,12 @@
   text-align: center;
 }
 
+.fg-north-arrow:before { content: "\ea8b"; }
+.fg-north-arrow-n:before { content: "\ea8c"; }
+.fg-compass:before { content: "\ea90"; }
+.fg-compass-needle:before { content: "\ea91"; }
+.fg-compass-alt:before { content: "\ea92"; }
+.fg-compass-at-n:before { content: "\ea93"; }
 .fg-arrow-o:before { content: "\ea3a"; }
 .fg-arrow:before { content: "\ea3b"; }
 .fg-modify-line:before { content: "\ea3c"; }
@@ -88,6 +94,21 @@
 .fg-square:before { content: "\ea11"; }
 .fg-circle:before { content: "\ea12"; }
 .fg-multipoint:before { content: "\ea52"; }
+.fg-layer:before { content: "\ea41"; }
+.fg-layer-o:before { content: "\ea42"; }
+.fg-layers:before { content: "\ea43"; }
+.fg-layers-o:before { content: "\ea44"; }
+.fg-layer-up:before { content: "\ea45"; }
+.fg-layer-down:before { content: "\ea46"; }
+.fg-layer-alt:before { content: "\ea47"; }
+.fg-layer-alt-o:before { content: "\ea48"; }
+.fg-layer-stack:before { content: "\ea49"; }
+.fg-layer-stack-o:before { content: "\ea4a"; }
+.fg-layer-add:before { content: "\ea4b"; }
+.fg-layer-add-o:before { content: "\ea4c"; }
+.fg-layer-rm:before { content: "\ea4d"; }
+.fg-layer-rm-o:before { content: "\ea4e"; }
+.fg-layer-poi:before { content: "\ea6a"; }
 .fg-earth:before { content: "\ea22"; }
 .fg-earth-euro-africa:before { content: "\ea23"; }
 .fg-earth-atlantic:before { content: "\ea24"; }
@@ -110,21 +131,7 @@
 .fg-globe-o:before { content: "\ea37"; }
 .fg-globe-alt:before { content: "\ea38"; }
 .fg-globe-alt-o:before { content: "\ea39"; }
-.fg-layer:before { content: "\ea41"; }
-.fg-layer-o:before { content: "\ea42"; }
-.fg-layers:before { content: "\ea43"; }
-.fg-layers-o:before { content: "\ea44"; }
-.fg-layer-up:before { content: "\ea45"; }
-.fg-layer-down:before { content: "\ea46"; }
-.fg-layer-alt:before { content: "\ea47"; }
-.fg-layer-alt-o:before { content: "\ea48"; }
-.fg-layer-stack:before { content: "\ea49"; }
-.fg-layer-stack-o:before { content: "\ea4a"; }
-.fg-layer-add:before { content: "\ea4b"; }
-.fg-layer-add-o:before { content: "\ea4c"; }
-.fg-layer-rm:before { content: "\ea4d"; }
-.fg-layer-rm-o:before { content: "\ea4e"; }
-.fg-layer-poi:before { content: "\ea6a"; }
+.fg-globe-poi:before { content: "\ea82"; }
 .fg-map:before { content: "\ea53"; }
 .fg-map-o:before { content: "\ea54"; }
 .fg-map-poi:before { content: "\ea55"; }
@@ -140,6 +147,8 @@
 .fg-pirate-map:before { content: "\ea6b"; }
 .fg-story-map:before { content: "\ea6d"; }
 .fg-map-book:before { content: "\ea7a"; }
+.fg-map-legend:before { content: "\ea85"; }
+.fg-map-legend-o:before { content: "\ea86"; }
 .fg-measure:before { content: "\ea08"; }
 .fg-measure-line:before { content: "\ea13"; }
 .fg-measure-area:before { content: "\ea14"; }
@@ -161,6 +170,8 @@
 .fg-poi-earth:before { content: "\ea34"; }
 .fg-pin-earth:before { content: "\ea35"; }
 .fg-pirate-poi:before { content: "\ea6c"; }
+.fg-location-poi:before { content: "\ea83"; }
+.fg-location-poi-o:before { content: "\ea84"; }
 .fg-route:before { content: "\ea7b"; }
 .fg-route-start:before { content: "\ea7c"; }
 .fg-route-end:before { content: "\ea7d"; }
@@ -168,6 +179,13 @@
 .fg-bicycle:before { content: "\ea7f"; }
 .fg-pedestrian:before { content: "\ea80"; }
 .fg-hiker:before { content: "\ea81"; }
+.fg-location-arrow:before { content: "\ea87"; }
+.fg-location-arrow-o:before { content: "\ea88"; }
+.fg-location:before { content: "\ea89"; }
+.fg-location-on:before { content: "\ea8a"; }
+.fg-direct:before { content: "\ea8d"; }
+.fg-revers:before { content: "\ea8e"; }
+.fg-timer:before { content: "\ea8f"; }
 .fg-map-search:before { content: "\ea5e"; }
 .fg-search-map:before { content: "\ea5f"; }
 .fg-search-poi:before { content: "\ea60"; }

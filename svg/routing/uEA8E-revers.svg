@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="100"
+   height="100"
+   id="svg4460"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="uEA8F-revers.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     id="namedview11"
+     showgrid="false"
+     inkscape:zoom="2.4583334"
+     inkscape:cx="-3.3706319"
+     inkscape:cy="91.847454"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4460"
+     inkscape:document-rotation="0" />
+  <defs
+     id="defs4462" />
+  <metadata
+     id="metadata4465">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     d="M 81.884766 31.884766 C 72.169197 31.884766 64.231791 39.654866 63.841797 49.279297 A 3.6231899 3.6231899 0 0 0 63.767578 50 A 3.6231899 3.6231899 0 0 0 63.841797 50.720703 A 3.6231899 3.6231899 0 0 0 63.841797 50.724609 C 64.233809 60.34722 72.170519 68.115234 81.884766 68.115234 C 91.847009 68.115234 100 59.962244 100 50 C 100 40.037756 91.847009 31.884766 81.884766 31.884766 z M 81.884766 39.130859 C 87.930775 39.130859 92.753906 43.95399 92.753906 50 C 92.753906 56.04601 87.930775 60.869141 81.884766 60.869141 C 75.838756 60.869141 71.013672 56.04601 71.013672 50 C 71.013672 43.95399 75.838756 39.130859 81.884766 39.130859 z "
+     style="color:#000000;overflow:visible;fill:#000080;stroke:none;stroke-width:6.807;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+     id="path833" />
+  <g
+     transform="matrix(0,-0.61438032,0.61438032,0,-71.193591,85.634269)"
+     id="g879"
+     style="stroke-width:16.2766;stroke-miterlimit:4;stroke-dasharray:none" />
+  <path
+     id="path835"
+     d="M 25.46875,24.636719 V 41.339844 H 52.173828 V 58.660156 H 25.46875 V 75.363281 L 0,50 Z"
+     style="color:#000000;overflow:visible;fill:#000080;stroke:none;stroke-width:6.807;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none" />
+</svg>
