@@ -1,5 +1,7 @@
 function showPage(name, url) {
   $('[data-page]').hide();
+  if (name==='icons') $('#buttons').addClass('hidden');
+  else $('#buttons').removeClass('hidden');
   $('[data-page="'+name+'"]').show();
   $('#header li').removeClass('selected');
   $('#header li.'+name).addClass('selected');
