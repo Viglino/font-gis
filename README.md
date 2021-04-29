@@ -1,4 +1,4 @@
-# Font-GIS
+# <img src="https://github.com/Viglino/font-gis/blob/main/svg/globe/uEA82-globe-poi.svg" height="40" /> Font-GIS
 *Icon font set for use with GIS and spatial analysis tools*
 
 I've collected in this repo icons and graphics I've been using in my projects.
@@ -8,9 +8,16 @@ They can be easily included in a project using te font or svg images.
 ## Getting started
 
 ### NPM package
-*work in progress*
+
+Font-GIS is availiable on npm:
+```
+npm install --save font-gis
+```
+You can access the font or css in the `./font` and `./css` directory of the package.    
+The svg sprites are located in the `./dist/font-gis.svg` SVG file.
 
 ### using Font-GIS
+
 You can use Font-GIS as a font or as SVG symbols or images.
 
 To use it in a web page, just add the css in your project.
