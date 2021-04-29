@@ -5,7 +5,7 @@ I've collected in this repo icons and graphics I've been using in my projects.
 Font-GIS icons and font theme is designed mainly for GIS applications and web mapping tools. 
 They can be easily included in a project using te font or svg images.
 
-## <img src="https://github.com/Viglino/font-gis/blob/main/svg/routing/uEA8F-timer.svg" height="35" /> Getting started
+## <img src="https://github.com/Viglino/font-gis/blob/main/svg/routing/uEA8F-timer.svg" height="35" align="left" /> Getting started
 
 ###  NPM package
 
