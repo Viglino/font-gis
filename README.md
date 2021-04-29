@@ -24,16 +24,18 @@ To use it in a web page, just add the css in your project.
 ```html
 <link href="https://viglino.github.io/font-gis/css/font-gis.css" rel="stylesheet" />
 ```
-Then use an inline element with a class prefixed with `fg-` to add a new icon.
+Then use an inline element with a class prefixed with `fg-` to add a new icon.    
+<img src="https://github.com/Viglino/font-gis/blob/main/svg/poi/uEA16-poi.svg" height="30" />
+<img src="https://github.com/Viglino/font-gis/blob/main/svg/geom/uEA02-polyline-pt.svg" height="30" />
 ```html
 <i class="fg-poi"></i> <!-- prefix: fg and - icon name: poi -->
 <span class="fg-polyline-pt"></span> <!-- using a <span> is more semantically correct but a little bit verbose. -->
 ```
-Or use it as an svg sprite (svg sprites are inlocated in the `./dist/font-gis.svg` file):
+Or use it as an svg sprite (svg sprites are inlocated in the `./dist/font-gis.svg` file):    
+<img src="https://github.com/Viglino/font-gis/blob/main/svg/geom/uEA03-polygon-pt.svg" height="30" />
 ```html
 <svg class="font-gis fg-3x"><use xlink:href="path/to/dist/font-gis.svg#fg-polyline-pt" /></svg>
 ```
-<img src="https://github.com/Viglino/font-gis/blob/main/svg/geom/uEA03-polygon-pt.svg" height="30" />
 
 ## Contributing
 Please use the [GitHub issue tracker](https://github.com/Viglino/font-gis/issues) to ask for new features 
