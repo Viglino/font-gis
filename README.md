@@ -5,9 +5,9 @@ I've collected in this repo icons and graphics I've been using in my projects.
 Font-GIS icons and font theme is designed mainly for GIS applications and web mapping tools. 
 They can be easily included in a project using te font or svg images.
 
-## <img src="https://github.com/Viglino/font-gis/blob/main/svg/routing/uEA8F-timer.svg" height="30" /> Getting started
+## <img src="https://github.com/Viglino/font-gis/blob/main/svg/routing/uEA8F-timer.svg" height="35" /> Getting started
 
-### <img src="https://github.com/Viglino/font-gis/blob/main/svg/poi/uEA34-poi-earth.svg" height="30" /> NPM package
+###  NPM package
 
 Font-GIS is availiable on npm:
 ```
@@ -16,7 +16,7 @@ npm install --save font-gis
 You can access the font or css in the `./font` and `./css` directory of the package.    
 The svg sprites are located in the `./dist/font-gis.svg` SVG file.
 
-### <img src="https://github.com/Viglino/font-gis/blob/main/svg/poi/uEA16-poi.svg" height="30" /> using Font-GIS
+### using Font-GIS
 
 You can use Font-GIS as a font or as SVG symbols or images.
 
@@ -37,7 +37,7 @@ Or use it as an svg sprite (svg sprites are inlocated in the `./dist/font-gis.sv
 <svg class="font-gis fg-3x"><use xlink:href="path/to/dist/font-gis.svg#fg-polyline-pt" /></svg>
 ```
 
-## <img src="https://github.com/Viglino/font-gis/blob/main/svg/edit/uEA51-copy-poly.svg" height="30" /> Contributing
+## <img src="https://github.com/Viglino/font-gis/blob/main/svg/edit/uEA51-copy-poly.svg" height="35" /> Contributing
 Please use the [GitHub issue tracker](https://github.com/Viglino/font-gis/issues) to ask for new features 
 or create a pull request.    
 Font is created from the files in the `./svg` folder, you only have to create a new file in this folder. 
@@ -48,7 +48,7 @@ You can add a new glyph in the [font-gis.json](https://github.com/Viglino/font-g
 Your contribution will be published under [Font-GIS license](https://github.com/Viglino/font-gis/blob/main/LICENSE.md) as per [GitHub's terms of service](https://help.github.com/articles/github-terms-of-service/#6-contributions-under-repository-license).
 
 
-## <img src="https://github.com/Viglino/font-gis/blob/main/svg/map/uEA7A-map-book.svg" height="30" /> Licenses
+## <img src="https://github.com/Viglino/font-gis/blob/main/svg/map/uEA7A-map-book.svg" height="35" /> Licenses
 Copyright (c) 2021 Jean-Marc Viglino
 
 [Font-GIS](https://viglino.github.io/font-gis/) is free, open source, and GPL friendly. 
