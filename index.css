@@ -8,6 +8,7 @@ html, body {
 
 h2 {
   clear: both;
+  margin: 1.5em 0 .5em;
 }
 code {
   background-color: #eee;
@@ -180,7 +181,7 @@ h1 {
 }
 
 #search > div {
-  padding: 1em;
+  padding: .5em;
   font-size: 1.5em;
 }
 #search > div > i {
@@ -211,7 +212,7 @@ h1 {
 
 #content h2 {
   text-transform: capitalize;
-  margin-bottom: .2em;
+  margin: .5em 0 .2em;
   border-bottom: .1em solid currentColor;
 }
 #content p {

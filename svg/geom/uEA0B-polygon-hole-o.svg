@@ -7,34 +7,34 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   version="1.1"
-   width="100"
-   height="100"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="uEA0B-polygon-hole-o.svg"
    id="svg4460"
-   sodipodi:docname="polygon-hole-o.svg"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)">
+   height="100"
+   width="100"
+   version="1.1">
   <sodipodi:namedview
-     showguides="false"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1017"
-     id="namedview11"
-     showgrid="false"
-     inkscape:zoom="5.7134225"
-     inkscape:cx="48.72046"
-     inkscape:cy="63.222433"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
-     inkscape:window-maximized="1"
+     inkscape:document-rotation="0"
      inkscape:current-layer="svg4460"
-     inkscape:document-rotation="0" />
+     inkscape:window-maximized="1"
+     inkscape:window-y="-8"
+     inkscape:window-x="-8"
+     inkscape:cy="59.912903"
+     inkscape:cx="49.941639"
+     inkscape:zoom="8.0799996"
+     showgrid="false"
+     id="namedview11"
+     inkscape:window-height="1017"
+     inkscape:window-width="1920"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     showguides="false" />
   <defs
      id="defs4462" />
   <metadata
@@ -45,12 +45,12 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <path
-     d="M 33.390625 20.396484 A 3.4997255 3.4961024 0 0 0 30.279297 22.367188 L 9.5742188 65.117188 A 3.4997255 3.4961024 0 0 0 12.205078 70.095703 L 87.207031 81.357422 A 3.4997255 3.4961024 0 0 0 91.050781 76.8125 L 76.787109 33.375 A 3.4997255 3.4961024 0 0 0 74.355469 31.083984 L 34.324219 20.511719 A 3.4997255 3.4961024 0 0 0 33.390625 20.396484 z M 35.322266 28.007812 L 70.728516 37.357422 L 82.630859 73.601562 L 17.943359 63.888672 L 35.322266 28.007812 z M 41.691406 38.59375 A 3.50035 3.50035 0 0 0 38.529297 40.710938 L 31.791016 56.375 A 3.50035 3.50035 0 0 0 34.417969 61.208984 L 60.361328 65.619141 A 3.50035 3.50035 0 0 0 64.310547 63.142578 L 67.158203 53.306641 A 3.50035 3.50035 0 0 0 65.271484 49.158203 L 43.216797 38.919922 A 3.50035 3.50035 0 0 0 41.691406 38.59375 z M 43.537109 46.785156 L 59.599609 54.242188 L 58.455078 58.195312 L 39.978516 55.054688 L 43.537109 46.785156 z "
+     d="M 33.390625 20.396484 A 3.4997255 3.4961024 0 0 0 30.279297 22.367188 L 9.5742188 65.117188 A 3.4997255 3.4961024 0 0 0 12.205078 70.095703 L 87.207031 81.357422 A 3.4997255 3.4961024 0 0 0 91.050781 76.8125 L 76.787109 33.375 A 3.4997255 3.4961024 0 0 0 74.355469 31.083984 L 34.324219 20.511719 A 3.4997255 3.4961024 0 0 0 33.390625 20.396484 z M 35.322266 28.007812 L 70.728516 37.357422 L 82.630859 73.601562 L 17.943359 63.888672 L 35.322266 28.007812 z M 43.355469 39.332031 A 2.50025 2.50025 0 0 0 41.023438 40.84375 L 35.072266 54.669922 A 2.50025 2.50025 0 0 0 36.960938 58.125 L 61.289062 62.150391 A 2.50025 2.50025 0 0 0 64.087891 60.412109 L 66.539062 52.361328 A 2.50025 2.50025 0 0 0 65.210938 49.371094 L 44.382812 39.570312 A 2.50025 2.50025 0 0 0 43.355469 39.332031 z M 44.59375 45.195312 L 61.125 52.974609 L 59.943359 56.859375 L 40.927734 53.712891 L 44.59375 45.195312 z "
      style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#000080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.99513;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000;stop-opacity:1"
      id="path854" />
 </svg>

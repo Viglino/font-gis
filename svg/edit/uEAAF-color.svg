@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="uEAAF-color.svg"
+   id="svg4460"
+   height="100"
+   width="100"
+   version="1.1">
+  <sodipodi:namedview
+     inkscape:document-rotation="0"
+     inkscape:current-layer="svg4460"
+     inkscape:window-maximized="1"
+     inkscape:window-y="-8"
+     inkscape:window-x="-8"
+     inkscape:cy="42.62852"
+     inkscape:cx="37.453203"
+     inkscape:zoom="6.9532167"
+     showgrid="false"
+     id="namedview11"
+     inkscape:window-height="1017"
+     inkscape:window-width="1920"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <defs
+     id="defs4462" />
+  <metadata
+     id="metadata4465">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     transform="matrix(4.7619048,0,0,4.7619048,-27.788715,-4888.3498)">
+    <g
+       style="display:inline"
+       id="art-gallery-24"
+       transform="translate(-318,-262)">
+      <g
+         id="g6548">
+        <path
+           sodipodi:nodetypes="ssssssssssssssssssssssssssssssss"
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#000080;fill-opacity:1;stroke:none;stroke-width:1.10526;marker:none;enable-background:accumulate"
+           id="path6511"
+           d="m 333.19117,1290.764 c -5.52632,0 -9.35554,4.4211 -9.35554,6.6316 0,2.2105 1.10526,3.8684 3.31579,3.8684 2.21053,0 3.31579,0.5526 3.31579,2.2105 0,2.2106 1.65789,3.8684 3.86842,3.8684 7.18421,0 10.5,-3.8684 10.5,-7.7368 0,-6.6316 -5.01289,-8.8421 -11.64446,-8.8421 z m -1.47501,2.2105 c 0.763,0 1.38158,0.6186 1.38158,1.3816 0,0.763 -0.61858,1.3816 -1.38158,1.3816 -0.76301,0 -1.38158,-0.6186 -1.38158,-1.3816 0,-0.763 0.61857,-1.3816 1.38158,-1.3816 z m 4.42105,0 c 0.763,0 1.38158,0.6186 1.38158,1.3816 0,0.763 -0.61858,1.3816 -1.38158,1.3816 -0.763,0 -1.38158,-0.6186 -1.38158,-1.3816 0,-0.763 0.61858,-1.3816 1.38158,-1.3816 z m 4.00105,2.2106 c 0.76301,0 1.38158,0.6185 1.38158,1.3815 0,0.763 -0.61857,1.3816 -1.38158,1.3816 -0.76301,0 -1.38158,-0.6186 -1.38158,-1.3816 0,-0.763 0.61857,-1.3815 1.38158,-1.3815 z m -12.29052,0.2652 c 0.763,0 1.38157,0.6186 1.38157,1.3816 0,0.763 -0.61857,1.3816 -1.38157,1.3816 -0.76301,0 -1.38158,-0.6186 -1.38158,-1.3816 0,-0.763 0.61857,-1.3816 1.38158,-1.3816 z m 7.32789,6.3663 c 0.91563,0 1.65789,0.7423 1.65789,1.6579 0,0.9157 -1.16226,1.6579 -2.07789,1.6579 -0.91563,0 -1.65789,-0.7422 -1.65789,-1.6579 0,-0.9156 1.16226,-1.6579 2.07789,-1.6579 z" />
+      </g>
+    </g>
+  </g>
+</svg>
