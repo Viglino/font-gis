@@ -11,7 +11,7 @@ They can be easily included in a project using te font or svg images.
 
 ###  NPM package
 
-Font-GIS is availiable on npm:
+Font-GIS is availiable on [npm](https://www.npmjs.com/package/font-gis):
 ```
 npm install --save font-gis
 ```
