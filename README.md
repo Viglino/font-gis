@@ -11,7 +11,7 @@ They can be easily included in a project using te font or svg images.
 
 ###  NPM package
 
-Font-GIS is availiable on npm:
+Font-GIS is availiable on [npm](https://www.npmjs.com/package/font-gis):
 ```
 npm install --save font-gis
 ```
@@ -30,8 +30,10 @@ Then use an inline element with a class prefixed with `fg-` to add a new icon.
 <img src="https://github.com/Viglino/font-gis/blob/main/svg/poi/uEA16-poi.svg" height="30" />
 <img src="https://github.com/Viglino/font-gis/blob/main/svg/geom/uEA02-polyline-pt.svg" height="30" />
 ```html
-<i class="fg-poi"></i> <!-- prefix: fg and - icon name: poi -->
-<span class="fg-polyline-pt"></span> <!-- using a <span> is more semantically correct but a little bit verbose. -->
+<!-- prefix: fg - icon name: poi -->
+<i class="fg-poi"></i>
+<!-- using a <span> is more semantically correct but a little bit verbose. -->
+<span class="fg-polyline-pt"></span>
 ```
 Or use it as an svg sprite (svg sprites are inlocated in the `./dist/font-gis.svg` file):    
 <img src="https://github.com/Viglino/font-gis/blob/main/svg/geom/uEA03-polygon-pt.svg" height="30" />
