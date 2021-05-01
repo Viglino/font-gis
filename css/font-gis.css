@@ -1,10 +1,10 @@
 @font-face {
   font-family: "font-gis";
-  src: url('../fonts/font-gis.eot?t=1619766930179');
+  src: url('../fonts/font-gis.eot?t=1619862328857');
   src: url('../fonts/font-gis.eot?#iefix') format('eot'),
-    url('../fonts/font-gis.woff2?t=1619766930179') format('woff2'),
-    url('../fonts/font-gis.woff?t=1619766930179') format('woff'),
-    url('../fonts/font-gis.ttf?t=1619766930179') format('truetype'),
+    url('../fonts/font-gis.woff2?t=1619862328857') format('woff2'),
+    url('../fonts/font-gis.woff?t=1619862328857') format('woff'),
+    url('../fonts/font-gis.ttf?t=1619862328857') format('truetype'),
     url('../fonts/font-gis.svg#font-gis') format('svg');
   font-weight: normal;
   font-style: normal;
@@ -165,18 +165,6 @@
 .fg-compass-needle:before { content: "\ea91"; }
 .fg-compass-alt:before { content: "\ea92"; }
 .fg-compass-at-n:before { content: "\ea93"; }
-.fg-gpx-file:before { content: "\ea99"; }
-.fg-geojson-file:before { content: "\ea9a"; }
-.fg-kml-file:before { content: "\ea9b"; }
-.fg-wms:before { content: "\ea9c"; }
-.fg-wmts:before { content: "\ea9d"; }
-.fg-xfs:before { content: "\ea9e"; }
-.fg-wfs-t:before { content: "\ea9f"; }
-.fg-mvt:before { content: "\eaa0"; }
-.fg-xyz:before { content: "\eaa1"; }
-.fg-shape-file:before { content: "\eaa2"; }
-.fg-esri-json-file:before { content: "\eaa3"; }
-.fg-topojson-file:before { content: "\eaa4"; }
 .fg-arrow-o:before { content: "\ea3a"; }
 .fg-arrow:before { content: "\ea3b"; }
 .fg-modify-line:before { content: "\ea3c"; }
@@ -201,6 +189,18 @@
 .fg-select-extent:before { content: "\eaad"; }
 .fg-snap-ortho:before { content: "\eaae"; }
 .fg-color:before { content: "\eaaf"; }
+.fg-gpx-file:before { content: "\ea99"; }
+.fg-geojson-file:before { content: "\ea9a"; }
+.fg-kml-file:before { content: "\ea9b"; }
+.fg-wms:before { content: "\ea9c"; }
+.fg-wmts:before { content: "\ea9d"; }
+.fg-wfs:before { content: "\ea9e"; }
+.fg-wfs-t:before { content: "\ea9f"; }
+.fg-mvt:before { content: "\eaa0"; }
+.fg-xyz:before { content: "\eaa1"; }
+.fg-shape-file:before { content: "\eaa2"; }
+.fg-esri-json-file:before { content: "\eaa3"; }
+.fg-topojson-file:before { content: "\eaa4"; }
 .fg-point:before { content: "\ea01"; }
 .fg-polyline-pt:before { content: "\ea02"; }
 .fg-polygon-pt:before { content: "\ea03"; }
@@ -223,6 +223,7 @@
 .fg-extent-alt:before { content: "\eaaa"; }
 .fg-bbox:before { content: "\eaab"; }
 .fg-extent:before { content: "\eaac"; }
+.fg-map-extent:before { content: "\eab0"; }
 .fg-earth:before { content: "\ea22"; }
 .fg-earth-euro-africa:before { content: "\ea23"; }
 .fg-earth-atlantic:before { content: "\ea24"; }
@@ -283,6 +284,7 @@
 .fg-map-options:before { content: "\ea94"; }
 .fg-map-options-alt:before { content: "\ea95"; }
 .fg-map-print:before { content: "\ea96"; }
+.fg-world-map-alt-o:before { content: "\eab1"; }
 .fg-help-larrow:before { content: "\ea3e"; }
 .fg-help-rarrow:before { content: "\ea3f"; }
 .fg-zoom-in:before { content: "\eaa5"; }
@@ -309,6 +311,17 @@
 .fg-pirate-poi:before { content: "\ea6c"; }
 .fg-location-poi:before { content: "\ea83"; }
 .fg-location-poi-o:before { content: "\ea84"; }
+.fg-map-search:before { content: "\ea5e"; }
+.fg-search-map:before { content: "\ea5f"; }
+.fg-search-poi:before { content: "\ea60"; }
+.fg-search-globe:before { content: "\ea61"; }
+.fg-search-home:before { content: "\ea62"; }
+.fg-search-address:before { content: "\ea63"; }
+.fg-search-attribtues:before { content: "\ea64"; }
+.fg-search-propertie:before { content: "\ea65"; }
+.fg-search-feature:before { content: "\ea66"; }
+.fg-search-layer:before { content: "\ea67"; }
+.fg-search-country:before { content: "\ea69"; }
 .fg-route:before { content: "\ea7b"; }
 .fg-route-start:before { content: "\ea7c"; }
 .fg-route-end:before { content: "\ea7d"; }
@@ -322,15 +335,4 @@
 .fg-location-on:before { content: "\ea8a"; }
 .fg-direct:before { content: "\ea8d"; }
 .fg-revers:before { content: "\ea8e"; }
-.fg-timer:before { content: "\ea8f"; }
-.fg-map-search:before { content: "\ea5e"; }
-.fg-search-map:before { content: "\ea5f"; }
-.fg-search-poi:before { content: "\ea60"; }
-.fg-search-globe:before { content: "\ea61"; }
-.fg-search-home:before { content: "\ea62"; }
-.fg-search-address:before { content: "\ea63"; }
-.fg-search-attribtues:before { content: "\ea64"; }
-.fg-search-propertie:before { content: "\ea65"; }
-.fg-search-feature:before { content: "\ea66"; }
-.fg-search-layer:before { content: "\ea67"; }
-.fg-search-country:before { content: "\ea69"; }
+.fg-timer:before { content: "\ea8f"; }
