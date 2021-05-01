@@ -13,6 +13,9 @@ const template = 'templates/template'  // or 'foundation-style'
 var runTimestamp = Math.round(Date.now()/1000);
 var today = (new Date()).toISOString().split('T')[0]
 
+var version = process.env.npm_package_version.split('.');
+version = 10000*version[0] + 100*version[1] + version[2];
+
 gulp.task('Iconfont', function(done){
   var iconStream = gulp.src(['svg/**/u*.svg', 'svg/**/*.svg'])
     .pipe(iconfont({ 
@@ -69,7 +72,9 @@ function mapGlyphs (glyph) {
     resp.search = glyph.search;
     resp.date = glyph.date;
     resp.order = glyph.order;
+    resp.version = glyph.version;
   }
+  if (!resp.version) resp.version = version;
   if (!resp.date) resp.date = today;
   if (!resp.order) resp.order = Math.round(((new Date()) - (new Date('2021')))/1000);
   console.log({ name: resp.name, code: resp.codepoint });

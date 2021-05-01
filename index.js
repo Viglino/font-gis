@@ -12,7 +12,7 @@ function showPage(name, url) {
 }
 showPage('fg', false);
 
-var glyphs;
+var glyphs, version=0;
 
 function search(val) {
   $('#search input').val(val);
@@ -104,27 +104,34 @@ $.ajax({
     };
     var g;
     for (g in font.glyphs) {
+      if (font.glyphs[g].version > version) version = font.glyphs[g].version;
       if (!themes[font.glyphs[g].theme]) themes[font.glyphs[g].theme] = [];
       font.glyphs[g].id = g;
       themes[font.glyphs[g].theme].push(font.glyphs[g]);
     };
+    var news = 0;
     Object.keys(themes).forEach(function(th) {
       var div = $('<div>').appendTo(content);
       $('<h2>').text(th).appendTo(div);
       themes[th].sort(function(a,b) { return a.order-b.order || a.code-b.code; });
       themes[th].forEach(function(gly) {
         // console.log(gly)
+        if (gly.version===version) {
+          gly.search += (gly.search?',':'')+'new';
+          news++;
+        }
         $('<p>')
-          .append($('<i>')
-          .addClass(gly.id))
+          .append($('<i>').addClass(gly.id))
           .click(function() {
             showIcon(gly);
           })
+          .addClass(gly.version===version ? 'new' : '')
           .append($('<span>').text(gly.name))
           .attr('title', '\\'+gly.code.toString(16))
           .appendTo(div);
       });
     })
+    $('.news').text(news+(news>1?' NEWS':' NEW'));
     var data = getUrlData();
     if (data.q) {
       search(data.q);

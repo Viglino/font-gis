@@ -189,7 +189,7 @@ h1 {
   position: absolute;
   color: #aaa;
   top: 50%;
-  left: 1.25em;
+  left: 1em;
   transform: translateY(-50%);
 }
 
@@ -209,13 +209,48 @@ h1 {
   color: #ccc;
 }
 
+.news,
+.new:after {
+  position: absolute;
+  content: "NEW!";
+  background: yellow;
+  color: red;
+  right: -0.2em;
+  top: 0;
+  padding: 0m;
+  font-family: sans-serif;
+  font-size: 1em;
+  font-weight: bold;
+  transform: rotate(10deg) scaleX(.5);
+  border-radius: 50%;
+  height: 2.4em;
+  width: 4.9em;
+  line-height: 2.5em;
+  text-align: center;
+  box-shadow: 0.1em 0.2em 0.5em 0.1em rgba(0,0,0,.5);
+  white-space: nowrap;
+  text-align: center;
+  vertical-align: middle;
+  cursor: pointer;
+}
 
 #content h2 {
   text-transform: capitalize;
   margin: .5em 0 .2em;
   border-bottom: .1em solid currentColor;
 }
+#content p.new:after {
+  content: "new";
+  position: absolute;
+  font-family: sans-serif;
+  line-height: 1.1em;
+  width: 2.4em;
+  height: 1.2em;
+  right: -.3em;
+  top: -.3em;
+}
 #content p {
+  position: relative;
   display: inline-block;
   width: 5em;
   text-align: center;
