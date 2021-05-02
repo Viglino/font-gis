@@ -1,10 +1,10 @@
 @font-face {
   font-family: "font-gis";
-  src: url('../fonts/font-gis.eot?t=1619942350895');
+  src: url('../fonts/font-gis.eot?t=1619948829795');
   src: url('../fonts/font-gis.eot?#iefix') format('eot'),
-    url('../fonts/font-gis.woff2?t=1619942350895') format('woff2'),
-    url('../fonts/font-gis.woff?t=1619942350895') format('woff'),
-    url('../fonts/font-gis.ttf?t=1619942350895') format('truetype'),
+    url('../fonts/font-gis.woff2?t=1619948829795') format('woff2'),
+    url('../fonts/font-gis.woff?t=1619948829795') format('woff'),
+    url('../fonts/font-gis.ttf?t=1619948829795') format('truetype'),
     url('../fonts/font-gis.svg#font-gis') format('svg');
   font-weight: normal;
   font-style: normal;
@@ -253,6 +253,7 @@
 .fg-tag-o:before { content: "\eac2"; }
 .fg-tags:before { content: "\eac3"; }
 .fg-tags-o:before { content: "\eac4"; }
+.fg-earth-gear:before { content: "\ead5"; }
 .fg-layer:before { content: "\ea41"; }
 .fg-layer-o:before { content: "\ea42"; }
 .fg-layers:before { content: "\ea43"; }
@@ -328,6 +329,7 @@
 .fg-location-poi:before { content: "\ea83"; }
 .fg-location-poi-o:before { content: "\ea84"; }
 .fg-bookmark-poi:before { content: "\eabe"; }
+.fg-bookmark-poi-b:before { content: "\eacf"; }
 .fg-route:before { content: "\ea7b"; }
 .fg-route-start:before { content: "\ea7c"; }
 .fg-route-end:before { content: "\ea7d"; }
@@ -344,6 +346,21 @@
 .fg-timer:before { content: "\ea8f"; }
 .fg-signpost:before { content: "\eab5"; }
 .fg-direction:before { content: "\eab6"; }
+.fg-flag:before { content: "\eac5"; }
+.fg-flag-o:before { content: "\eac6"; }
+.fg-flag-start:before { content: "\eac7"; }
+.fg-flag-start-o:before { content: "\eac8"; }
+.fg-flag-finish:before { content: "\eac9"; }
+.fg-flag-b:before { content: "\eaca"; }
+.fg-flab-b-o:before { content: "\eacb"; }
+.fg-flag-start-b:before { content: "\eacc"; }
+.fg-flag-start-b-o:before { content: "\eacd"; }
+.fg-flag-finish-b-o:before { content: "\eace"; }
+.fg-start:before { content: "\ead0"; }
+.fg-start-o:before { content: "\ead1"; }
+.fg-step:before { content: "\ead2"; }
+.fg-step-o:before { content: "\ead3"; }
+.fg-finish:before { content: "\ead4"; }
 .fg-map-search:before { content: "\ea5e"; }
 .fg-search-map:before { content: "\ea5f"; }
 .fg-search-poi:before { content: "\ea60"; }
