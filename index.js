@@ -76,6 +76,10 @@ $('#search input').on('keyup search', function() {
   search(this.value); 
 });
 
+/** Show icon
+ * @param {object} icon 
+ * @param {boolean} [url] change url
+ */
 function showIcon(icon, url) {
   if (icon && icon.code) {
     $('#icon i').removeClass().addClass('fg-'+icon.name)
@@ -83,9 +87,22 @@ function showIcon(icon, url) {
     $('#icon .theme').text(icon.theme);
     $('#icon .code').text('\\'+icon.code.toString(16));
     if (url !== false) setUrl(null, icon.name);
+    var tags = icon.search.split(',');
+    var tag = $('#icon .tags').html('');
+    icon.name.split('-').forEach(function(t) {
+      if (t.length>2 && t!==icon.theme && tags.indexOf(t)<0) tags.push(t);
+    })
+    tags.forEach(function(t) {
+      if (t) {
+        $('<span>').text(t)
+          .click(function() { search(t) })
+          .appendTo(tag);
+      }
+    })
   }
 }
 
+/** Load data */
 $.ajax({
   url: './font-gis.json',
   success: function(font) {
@@ -133,9 +150,7 @@ $.ajax({
     })
     $('.news').text(news+(news>1?' NEWS':' NEW'));
     var data = getUrlData();
-    if (data.q) {
-      search(data.q);
-    }
+    search(data.q);
     if (data.fg) {
       showIcon(glyphs['fg-'+data.fg]);
       showPage('icons');

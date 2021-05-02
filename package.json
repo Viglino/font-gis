@@ -25,6 +25,7 @@
   "license": "OFL-1.1",
   "devDependencies": {
     "async": "^3.2.0",
+    "del": "^6.0.0",
     "gulp": "^4.0.2",
     "gulp-cheerio": "^1.0.0",
     "gulp-consolidate": "^0.2.0",
@@ -35,5 +36,7 @@
     "gulp-svgstore": "^7.0.1",
     "live-server": "^1.2.1"
   },
-  "dependencies": {}
+  "dependencies": {
+    "vinyl-paths": "^3.0.1"
+  }
 }

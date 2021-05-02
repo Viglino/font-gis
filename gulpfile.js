@@ -2,6 +2,8 @@ var gulp = require('gulp');
 var iconfont = require('gulp-iconfont');
 // var iconfontCss = require('gulp-iconfont-css');
 const rename = require('gulp-rename')
+const vinylPaths = require('vinyl-paths');
+const del = require('del');
 var async = require('async');
 var consolidate = require('gulp-consolidate');
 var fs = require('fs')
@@ -16,7 +18,7 @@ var today = (new Date()).toISOString().split('T')[0]
 var version = process.env.npm_package_version.split('.');
 version = 10000*version[0] + 100*version[1] + version[2];
 
-gulp.task('Iconfont', function(done){
+gulp.task('Iconfont', function(done) {
   var iconStream = gulp.src(['svg/**/u*.svg', 'svg/**/*.svg'])
     .pipe(iconfont({ 
       fontName: fontName,
@@ -49,7 +51,7 @@ gulp.task('Iconfont', function(done){
           .pipe(gulp.dest('./'));
         gulp.src(template+'.css')
           .pipe(consolidate('lodash', options))
-          .pipe(rename({ basename: fontName }))
+          .pipe(rename({ basename: 'temp' }))
           .pipe(gulp.dest('css/'))
           .on('finish', cb);
       });
@@ -62,8 +64,10 @@ gulp.task('Iconfont', function(done){
   ], done);
 });
 
+/** Get glyphs */
+var font = JSON.parse(fs.readFileSync('./font-gis.json'));
+
 function mapGlyphs (glyph) {
-  var font = JSON.parse(fs.readFileSync('./font-gis.json'));
   var resp = { name: glyph.name, codepoint: glyph.unicode[0].charCodeAt(0).toString(16), code: glyph.unicode[0].charCodeAt(0) };
   var glyph = font.glyphs[className+'-'+glyph.name];
   // Get back theme / search information
@@ -136,4 +140,14 @@ gulp.task('store', function(){
     .pipe(gulp.dest('./dist'));
 });
 
-gulp.task("default", gulp.parallel("Iconfont", "store"));
+// Rename css to force watch / serve
+gulp.task('renameCSS', function(){
+  return gulp.src('./css/temp.css')
+    .pipe(vinylPaths(del)) // delete the original disk copy
+    .pipe(rename(function (path) {
+      path.basename = fontName;
+    }))
+    .pipe(gulp.dest("./css"));
+});
+
+gulp.task("default", gulp.series(gulp.task("Iconfont"), gulp.task("store"), gulp.task("renameCSS")));
