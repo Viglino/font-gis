@@ -12,7 +12,7 @@ They can be easily included in a project using te font or svg images.
 ###  NPM package
 
 Font-GIS is availiable on [npm](https://www.npmjs.com/package/font-gis):
-```
+```console
 npm install --save font-gis
 ```
 You can access the font or css in the `./font` and `./css` directory of the package.    
@@ -47,9 +47,18 @@ or create a pull request.
 Font is created from the files in the `./svg` folder, you only have to create a new file in this folder. 
 Use the `./templates/template.svg` template to create a new icon.  
 You can add a new glyph in the [font-gis.json](https://github.com/Viglino/font-gis/blob/main/font-gis.json) file with a theme and search tags 
-(other fields will be fill automatically).
+(other fields will be filled automatically).
 
 Your contribution will be published under [Font-GIS license](https://github.com/Viglino/font-gis/blob/main/LICENSE.md) as per [GitHub's terms of service](https://help.github.com/articles/github-terms-of-service/#6-contributions-under-repository-license).
+
+If you wan't to build the font and create the dist, use the build script (run `npm install` to install the dev dependencies before):
+```console
+npm run build
+```
+Use a local server (http://localhost:8181/) to see result on the page:
+```console
+npm start
+```
 
 
 ## <img src="https://github.com/Viglino/font-gis/blob/main/svg/map/uEA7A-map-book.svg" height="35" align="left" />Licenses
