@@ -113,6 +113,7 @@ $.ajax({
       geometry: [],
       search: [],
       measure: [],
+      tools: [],
       routing: [],
       layer: [],
       poi: [],

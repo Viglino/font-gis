@@ -43,6 +43,9 @@ gulp.task('Iconfont', function(done) {
           git: pack.author.name,
           homepage: pack.homepage,
           version: pack.version,
+          keywords: pack.keywords.join(' - '),
+          year: (new Date()).getFullYear(),
+          desc: pack.description,
           license: pack.license
         }
         gulp.src(template+'.json')

@@ -1,10 +1,11 @@
 {
   "font": "<%= fontName %>",
+  "description": "<%= desc %>",
   "version": "<%= version %>",
   "prefix": "<%= className %>",
   "copyright": "<%= author %>",
   "license": "<%= license %>",
-  "homeoage": "<%= homepage %>",
+  "homepage": "<%= homepage %>",
   "glyphs": {<% _.each(glyphs, function(glyph, i){ %><% if(i) { %>,<% } %>
     "<%= className %>-<%= glyph.name %>": { "font": "<%= fontName %>", "name": "<%= glyph.name %>", "code": <%= glyph.code %>, "theme": "<%= glyph.theme %>", "search": "<%= glyph.search %>", "date": "<%= glyph.date %>", "order": <%= glyph.order %>, "version": <%= glyph.version %> }<% }); %>
   }

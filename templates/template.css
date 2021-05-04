@@ -1,3 +1,8 @@
+/* <%= fontName %> - v.<%= version %> 
+ * <%= desc %>
+ * <%= year %> (c) <%= author %> - <%= license %>
+ * <%= homepage %>
+ */
 @font-face {
   font-family: "<%= fontName %>";
   src: url('<%= fontPath %><%= fontName %>.eot?t=<%= dtime %>');
