@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="100"
+   height="100"
+   id="svg4460"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="uEAF3-layer-contour.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1177"
+     id="namedview11"
+     showgrid="false"
+     inkscape:zoom="13.906433"
+     inkscape:cx="51.722455"
+     inkscape:cy="42.625765"
+     inkscape:window-x="1272"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4460"
+     inkscape:document-rotation="0" />
+  <defs
+     id="defs4462" />
+  <metadata
+     id="metadata4465">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="matrix(0,-0.61438032,0.61438032,0,-192.38003,63.295285)"
+     id="g879"
+     style="stroke-width:16.2766;stroke-miterlimit:4;stroke-dasharray:none" />
+  <path
+     style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#000080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+     d="M 50 22.560547 C 48.790614 22.560377 47.58111 22.814022 46.658203 23.320312 L 1.3828125 48.166016 C -0.46396817 49.178801 -0.46396817 50.821199 1.3828125 51.833984 L 46.658203 76.679688 C 48.504018 77.692266 51.496931 77.692787 53.341797 76.679688 L 98.617188 51.833984 C 100.46168 50.821415 100.46168 49.178587 98.617188 48.166016 L 53.341797 23.320312 C 52.419363 22.813762 51.209386 22.560717 50 22.560547 z M 50 28.820312 L 88.595703 50 L 82.494141 53.347656 C 79.917614 50.421744 74.859491 45.132924 69.341797 41.962891 C 62.316137 37.926499 56.081881 35.068189 49.574219 34.8125 C 43.066557 34.556811 36.522112 37.037369 29.306641 42.996094 C 25.606194 46.052021 23.712637 48.790848 24.039062 51.693359 C 24.202275 53.144615 24.99182 54.386601 25.982422 55.298828 C 26.973024 56.211055 28.175121 56.877052 29.501953 57.441406 C 34.809282 59.698822 42.501055 60.414001 46.818359 61.171875 C 50.050223 61.739207 56.195134 63.727448 60.763672 65.273438 L 50 71.179688 L 11.40625 50 L 50 28.820312 z M 48.402344 38.794922 C 48.74137 38.791192 49.079162 38.795282 49.417969 38.808594 C 54.838881 39.021584 60.512063 41.503325 67.349609 45.431641 C 72.337698 48.297404 76.602907 52.847139 78.818359 55.365234 L 65.523438 62.660156 C 62.404809 61.532705 52.941543 58.185935 47.509766 57.232422 C 42.876732 56.419124 35.301714 55.563162 31.066406 53.761719 C 30.007579 53.311358 29.182587 52.807788 28.691406 52.355469 C 28.200226 51.90315 28.052006 51.586955 28.013672 51.246094 C 27.937002 50.56437 28.577967 48.785113 31.853516 46.080078 C 38.169005 40.864583 43.316947 38.850875 48.402344 38.794922 z M 48.875 41.708984 C 46.531868 41.843309 44.157127 42.986558 41.470703 45.216797 C 39.85135 46.561166 38.856133 47.872288 39.033203 49.455078 C 39.121743 50.246473 39.555663 50.920698 40.052734 51.380859 C 40.549806 51.841021 41.114695 52.149635 41.714844 52.40625 C 44.115438 53.432711 47.35683 53.709914 49.111328 54.019531 C 50.703898 54.300573 52.794476 55.191949 55.056641 55.931641 C 57.318805 56.671333 59.83139 57.277451 62.404297 56.642578 C 63.757452 56.308683 64.943317 55.486655 65.316406 54.244141 C 65.689496 53.001626 65.261876 51.819125 64.621094 50.773438 C 63.339529 48.68206 60.90483 46.661568 57.855469 44.900391 C 54.929839 43.210675 52.552652 41.887028 49.878906 41.712891 C 49.544688 41.691123 49.209733 41.689795 48.875 41.708984 z M 49.023438 44.701172 C 49.245108 44.690314 49.464461 44.69276 49.683594 44.707031 C 51.436654 44.821206 53.477464 45.835837 56.355469 47.498047 C 59.109742 49.088794 61.265988 51.038786 62.064453 52.341797 C 62.463686 52.993302 62.44852 53.363672 62.443359 53.380859 C 62.438159 53.398049 62.453819 53.540896 61.685547 53.730469 C 60.015604 54.142532 58.067346 53.759259 55.990234 53.080078 C 53.913122 52.400895 51.787173 51.444634 49.632812 51.064453 C 47.64038 50.712847 44.488826 50.330136 42.894531 49.648438 C 42.495957 49.478012 42.2131 49.29379 42.089844 49.179688 C 41.966588 49.065584 42.009512 49.083904 42.013672 49.121094 C 42.021972 49.195464 42.085672 48.605507 43.386719 47.525391 C 45.810998 45.512781 47.471741 44.777178 49.023438 44.701172 z "
+     id="rect921" />
+</svg>

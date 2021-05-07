@@ -1,7 +1,7 @@
 function showPage(name, url) {
   $('[data-page]').hide();
-  if (name==='icons') $('#buttons').addClass('hidden');
-  else $('#buttons').removeClass('hidden');
+  $('body').removeClass();
+  $('body').addClass(name);
   $('[data-page="'+name+'"]').show();
   $('#header li').removeClass('selected');
   $('#header li.'+name).addClass('selected');
@@ -93,7 +93,7 @@ function showIcon(icon, url) {
       if (t.length>2 && t!==icon.theme && tags.indexOf(t)<0) tags.push(t);
     })
     tags.forEach(function(t) {
-      if (t) {
+      if (t && t !== 'new') {
         $('<span>').text(t)
           .click(function() { search(t) })
           .appendTo(tag);
@@ -135,7 +135,7 @@ $.ajax({
       themes[th].forEach(function(gly) {
         // console.log(gly)
         if (gly.version===version) {
-          gly.search += (gly.search?',':'')+'new';
+          gly.search += (gly.search?',':'') + 'new';
           news++;
         }
         $('<p>')

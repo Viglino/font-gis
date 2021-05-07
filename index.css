@@ -41,7 +41,7 @@ ul {
   text-align: center;
   padding: .5em;
 }
-#buttons.hidden {
+.icons #buttons {
   position: absolute;
   top: 0;
   z-index: -1;
@@ -68,12 +68,39 @@ ul {
   background-color: rgba(0,0,128,.4);
 }
 
+body.icons {
+  margin-top: 24em;
+}
+.icons #header,
+.icons #icon,
+.icons #search {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 1;
+}
+.icons #header p {
+  display: none;
+}
+.icons #header h1 {
+  margin: .5em auto .3em;
+}
+.icons #icon {
+  top: 6em;
+}
+.icons #search {
+  top: 19.5em;
+}
+
+
 pre {
   padding: .5em 1em;
   margin: 0 0 .5em;
   width: calc(100% - 4em);
   float: right;
   box-sizing: border-box;
+  overflow: auto;
 }
 
 #header,
@@ -198,16 +225,16 @@ h1 {
 }
 
 #search > div {
-  padding: .5em;
+  padding: .5em 1em;
   font-size: 1.5em;
+  white-space: nowrap;
 }
 #search > div > i {
   font-size: 1.2em;
   position: absolute;
   color: #aaa;
-  top: 50%;
+  top: .5em;
   left: 1em;
-  transform: translateY(-50%);
 }
 
 #search input {
@@ -218,6 +245,8 @@ h1 {
   color: #666;
   padding: 0.1em 0.5em 0.1em 2em;
   margin-right: .5em;
+  max-width: 100%;
+  box-sizing: border-box;
 }
 #search input:focus {
   border-color: orange;
@@ -251,6 +280,9 @@ h1 {
   cursor: pointer;
 }
 
+#content {
+  padding: 0;
+}
 #content h2 {
   text-transform: capitalize;
   margin: .5em 0 .2em;
@@ -274,6 +306,8 @@ h1 {
   cursor: pointer;
   margin: 0;
   vertical-align: top;
+  max-width: 20%;
+  min-width: 4em;
 }
 #content p i:hover {
   background-color: #369;
@@ -285,6 +319,25 @@ h1 {
   margin: auto;
   width: 1.2em;
   padding: .1em;
+}
+
+@media (max-width: 400px), (max-height: 500px) {
+  body {
+    font-size: 14px;
+  }
+  body.icons {
+    margin-top: 21em;
+  }
+  #icon h2,
+  #icon p {
+    letter-spacing: -.04em;
+  }
+  #icon > div {
+    font-size: .8em;
+  }
+  .icons #search {
+    top: 16.5em;
+  }
 }
 
 /* github corner */
