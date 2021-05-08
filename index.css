@@ -169,6 +169,38 @@ h1 {
   background-color: #ccc;
   margin: 0 -1em;
 }
+#icon .color {
+  position: absolute;
+  right: 0;
+  top: 4em;
+  border-radius: .5em;
+  border: .3em solid #fff;
+  width: 3.5em;
+  height: 3.5em;
+  text-align: center;
+  margin: 1em;
+}
+
+#icon select {
+  font-size: 1em;
+  position: absolute;
+  right: 0;
+  top: 0;
+  border-radius: 2em;
+  background-color: #369;
+  color: #fff;
+  padding: .5em .5em .5em 0;
+  font-weight: bold;
+  outline: none;
+  width: 5em;
+  margin-top: .3em;
+  border: .3em solid #fff;
+  box-sizing: border-box;
+}
+#icon option {
+  background-color: #fff;
+  color: #369;
+}
 #search {
   background-color: #eee;
   margin: 0 -1em;

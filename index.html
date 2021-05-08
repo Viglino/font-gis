@@ -118,6 +118,16 @@
         <i class="fg-poi fg-3x"></i>
         <i class="fg-poi fg-2x"></i>
         <i class="fg-poi fg-1x"></i>
+        <button class="color"></button>
+        <select dir="rtl" onclick="save(this.value)">
+          <option value="none">save</option>
+          <option value="svg">SVG</option>
+          <option value="24">PNG 24x24</option>
+          <option value="60">PNG 60x60</option>
+          <option value="100">PNG 100x100</option>
+          <option value="200">PNG 200x200</option>
+          <option value="1000">PNG 1000x1000</option>
+        </select>
         <br/>
         <h2>fg-poi</h2>
         <p>
@@ -244,8 +254,16 @@
 
   <!-- jQuery -->
   <script type="text/javascript" src="https://code.jquery.com/jquery-1.11.0.min.js"></script>
+  <!-- filesaver-js -->
+  <script type="text/javascript" src="https://cdn.rawgit.com/eligrey/FileSaver.js/aa9f4e0e/FileSaver.min.js"></script>
+  <!-- Color picker -->
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@r-tek/colr_pickr@2.0.0/build/colr_pickr.min.js"></script>
+  <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/@r-tek/colr_pickr@2.0.0/build/colr_pickr.min.css" />
+
   <script type="text/javascript" src="./index.js"></script>
-  <!-- buttons -->
+
+  <!-- Social buttons -->
   <script async defer src="https://buttons.github.io/buttons.js"></script>
   <script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 </body>

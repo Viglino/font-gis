@@ -1,3 +1,9 @@
+/** Color picker */
+var picker = new ColorPicker($('#icon .color').get(0), $('#icon i').css('color'));
+$('#icon .color').get(0).addEventListener('colorChange', function (e) {
+  $('#icon i').css('color', e.detail.color.hexa);
+});
+
 function showPage(name, url) {
   $('[data-page]').hide();
   $('body').removeClass();
@@ -12,7 +18,7 @@ function showPage(name, url) {
 }
 showPage('fg', false);
 
-var glyphs, version=0;
+var glyphs, currentGlyph, version=0;
 
 function search(val) {
   $('#search input').val(val);
@@ -82,6 +88,7 @@ $('#search input').on('keyup search', function() {
  */
 function showIcon(icon, url) {
   if (icon && icon.code) {
+    currentGlyph = icon;
     $('#icon i').removeClass().addClass('fg-'+icon.name)
     $('#icon h2').text('fg-' + icon.name);
     $('#icon .theme').text(icon.theme);
@@ -99,6 +106,42 @@ function showIcon(icon, url) {
           .appendTo(tag);
       }
     })
+  }
+}
+
+/** Save glyph */
+function save(opt) {
+  $('#icon select').val('none');
+  switch (opt) {
+    case 'none': break;
+    case 'svg': {
+      console.log('savesvg')
+      $.ajax({
+        url: './svg/' 
+          + currentGlyph.theme.replace(/edition/,'edit').replace(/geometry/,'geom')  
+          + '/u' + currentGlyph.code.toString(16).toUpperCase()
+          + '-' + currentGlyph.name +'.svg',
+        dataType : 'text',
+        success: function(rep) {
+          rep = rep.replace(/fill:#([^;]*)/g, 'fill:' + $('#icon i').css('color'));
+          var blob = new Blob([rep], {type: "text/plain;charset=utf-8"});
+          saveAs(blob, currentGlyph.name + '.svg');
+        }
+      })
+      break;
+    }
+    default: {
+      var canvas = document.createElement('CANVAS');
+      canvas.width = canvas.height = opt;
+      var ctx = canvas.getContext('2d');
+      ctx.font  = opt + 'px font-gis';
+      ctx.fillStyle = $('#icon i').css('color');
+      ctx.fillText(String.fromCharCode(currentGlyph.code), 0, opt * .8);
+      canvas.toBlob(function(blob) {
+        saveAs(blob, currentGlyph.name + '-' + opt + '.png');
+      }, 'image/png');
+      break;
+    }
   }
 }
 
