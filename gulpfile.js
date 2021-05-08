@@ -84,10 +84,13 @@ gulp.task('Iconfont', function(done) {
 /** Get glyphs */
 var font = JSON.parse(fs.readFileSync('./font-gis.json'));
 
-var first = true
 function mapGlyphs (glyph) {
-  first = false;
-  var resp = { name: glyph.name, codepoint: glyph.unicode[0].charCodeAt(0).toString(16), code: glyph.unicode[0].charCodeAt(0) };
+  var resp = { 
+    name: glyph.name, 
+    theme: fileDir[glyph.name],
+    codepoint: glyph.unicode[0].charCodeAt(0).toString(16), 
+    code: glyph.unicode[0].charCodeAt(0)
+  };
   var glyph = font.glyphs[className+'-'+glyph.name];
   // Get back theme / search information
   if (glyph && glyph.theme) {
@@ -96,7 +99,6 @@ function mapGlyphs (glyph) {
     resp.order = glyph.order;
     resp.version = glyph.version;
   }
-  resp.theme = fileDir[glyph.name];
   if (!resp.version) resp.version = version;
   if (!resp.date) resp.date = today;
   if (!resp.order) resp.order = Math.round(((new Date()) - (new Date('2021')))/1000);

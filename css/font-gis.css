@@ -5,11 +5,11 @@
  */
 @font-face {
   font-family: "font-gis";
-  src: url('../fonts/font-gis.eot?t=1620474665295');
+  src: url('../fonts/font-gis.eot?t=1620484070677');
   src: url('../fonts/font-gis.eot?#iefix') format('eot'),
-    url('../fonts/font-gis.woff2?t=1620474665295') format('woff2'),
-    url('../fonts/font-gis.woff?t=1620474665295') format('woff'),
-    url('../fonts/font-gis.ttf?t=1620474665295') format('truetype'),
+    url('../fonts/font-gis.woff2?t=1620484070677') format('woff2'),
+    url('../fonts/font-gis.woff?t=1620484070677') format('woff'),
+    url('../fonts/font-gis.ttf?t=1620484070677') format('truetype'),
     url('../fonts/font-gis.svg#font-gis') format('svg');
   font-weight: normal;
   font-style: normal;
@@ -202,6 +202,9 @@
 .fg-simplify:before { content: "\eae6"; }
 .fg-proj-point:before { content: "\eae7"; }
 .fg-scale-poly:before { content: "\eae8"; }
+.fg-skeletonize:before { content: "\eb17"; }
+.fg-dilatation:before { content: "\eb18"; }
+.fg-erosion:before { content: "\eb19"; }
 .fg-gpx-file:before { content: "\ea99"; }
 .fg-geojson-file:before { content: "\ea9a"; }
 .fg-kml-file:before { content: "\ea9b"; }
@@ -281,6 +284,8 @@
 .fg-globe-users:before { content: "\eb0d"; }
 .fg-globe-shield:before { content: "\eb0e"; }
 .fg-earth-network:before { content: "\eb0f"; }
+.fg-earth-network-o:before { content: "\eb10"; }
+.fg-globe-gear:before { content: "\eb11"; }
 .fg-layer:before { content: "\ea41"; }
 .fg-layer-o:before { content: "\ea42"; }
 .fg-layers:before { content: "\ea43"; }
@@ -303,6 +308,32 @@
 .fg-layer-landcover:before { content: "\eaf2"; }
 .fg-layer-contour:before { content: "\eaf3"; }
 .fg-layer-stat:before { content: "\eaf4"; }
+.fg-help-larrow:before { content: "\ea3e"; }
+.fg-help-rarrow:before { content: "\ea3f"; }
+.fg-home:before { content: "\eb14"; }
+.fg-poi:before { content: "\ea16"; }
+.fg-poi-o:before { content: "\ea17"; }
+.fg-poi-alt:before { content: "\ea18"; }
+.fg-poi-alt-o:before { content: "\ea19"; }
+.fg-pin:before { content: "\ea1a"; }
+.fg-pushpin:before { content: "\ea1b"; }
+.fg-pois:before { content: "\ea1c"; }
+.fg-pois-o:before { content: "\ea1d"; }
+.fg-poi-favorite:before { content: "\ea1e"; }
+.fg-poi-favorite-o:before { content: "\ea1f"; }
+.fg-poi-home:before { content: "\ea20"; }
+.fg-poi-home-o:before { content: "\ea21"; }
+.fg-poi-earth:before { content: "\ea34"; }
+.fg-pin-earth:before { content: "\ea35"; }
+.fg-pirate-poi:before { content: "\ea6c"; }
+.fg-location-poi:before { content: "\ea83"; }
+.fg-location-poi-o:before { content: "\ea84"; }
+.fg-bookmark-poi:before { content: "\eabe"; }
+.fg-bookmark-poi-b:before { content: "\eacf"; }
+.fg-poi-map:before { content: "\ead6"; }
+.fg-poi-map-o:before { content: "\ead7"; }
+.fg-location-man:before { content: "\eb15"; }
+.fg-location-man-alt:before { content: "\eb16"; }
 .fg-map:before { content: "\ea53"; }
 .fg-map-o:before { content: "\ea54"; }
 .fg-map-poi:before { content: "\ea55"; }
@@ -358,41 +389,6 @@
 .fg-measure-area:before { content: "\ea14"; }
 .fg-measure-area-alt:before { content: "\ea15"; }
 .fg-scale:before { content: "\eb01"; }
-.fg-help-larrow:before { content: "\ea3e"; }
-.fg-help-rarrow:before { content: "\ea3f"; }
-.fg-poi:before { content: "\ea16"; }
-.fg-poi-o:before { content: "\ea17"; }
-.fg-poi-alt:before { content: "\ea18"; }
-.fg-poi-alt-o:before { content: "\ea19"; }
-.fg-pin:before { content: "\ea1a"; }
-.fg-pushpin:before { content: "\ea1b"; }
-.fg-pois:before { content: "\ea1c"; }
-.fg-pois-o:before { content: "\ea1d"; }
-.fg-poi-favorite:before { content: "\ea1e"; }
-.fg-poi-favorite-o:before { content: "\ea1f"; }
-.fg-poi-home:before { content: "\ea20"; }
-.fg-poi-home-o:before { content: "\ea21"; }
-.fg-poi-earth:before { content: "\ea34"; }
-.fg-pin-earth:before { content: "\ea35"; }
-.fg-pirate-poi:before { content: "\ea6c"; }
-.fg-location-poi:before { content: "\ea83"; }
-.fg-location-poi-o:before { content: "\ea84"; }
-.fg-bookmark-poi:before { content: "\eabe"; }
-.fg-bookmark-poi-b:before { content: "\eacf"; }
-.fg-poi-map:before { content: "\ead6"; }
-.fg-poi-map-o:before { content: "\ead7"; }
-.fg-map-search:before { content: "\ea5e"; }
-.fg-search-map:before { content: "\ea5f"; }
-.fg-search-poi:before { content: "\ea60"; }
-.fg-search-globe:before { content: "\ea61"; }
-.fg-search-home:before { content: "\ea62"; }
-.fg-search-address:before { content: "\ea63"; }
-.fg-search-attribtues:before { content: "\ea64"; }
-.fg-search-propertie:before { content: "\ea65"; }
-.fg-search-feature:before { content: "\ea66"; }
-.fg-search-layer:before { content: "\ea67"; }
-.fg-search-country:before { content: "\ea69"; }
-.fg-search-globe-alt:before { content: "\eafa"; }
 .fg-route:before { content: "\ea7b"; }
 .fg-route-start:before { content: "\ea7c"; }
 .fg-route-end:before { content: "\ea7d"; }
@@ -434,4 +430,18 @@
 .fg-screen-dub:before { content: "\eadc"; }
 .fg-screen-split-h:before { content: "\eadd"; }
 .fg-screen-split-v:before { content: "\eade"; }
-.fg-screen-mag:before { content: "\eadf"; }
+.fg-screen-mag:before { content: "\eadf"; }
+.fg-map-search:before { content: "\ea5e"; }
+.fg-search-map:before { content: "\ea5f"; }
+.fg-search-poi:before { content: "\ea60"; }
+.fg-search-globe:before { content: "\ea61"; }
+.fg-search-home:before { content: "\ea62"; }
+.fg-search-address:before { content: "\ea63"; }
+.fg-search-attribtues:before { content: "\ea64"; }
+.fg-search-propertie:before { content: "\ea65"; }
+.fg-search-feature:before { content: "\ea66"; }
+.fg-search-layer:before { content: "\ea67"; }
+.fg-search-country:before { content: "\ea69"; }
+.fg-search-globe-alt:before { content: "\eafa"; }
+.fg-search-coord:before { content: "\eb12"; }
+.fg-search-data:before { content: "\eb13"; }

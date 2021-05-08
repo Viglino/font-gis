@@ -164,6 +164,7 @@ $.ajax({
       globe: []
     };
     var g;
+    var newDate = new Date((new Date()).getTime() - 7*24*60*60*1000);
     for (g in font.glyphs) {
       if (font.glyphs[g].version > version) version = font.glyphs[g].version;
       if (!themes[font.glyphs[g].theme]) themes[font.glyphs[g].theme] = [];
@@ -177,7 +178,9 @@ $.ajax({
       themes[th].sort(function(a,b) { return a.order-b.order || a.code-b.code; });
       themes[th].forEach(function(gly) {
         // console.log(gly)
-        if (gly.version===version) {
+        // var isNew = (gly.version===version) 
+        var isNew = gly.date > newDate.toISOString();
+        if (isNew) {
           gly.search += (gly.search?',':'') + 'new';
           news++;
         }
@@ -186,7 +189,7 @@ $.ajax({
           .click(function() {
             showIcon(gly);
           })
-          .addClass(gly.version===version ? 'new' : '')
+          .addClass(isNew ? 'new' : '')
           .append($('<span>').text(gly.name))
           .attr('title', '\\'+gly.code.toString(16))
           .appendTo(div);

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="location-man-alt.svg"
+   id="svg4460"
+   height="100"
+   width="100"
+   version="1.1">
+  <path
+     d="M 49.78125 23.591797 C 41.946533 23.593325 34.184445 26.960052 35 33.6875 L 37 48.3125 C 37.351853 50.885428 39.090625 55 41.6875 55 L 41.873047 55 L 44 80.529297 C 44.092014 81.63347 44.892 82.529297 46 82.529297 L 54 82.529297 C 55.108 82.529297 55.90799 81.63347 56 80.529297 L 58.126953 55 L 58.3125 55 C 60.909375 55 62.648147 50.885428 63 48.3125 L 65 33.6875 C 65.523313 26.95394 57.615967 23.590269 49.78125 23.591797 z "
+     style="color:#000000;overflow:visible;fill:#000080;stroke:none;stroke-width:2.93395;stroke-linejoin:round;stop-color:#000000"
+     id="rect839" />
+  <sodipodi:namedview
+     inkscape:document-rotation="0"
+     inkscape:current-layer="svg4460"
+     inkscape:window-maximized="1"
+     inkscape:window-y="-8"
+     inkscape:window-x="-8"
+     inkscape:cy="93.307548"
+     inkscape:cx="1.0869978"
+     inkscape:zoom="4.04"
+     showgrid="false"
+     id="namedview11"
+     inkscape:window-height="1017"
+     inkscape:window-width="1920"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <defs
+     id="defs4462" />
+  <metadata
+     id="metadata4465">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     id="path854"
+     d="m 50.024105,50.907851 -0.04824,0.126174 c 0.01569,-0.03832 0.02717,-0.07672 0.04267,-0.115041 0.0015,-0.0039 0.004,-0.0072 0.0056,-0.01113 z"
+     style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#000080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.99996;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000" />
+  <path
+     id="path887"
+     style="color:#000000;overflow:visible;fill:#000080;fill-opacity:1;stroke:none;stroke-width:32.9863;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:20;stroke-opacity:1"
+     d="M 34.005859 69.056641 C 19.88 71.053186 10 75.828203 10 82.857422 C 10 92.325162 26.508399 100 50 100 C 73.491601 100 90 92.325162 90 82.857422 C 90 75.828458 80.121131 71.053311 65.996094 69.056641 C 65.344446 70.167897 64.690786 71.277462 64.039062 72.388672 C 74.685032 73.86573 82 76.970125 82 80.572266 C 82 85.621726 67.673113 89.714844 50 89.714844 C 32.326887 89.714844 18 85.621726 18 80.572266 C 17.998711 76.982691 25.266228 73.880999 35.945312 72.398438 C 35.29976 71.283901 34.650807 70.171565 34.005859 69.056641 z " />
+  <circle
+     r="10.5"
+     cy="10.5"
+     cx="50"
+     id="path837"
+     style="color:#000000;overflow:visible;fill:#000080;stroke:none;stroke-width:4.83798;stroke-linejoin:round;stop-color:#000000" />
+</svg>
