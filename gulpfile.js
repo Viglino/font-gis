@@ -18,8 +18,22 @@ var today = (new Date()).toISOString().split('T')[0]
 var version = process.env.npm_package_version.split('.');
 version = 10000*version[0] + 100*version[1] + version[2];
 
+const es = require('event-stream');
+var path = require('path');
+var fileDir = {};
+
+function logFile() {
+  return es.map(function(file, cb) {
+    var dir = path.parse(file.path).dir;
+    var name = path.parse(file.path).name.replace(/^u[^-]*-/,'');
+    fileDir[name] = path.parse(dir).name;
+    return cb(null, file);
+  });
+};
+
 gulp.task('Iconfont', function(done) {
   var iconStream = gulp.src(['svg/**/u*.svg', 'svg/**/*.svg'])
+    .pipe(logFile()) 
     .pipe(iconfont({ 
       fontName: fontName,
       prependUnicode: true, // recommended option
@@ -70,21 +84,23 @@ gulp.task('Iconfont', function(done) {
 /** Get glyphs */
 var font = JSON.parse(fs.readFileSync('./font-gis.json'));
 
+var first = true
 function mapGlyphs (glyph) {
+  first = false;
   var resp = { name: glyph.name, codepoint: glyph.unicode[0].charCodeAt(0).toString(16), code: glyph.unicode[0].charCodeAt(0) };
   var glyph = font.glyphs[className+'-'+glyph.name];
   // Get back theme / search information
   if (glyph && glyph.theme) {
-    resp.theme = glyph.theme;
     resp.search = glyph.search;
     resp.date = glyph.date;
     resp.order = glyph.order;
     resp.version = glyph.version;
   }
+  resp.theme = fileDir[glyph.name];
   if (!resp.version) resp.version = version;
   if (!resp.date) resp.date = today;
   if (!resp.order) resp.order = Math.round(((new Date()) - (new Date('2021')))/1000);
-  console.log({ name: resp.name, code: resp.codepoint });
+//  console.log({ name: resp.name, code: resp.codepoint });
   return resp;
 }
 

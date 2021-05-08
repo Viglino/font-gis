@@ -118,7 +118,7 @@ function save(opt) {
       console.log('savesvg')
       $.ajax({
         url: './svg/' 
-          + currentGlyph.theme.replace(/edition/,'edit').replace(/geometry/,'geom')  
+          + currentGlyph.theme
           + '/u' + currentGlyph.code.toString(16).toUpperCase()
           + '-' + currentGlyph.name +'.svg',
         dataType : 'text',
@@ -152,8 +152,8 @@ $.ajax({
     glyphs = font.glyphs;
     var content = $('#content');
     var themes = {
-      edition: [],
-      geometry: [],
+      edit: [],
+      geom: [],
       search: [],
       measure: [],
       tools: [],
@@ -173,7 +173,7 @@ $.ajax({
     var news = 0;
     Object.keys(themes).forEach(function(th) {
       var div = $('<div>').appendTo(content);
-      $('<h2>').text(th).appendTo(div);
+      $('<h2>').text(th.replace('edit', 'edition').replace('geom', 'geometry')).appendTo(div);
       themes[th].sort(function(a,b) { return a.order-b.order || a.code-b.code; });
       themes[th].forEach(function(gly) {
         // console.log(gly)
