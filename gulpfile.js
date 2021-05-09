@@ -95,13 +95,13 @@ function mapGlyphs (glyph) {
   // Get back theme / search information
   if (glyph && glyph.theme) {
     resp.search = glyph.search;
-    resp.date = glyph.date;
     resp.order = glyph.order;
     resp.version = glyph.version;
+    resp.date = glyph.date;
   }
+  if (!resp.order) resp.order = Math.round(((new Date()) - (new Date('2021')))/1000);
   if (!resp.version) resp.version = version;
   if (!resp.date) resp.date = today;
-  if (!resp.order) resp.order = Math.round(((new Date()) - (new Date('2021')))/1000);
 //  console.log({ name: resp.name, code: resp.codepoint });
   return resp;
 }

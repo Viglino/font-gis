@@ -7,6 +7,6 @@
   "license": "<%= license %>",
   "homepage": "<%= homepage %>",
   "glyphs": {<% _.each(glyphs, function(glyph, i){ %><% if(i) { %>,<% } %>
-    "<%= className %>-<%= glyph.name %>": { "font": "<%= fontName %>", "name": "<%= glyph.name %>", "code": <%= glyph.code %>, "theme": "<%= glyph.theme %>", "search": "<%= glyph.search %>", "date": "<%= glyph.date %>", "order": <%= glyph.order %>, "version": <%= glyph.version %> }<% }); %>
+    "<%= className %>-<%= glyph.name %>": { "name": "<%= glyph.name %>", "code": <%= glyph.code %>, "theme": "<%= glyph.theme %>", "search": "<%= glyph.search %>", "order": <%= glyph.order %>, "version": <%= glyph.version %>, "date": "<%= glyph.date %>" }<% }); %>
   }
 }
