@@ -7,33 +7,33 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   version="1.1"
-   width="100"
-   height="100"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="uEA20-poi-home.svg"
    id="svg4460"
-   sodipodi:docname="poi-home.svg"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)">
+   height="100"
+   width="100"
+   version="1.1">
   <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1017"
-     id="namedview11"
-     showgrid="false"
-     inkscape:zoom="2.02"
-     inkscape:cx="165.81781"
-     inkscape:cy="189.21911"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
-     inkscape:window-maximized="1"
+     inkscape:document-rotation="0"
      inkscape:current-layer="svg4460"
-     inkscape:document-rotation="0" />
+     inkscape:window-maximized="1"
+     inkscape:window-y="-8"
+     inkscape:window-x="-8"
+     inkscape:cy="189.21911"
+     inkscape:cx="165.81781"
+     inkscape:zoom="2.02"
+     showgrid="false"
+     id="namedview11"
+     inkscape:window-height="1017"
+     inkscape:window-width="1920"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
   <defs
      id="defs4462" />
   <metadata
@@ -44,12 +44,13 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <path
-     d="M 50.001953 0 C 30.763602 0 15 15.718954 15 34.902344 C 15 42.335126 17.374454 49.240855 21.392578 54.919922 L 45.730469 96.994141 C 49.138959 101.44695 51.404184 100.6015 54.238281 96.759766 L 81.083984 51.076172 C 81.626297 50.095184 82.050876 49.051031 82.421875 47.984375 C 84.078789 43.93748 85.000002 39.522753 85 34.902344 C 85 15.718954 69.240305 4.7369516e-15 50.001953 0 z M 49.998047 13.240234 A 1.3151316 1.3151316 0 0 1 50.878906 13.576172 L 69.59375 30.369141 A 1.3151316 1.3151316 0 0 1 68.714844 32.664062 L 65.365234 32.664062 L 65.365234 53.890625 A 1.3151316 1.3151316 0 0 1 64.050781 55.205078 L 35.949219 55.205078 A 1.3151316 1.3151316 0 0 1 34.634766 53.890625 L 34.634766 32.664062 L 31.285156 32.664062 A 1.3151316 1.3151316 0 0 1 30.40625 30.369141 L 49.121094 13.576172 A 1.3151316 1.3151316 0 0 1 49.998047 13.240234 z "
-     style="fill:#000080;stroke-width:4.26019"
-     id="path4135" />
+     sodipodi:nodetypes="sscccccsscccccccccccccc"
+     id="path4135"
+     style="fill:#000080;stroke-width:4.69742"
+     d="M 50.002232,-9.5530368e-8 C 28.015545,-9.5530368e-8 10,16.722201 10,37.129953 c 0,7.907172 2.713662,15.253652 7.305803,21.29518 l 27.814733,38.376622 c 3.895417,4.737005 6.484246,3.837595 9.723214,-0.249334 L 85.524553,54.33606 c 0.619786,-1.043599 1.10502,-2.154394 1.529018,-3.289128 C 88.947187,46.741747 90.000002,42.045255 90,37.129953 90,16.722201 71.98892,-9.5530368e-8 50.002232,-9.5530368e-8 Z M 49.997732,14.085279 c 0.37148,-7.7e-4 0.730107,0.126542 1.006696,0.357379 l 21.388386,17.864764 c 1.028348,0.857062 0.375842,2.443002 -1.004464,2.441392 h -3.828126 v 22.581328 c -4.27e-4,0.772121 -0.672749,1.397949 -1.502232,1.398347 H 33.941965 C 33.112482,58.728091 32.44016,58.102263 32.439733,57.330142 V 34.748814 h -3.828126 c -1.380306,0.0016 -2.032812,-1.58433 -1.004464,-2.441392 L 48.995536,14.442658 c 0.275443,-0.229879 0.63229,-0.357125 1.002232,-0.357379 z" />
 </svg>
