@@ -18,6 +18,7 @@
 .font-gis {
   width: 1em;
   height: 1em;
+  fill: currentColor;
 }
 
 [class^="fg-"]:before, [class*="fg-"]:before {
@@ -462,4 +463,4 @@
 .fg-grid:before { content: "\eb20"; }
 .fg-cube-3d:before { content: "\eb21"; }
 .fg-coord-grid:before { content: "\eb25"; }
-.fg-story-maps:before { content: "\eb2b"; }
+.fg-story-maps:before { content: "\eb2b"; }
