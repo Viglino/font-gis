@@ -5,11 +5,11 @@
  */
 @font-face {
   font-family: "font-gis";
-  src: url('../fonts/font-gis.eot?t=1620552837507');
+  src: url('../fonts/font-gis.eot?t=1620627145673');
   src: url('../fonts/font-gis.eot?#iefix') format('eot'),
-    url('../fonts/font-gis.woff2?t=1620552837507') format('woff2'),
-    url('../fonts/font-gis.woff?t=1620552837507') format('woff'),
-    url('../fonts/font-gis.ttf?t=1620552837507') format('truetype'),
+    url('../fonts/font-gis.woff2?t=1620627145673') format('woff2'),
+    url('../fonts/font-gis.woff?t=1620627145673') format('woff'),
+    url('../fonts/font-gis.ttf?t=1620627145673') format('truetype'),
     url('../fonts/font-gis.svg#font-gis') format('svg');
   font-weight: normal;
   font-style: normal;
@@ -268,6 +268,7 @@
 .fg-layer-landcover:before { content: "\eaf2"; }
 .fg-layer-contour:before { content: "\eaf3"; }
 .fg-layer-stat:before { content: "\eaf4"; }
+.fg-layer-stat-alt:before { content: "\eb29"; }
 .fg-earth:before { content: "\ea22"; }
 .fg-earth-euro-africa:before { content: "\ea23"; }
 .fg-earth-atlantic:before { content: "\ea24"; }
@@ -311,14 +312,6 @@
 .fg-earth-network:before { content: "\eb0f"; }
 .fg-earth-network-o:before { content: "\eb10"; }
 .fg-globe-gear:before { content: "\eb11"; }
-.fg-measure:before { content: "\ea08"; }
-.fg-measure-line:before { content: "\ea13"; }
-.fg-measure-area:before { content: "\ea14"; }
-.fg-measure-area-alt:before { content: "\ea15"; }
-.fg-scale:before { content: "\eb01"; }
-.fg-help-larrow:before { content: "\ea3e"; }
-.fg-help-rarrow:before { content: "\ea3f"; }
-.fg-home:before { content: "\eb14"; }
 .fg-map:before { content: "\ea53"; }
 .fg-map-o:before { content: "\ea54"; }
 .fg-map-poi:before { content: "\ea55"; }
@@ -369,6 +362,14 @@
 .fg-map-lock:before { content: "\eb04"; }
 .fg-map-unlock:before { content: "\eb05"; }
 .fg-weather-map:before { content: "\eb0b"; }
+.fg-measure:before { content: "\ea08"; }
+.fg-measure-line:before { content: "\ea13"; }
+.fg-measure-area:before { content: "\ea14"; }
+.fg-measure-area-alt:before { content: "\ea15"; }
+.fg-scale:before { content: "\eb01"; }
+.fg-help-larrow:before { content: "\ea3e"; }
+.fg-help-rarrow:before { content: "\ea3f"; }
+.fg-home:before { content: "\eb14"; }
 .fg-poi:before { content: "\ea16"; }
 .fg-poi-o:before { content: "\ea17"; }
 .fg-poi-alt:before { content: "\ea18"; }
