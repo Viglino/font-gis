@@ -1,6 +1,11 @@
 # <img src="https://github.com/Viglino/font-gis/blob/main/svg/globe/uEA82-globe-poi.svg" height="40" /> Font-GIS
 *Icon font set for use with GIS and spatial analysis tools*
 
+[![](https://img.shields.io/npm/v/font-gis.svg)](https://www.npmjs.com/package/font-gis)
+![](https://img.shields.io/npm/dt/font-gis.svg)
+![](https://img.shields.io/npm/dw/font-gis)
+![](https://img.shields.io/npm/l/font-gis.svg)
+
 I've collected in this repo icons and graphics I've been using in my projects.
 Font-GIS icons and font theme is designed mainly for GIS applications and web mapping tools. 
 They can be easily included in a project using te font or svg images.
