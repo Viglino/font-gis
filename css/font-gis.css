@@ -5,11 +5,11 @@
  */
 @font-face {
   font-family: "font-gis";
-  src: url('../fonts/font-gis.eot?t=1620627457730');
+  src: url('../fonts/font-gis.eot?t=1620649515927');
   src: url('../fonts/font-gis.eot?#iefix') format('eot'),
-    url('../fonts/font-gis.woff2?t=1620627457730') format('woff2'),
-    url('../fonts/font-gis.woff?t=1620627457730') format('woff'),
-    url('../fonts/font-gis.ttf?t=1620627457730') format('truetype'),
+    url('../fonts/font-gis.woff2?t=1620649515927') format('woff2'),
+    url('../fonts/font-gis.woff?t=1620649515927') format('woff'),
+    url('../fonts/font-gis.ttf?t=1620649515927') format('truetype'),
     url('../fonts/font-gis.svg#font-gis') format('svg');
   font-weight: normal;
   font-style: normal;
@@ -172,18 +172,6 @@
 .fg-compass-rose-n:before { content: "\ea93"; }
 .fg-compass-alt:before { content: "\eb06"; }
 .fg-compass-alt-o:before { content: "\eb07"; }
-.fg-gpx-file:before { content: "\ea99"; }
-.fg-geojson-file:before { content: "\ea9a"; }
-.fg-kml-file:before { content: "\ea9b"; }
-.fg-wms:before { content: "\ea9c"; }
-.fg-wmts:before { content: "\ea9d"; }
-.fg-wfs:before { content: "\ea9e"; }
-.fg-wfs-t:before { content: "\ea9f"; }
-.fg-mvt:before { content: "\eaa0"; }
-.fg-xyz:before { content: "\eaa1"; }
-.fg-shape-file:before { content: "\eaa2"; }
-.fg-esri-json-file:before { content: "\eaa3"; }
-.fg-topojson-file:before { content: "\eaa4"; }
 .fg-arrow-o:before { content: "\ea3a"; }
 .fg-arrow:before { content: "\ea3b"; }
 .fg-modify-line:before { content: "\ea3c"; }
@@ -220,6 +208,18 @@
 .fg-translate:before { content: "\eb26"; }
 .fg-translate-x:before { content: "\eb27"; }
 .fg-translate-y:before { content: "\eb28"; }
+.fg-gpx-file:before { content: "\ea99"; }
+.fg-geojson-file:before { content: "\ea9a"; }
+.fg-kml-file:before { content: "\ea9b"; }
+.fg-wms:before { content: "\ea9c"; }
+.fg-wmts:before { content: "\ea9d"; }
+.fg-wfs:before { content: "\ea9e"; }
+.fg-wfs-t:before { content: "\ea9f"; }
+.fg-mvt:before { content: "\eaa0"; }
+.fg-xyz:before { content: "\eaa1"; }
+.fg-shape-file:before { content: "\eaa2"; }
+.fg-esri-json-file:before { content: "\eaa3"; }
+.fg-topojson-file:before { content: "\eaa4"; }
 .fg-point:before { content: "\ea01"; }
 .fg-polyline-pt:before { content: "\ea02"; }
 .fg-polygon-pt:before { content: "\ea03"; }
@@ -362,6 +362,7 @@
 .fg-map-lock:before { content: "\eb04"; }
 .fg-map-unlock:before { content: "\eb05"; }
 .fg-weather-map:before { content: "\eb0b"; }
+.fg-story-map-o:before { content: "\eb2a"; }
 .fg-measure:before { content: "\ea08"; }
 .fg-measure-line:before { content: "\ea13"; }
 .fg-measure-area:before { content: "\ea14"; }
@@ -460,4 +461,5 @@
 .fg-coord-system-3d-alt:before { content: "\eb1f"; }
 .fg-grid:before { content: "\eb20"; }
 .fg-cube-3d:before { content: "\eb21"; }
-.fg-coord-grid:before { content: "\eb25"; }
+.fg-coord-grid:before { content: "\eb25"; }
+.fg-story-maps:before { content: "\eb2b"; }
