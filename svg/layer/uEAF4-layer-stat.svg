@@ -26,9 +26,9 @@
      inkscape:window-height="1177"
      id="namedview11"
      showgrid="false"
-     inkscape:zoom="6.9532167"
-     inkscape:cx="6.2997401"
-     inkscape:cy="57.269299"
+     inkscape:zoom="2.4583333"
+     inkscape:cx="-32.675605"
+     inkscape:cy="90.853665"
      inkscape:window-x="1272"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -58,13 +58,8 @@
      id="rect921"
      inkscape:connector-curvature="0" />
   <path
-     style="opacity:1;fill:#000080;fill-opacity:1;stroke:none;stroke-width:5.61456871;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
-     d="m 50.200553,39.529969 a 18.168252,7.2673008 0 0 0 -7.112248,0.491934 l 6.589136,6.772743 18.154766,0.27195 a 18.168252,7.2673008 0 0 0 -7.61977,-6.192471 18.168252,7.2673008 0 0 0 -10.011884,-1.344156 z"
-     id="path903"
-     inkscape:connector-curvature="0" />
-  <path
-     style="opacity:1;fill:#000080;fill-opacity:1;stroke:none;stroke-width:5.61456871;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
-     d="m 39.755335,44.661019 a 18.168252,7.2673008 0 0 0 -11.137787,8.539548 18.168252,7.2673008 0 0 0 19.840158,5.461499 18.168252,7.2673008 0 0 0 15.96012,-7.214445 H 46.249203 Z"
-     id="path862"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     d="m 59.730304,37.50002 -7.011719,10.748799 18.380859,0.187773 A 18.384775,11.628375 0 0 0 59.730304,37.50002 Z m -12.455078,0.794331 a 18.384775,11.628375 0 0 0 -15.271485,5.161302 18.384775,11.628375 0 0 0 2.337891,14.726632 L 47.281085,49.922721 54.42171,39.207277 a 18.384775,11.628375 0 0 0 -7.146484,-0.912926 z m 1.380859,12.57712 -13.181641,8.105145 a 18.384775,11.628375 0 0 0 20.097657,2.669596 18.384775,11.628375 0 0 0 11.46875,-10.774741 z"
+     style="color:#000000;overflow:visible;fill:#000080;stroke-width:2.63410926;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:20"
+     id="path830-9" />
 </svg>
