@@ -123,7 +123,7 @@ function save(opt) {
           + '-' + currentGlyph.name +'.svg',
         dataType : 'text',
         success: function(rep) {
-          rep = rep.replace(/fill:#([^;]*)/g, 'fill:' + $('#icon i').css('color'));
+          rep = rep.replace(/fill:#([^;|\"]*)/g, 'fill:' + $('#icon i').css('color'));
           var blob = new Blob([rep], {type: "text/plain;charset=utf-8"});
           saveAs(blob, currentGlyph.name + '.svg');
         }
