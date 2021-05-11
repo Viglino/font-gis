@@ -112,6 +112,8 @@
     "fg-layer-contour": { "name": "layer-contour", "code": 60147, "theme": "layer", "search": "", "order": 10762698, "version": 100002, "date": "2021-05-05" },
     "fg-layer-stat": { "name": "layer-stat", "code": 60148, "theme": "layer", "search": "", "order": 10762698, "version": 100002, "date": "2021-05-05" },
     "fg-layer-stat-alt": { "name": "layer-stat-alt", "code": 60201, "theme": "layer", "search": "", "order": 11167242, "version": 100003, "date": "2021-05-10" },
+    "fg-layer-edit": { "name": "layer-edit", "code": 60205, "theme": "layer", "search": "", "order": 11284473, "version": 100003, "date": "2021-05-11" },
+    "fg-layer-alt-edit": { "name": "layer-alt-edit", "code": 60206, "theme": "layer", "search": "", "order": 11284473, "version": 100003, "date": "2021-05-11" },
     "fg-earth": { "name": "earth", "code": 59938, "theme": "globe", "search": "", "order": 9676800, "version": 100001, "date": "2021-04-23" },
     "fg-earth-euro-africa": { "name": "earth-euro-africa", "code": 59939, "theme": "globe", "search": "", "order": 9676901, "version": 100001, "date": "2021-04-23" },
     "fg-earth-atlantic": { "name": "earth-atlantic", "code": 59940, "theme": "globe", "search": "", "order": 9676902, "version": 100001, "date": "2021-04-23" },
@@ -206,6 +208,8 @@
     "fg-map-unlock": { "name": "map-unlock", "code": 60165, "theme": "map", "search": "lock", "order": 10476792, "version": 100002, "date": "2021-05-07" },
     "fg-weather-map": { "name": "weather-map", "code": 60171, "theme": "map", "search": "", "order": 9936000, "version": 100002, "date": "2021-05-07" },
     "fg-story-map-o": { "name": "story-map-o", "code": 60202, "theme": "map", "search": "", "order": 11190155, "version": 100003, "date": "2021-05-10" },
+    "fg-story-maps": { "name": "story-maps", "code": 60203, "theme": "map", "search": "", "order": 11190316, "version": 100003, "date": "2021-05-10" },
+    "fg-map-edit": { "name": "map-edit", "code": 60204, "theme": "map", "search": "", "order": 10476792, "version": 100003, "date": "2021-05-11" },
     "fg-measure": { "name": "measure", "code": 59912, "theme": "measure", "search": "", "order": 8985600, "version": 100001, "date": "2021-04-15" },
     "fg-measure-line": { "name": "measure-line", "code": 59923, "theme": "measure", "search": "", "order": 8985600, "version": 100001, "date": "2021-04-15" },
     "fg-measure-area": { "name": "measure-area", "code": 59924, "theme": "measure", "search": "", "order": 8985600, "version": 100001, "date": "2021-04-15" },
@@ -304,7 +308,6 @@
     "fg-coord-system-3d-alt": { "name": "coord-system-3d-alt", "code": 60191, "theme": "tools", "search": "", "order": 11083192, "version": 100003, "date": "2021-05-09" },
     "fg-grid": { "name": "grid", "code": 60192, "theme": "tools", "search": "", "order": 11083952, "version": 100003, "date": "2021-05-09" },
     "fg-cube-3d": { "name": "cube-3d", "code": 60193, "theme": "tools", "search": "", "order": 11084680, "version": 100003, "date": "2021-05-09" },
-    "fg-coord-grid": { "name": "coord-grid", "code": 60197, "theme": "tools", "search": "", "order": 11091260, "version": 100003, "date": "2021-05-09" },
-    "fg-story-maps": { "name": "story-maps", "code": 60203, "theme": "map", "search": "", "order": 11190316, "version": 100003, "date": "2021-05-10" }
+    "fg-coord-grid": { "name": "coord-grid", "code": 60197, "theme": "tools", "search": "", "order": 11091260, "version": 100003, "date": "2021-05-09" }
   }
 }
