@@ -8,7 +8,7 @@
 
 I've collected in this repo icons and graphics I've been using in my projects.
 Font-GIS icons and font theme is designed mainly for GIS applications and web mapping tools. 
-They can be easily included in a project using te font or svg images.
+They can be easily included in a project using the font or svg images.
 
 [See demo page and examples <img src="https://github.com/Viglino/font-gis/blob/main/svg/search/uEA5F-search-map.svg" height="25" />](https://viglino.github.io/font-gis/)
 
