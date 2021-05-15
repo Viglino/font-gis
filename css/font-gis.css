@@ -5,11 +5,11 @@
  */
 @font-face {
   font-family: "font-gis";
-  src: url('../fonts/font-gis.eot?t=1620743912817');
+  src: url('../fonts/font-gis.eot?t=1621090133583');
   src: url('../fonts/font-gis.eot?#iefix') format('eot'),
-    url('../fonts/font-gis.woff2?t=1620743912817') format('woff2'),
-    url('../fonts/font-gis.woff?t=1620743912817') format('woff'),
-    url('../fonts/font-gis.ttf?t=1620743912817') format('truetype'),
+    url('../fonts/font-gis.woff2?t=1621090133583') format('woff2'),
+    url('../fonts/font-gis.woff?t=1621090133583') format('woff'),
+    url('../fonts/font-gis.ttf?t=1621090133583') format('truetype'),
     url('../fonts/font-gis.svg#font-gis') format('svg');
   font-weight: normal;
   font-style: normal;
@@ -220,6 +220,15 @@
 .fg-shape-file:before { content: "\eaa2"; }
 .fg-esri-json-file:before { content: "\eaa3"; }
 .fg-topojson-file:before { content: "\eaa4"; }
+.fg-folder-map:before { content: "\eb2f"; }
+.fg-world-folder-o:before { content: "\eb30"; }
+.fg-world-folder:before { content: "\eb31"; }
+.fg-folder-globe:before { content: "\eb32"; }
+.fg-folder-globe-o:before { content: "\eb33"; }
+.fg-folder-maps:before { content: "\eb34"; }
+.fg-folder-poi:before { content: "\eb35"; }
+.fg-folder-poi-o:before { content: "\eb36"; }
+.fg-folder-pois:before { content: "\eb37"; }
 .fg-point:before { content: "\ea01"; }
 .fg-polyline-pt:before { content: "\ea02"; }
 .fg-polygon-pt:before { content: "\ea03"; }
@@ -246,31 +255,6 @@
 .fg-regular-shape-pt:before { content: "\eaeb"; }
 .fg-regular-shape-o:before { content: "\eaec"; }
 .fg-regular-shape:before { content: "\eaed"; }
-.fg-layer:before { content: "\ea41"; }
-.fg-layer-o:before { content: "\ea42"; }
-.fg-layers:before { content: "\ea43"; }
-.fg-layers-o:before { content: "\ea44"; }
-.fg-layer-up:before { content: "\ea45"; }
-.fg-layer-down:before { content: "\ea46"; }
-.fg-layer-alt:before { content: "\ea47"; }
-.fg-layer-alt-o:before { content: "\ea48"; }
-.fg-layer-stack:before { content: "\ea49"; }
-.fg-layer-stack-o:before { content: "\ea4a"; }
-.fg-layer-add:before { content: "\ea4b"; }
-.fg-layer-add-o:before { content: "\ea4c"; }
-.fg-layer-rm:before { content: "\ea4d"; }
-.fg-layer-rm-o:before { content: "\ea4e"; }
-.fg-layer-poi:before { content: "\ea6a"; }
-.fg-layer-download:before { content: "\ea97"; }
-.fg-layer-upload:before { content: "\ea98"; }
-.fg-layer-road:before { content: "\eaf0"; }
-.fg-layer-hydro:before { content: "\eaf1"; }
-.fg-layer-landcover:before { content: "\eaf2"; }
-.fg-layer-contour:before { content: "\eaf3"; }
-.fg-layer-stat:before { content: "\eaf4"; }
-.fg-layer-stat-alt:before { content: "\eb29"; }
-.fg-layer-edit:before { content: "\eb2d"; }
-.fg-layer-alt-edit:before { content: "\eb2e"; }
 .fg-earth:before { content: "\ea22"; }
 .fg-earth-euro-africa:before { content: "\ea23"; }
 .fg-earth-atlantic:before { content: "\ea24"; }
@@ -314,6 +298,31 @@
 .fg-earth-network:before { content: "\eb0f"; }
 .fg-earth-network-o:before { content: "\eb10"; }
 .fg-globe-gear:before { content: "\eb11"; }
+.fg-layer:before { content: "\ea41"; }
+.fg-layer-o:before { content: "\ea42"; }
+.fg-layers:before { content: "\ea43"; }
+.fg-layers-o:before { content: "\ea44"; }
+.fg-layer-up:before { content: "\ea45"; }
+.fg-layer-down:before { content: "\ea46"; }
+.fg-layer-alt:before { content: "\ea47"; }
+.fg-layer-alt-o:before { content: "\ea48"; }
+.fg-layer-stack:before { content: "\ea49"; }
+.fg-layer-stack-o:before { content: "\ea4a"; }
+.fg-layer-add:before { content: "\ea4b"; }
+.fg-layer-add-o:before { content: "\ea4c"; }
+.fg-layer-rm:before { content: "\ea4d"; }
+.fg-layer-rm-o:before { content: "\ea4e"; }
+.fg-layer-poi:before { content: "\ea6a"; }
+.fg-layer-download:before { content: "\ea97"; }
+.fg-layer-upload:before { content: "\ea98"; }
+.fg-layer-road:before { content: "\eaf0"; }
+.fg-layer-hydro:before { content: "\eaf1"; }
+.fg-layer-landcover:before { content: "\eaf2"; }
+.fg-layer-contour:before { content: "\eaf3"; }
+.fg-layer-stat:before { content: "\eaf4"; }
+.fg-layer-stat-alt:before { content: "\eb29"; }
+.fg-layer-edit:before { content: "\eb2d"; }
+.fg-layer-alt-edit:before { content: "\eb2e"; }
 .fg-map:before { content: "\ea53"; }
 .fg-map-o:before { content: "\ea54"; }
 .fg-map-poi:before { content: "\ea55"; }
