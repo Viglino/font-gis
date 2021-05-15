@@ -340,6 +340,7 @@ h1 {
   vertical-align: top;
   max-width: 20%;
   min-width: 4em;
+  overflow: hidden;
 }
 #content p i:hover {
   background-color: #369;

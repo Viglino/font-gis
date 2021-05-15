@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="100"
+   height="100"
+   id="svg4460"
+   sodipodi:docname="uEB3E-topography.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     id="namedview11"
+     showgrid="false"
+     inkscape:zoom="4.0000002"
+     inkscape:cx="-27.588392"
+     inkscape:cy="59.545663"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4460"
+     inkscape:document-rotation="0" />
+  <defs
+     id="defs4462">
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="TriangleOutM"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path983"
+         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.25)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="TriangleOutM-1"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM">
+      <path
+         transform="scale(0.25)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path983-4" />
+    </marker>
+  </defs>
+  <metadata
+     id="metadata4465">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     d="M 36.771484 7.0820312 C 34.964022 7.0822123 33.498228 8.5480078 33.498047 10.355469 L 33.498047 14.9375 L 15.0625 14.9375 L 15.0625 60.316406 L 33.498047 60.316406 L 33.498047 64.898438 C 33.498228 66.7059 34.964022 68.171694 36.771484 68.171875 L 40.345703 68.171875 L 40.345703 72.917969 L 43.933594 72.917969 L 39.142578 100 L 44.8125 100 L 49.603516 72.917969 L 50.396484 72.917969 L 55.189453 100 L 60.859375 100 L 56.068359 72.917969 L 59.654297 72.917969 L 59.654297 68.171875 L 63.228516 68.171875 C 65.035978 68.171694 66.501772 66.7059 66.501953 64.898438 L 66.501953 60.316406 L 84.9375 60.316406 L 84.9375 14.9375 L 66.501953 14.9375 L 66.501953 10.355469 C 66.501772 8.5480078 65.035978 7.0822123 63.228516 7.0820312 L 36.771484 7.0820312 z M 40.042969 13.628906 L 59.957031 13.628906 L 59.957031 51.152344 L 40.042969 51.152344 L 40.042969 13.628906 z M 49.927734 20.445312 C 46.250274 20.484552 43.290806 23.476628 43.291016 27.154297 C 43.291016 30.859745 46.294552 33.863281 50 33.863281 C 53.705448 33.863281 56.708984 30.859745 56.708984 27.154297 C 56.708984 23.448848 53.705448 20.445312 50 20.445312 C 49.97614 20.445186 49.951594 20.445186 49.927734 20.445312 z "
+     style="color:#000000;overflow:visible;fill:#000080;fill-opacity:1;stroke:none;stroke-width:14.098;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+     id="rect1005" />
+</svg>
