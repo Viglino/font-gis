@@ -72,6 +72,8 @@
     "fg-folder-poi": { "name": "folder-poi", "code": 60213, "theme": "format", "search": "", "order": 11630211, "version": 100003, "date": "2021-05-15" },
     "fg-folder-poi-o": { "name": "folder-poi-o", "code": 60214, "theme": "format", "search": "", "order": 11630368, "version": 100003, "date": "2021-05-15" },
     "fg-folder-pois": { "name": "folder-pois", "code": 60215, "theme": "format", "search": "", "order": 11630547, "version": 100003, "date": "2021-05-15" },
+    "fg-earth-net": { "name": "earth-net", "code": 60216, "theme": "format", "search": "", "order": 11631710, "version": 100003, "date": "2021-05-15" },
+    "fg-earth-net-o": { "name": "earth-net-o", "code": 60217, "theme": "format", "search": "", "order": 11631710, "version": 100003, "date": "2021-05-15" },
     "fg-point": { "name": "point", "code": 59905, "theme": "geom", "search": "", "order": 8985600, "version": 100001, "date": "2021-04-15" },
     "fg-polyline-pt": { "name": "polyline-pt", "code": 59906, "theme": "geom", "search": "", "order": 8985600, "version": 100001, "date": "2021-04-15" },
     "fg-polygon-pt": { "name": "polygon-pt", "code": 59907, "theme": "geom", "search": "", "order": 8985600, "version": 100001, "date": "2021-04-15" },
@@ -227,6 +229,8 @@
     "fg-help-larrow": { "name": "help-larrow", "code": 59966, "theme": "misc", "search": "select", "order": 9676800, "version": 100001, "date": "2021-04-23" },
     "fg-help-rarrow": { "name": "help-rarrow", "code": 59967, "theme": "misc", "search": "select", "order": 9676800, "version": 100001, "date": "2021-04-23" },
     "fg-home": { "name": "home", "code": 60180, "theme": "misc", "search": "", "order": 11020448, "version": 100003, "date": "2021-05-08" },
+    "fg-satellite": { "name": "satellite", "code": 60218, "theme": "misc", "search": "", "order": 11632821, "version": 100003, "date": "2021-05-15" },
+    "fg-satellite-earth": { "name": "satellite-earth", "code": 60219, "theme": "misc", "search": "", "order": 11633249, "version": 100003, "date": "2021-05-15" },
     "fg-poi": { "name": "poi", "code": 59926, "theme": "poi", "search": "", "order": 8985600, "version": 100001, "date": "2021-04-15" },
     "fg-poi-o": { "name": "poi-o", "code": 59927, "theme": "poi", "search": "", "order": 9676800, "version": 100001, "date": "2021-04-23" },
     "fg-poi-alt": { "name": "poi-alt", "code": 59928, "theme": "poi", "search": "", "order": 8985600, "version": 100001, "date": "2021-04-15" },
@@ -317,6 +321,7 @@
     "fg-coord-system-3d-alt": { "name": "coord-system-3d-alt", "code": 60191, "theme": "tools", "search": "", "order": 11083192, "version": 100003, "date": "2021-05-09" },
     "fg-grid": { "name": "grid", "code": 60192, "theme": "tools", "search": "", "order": 11083952, "version": 100003, "date": "2021-05-09" },
     "fg-cube-3d": { "name": "cube-3d", "code": 60193, "theme": "tools", "search": "", "order": 11084680, "version": 100003, "date": "2021-05-09" },
-    "fg-coord-grid": { "name": "coord-grid", "code": 60197, "theme": "tools", "search": "", "order": 11091260, "version": 100003, "date": "2021-05-09" }
+    "fg-coord-grid": { "name": "coord-grid", "code": 60197, "theme": "tools", "search": "", "order": 11091260, "version": 100003, "date": "2021-05-09" },
+    "fg-photogrammetry": { "name": "photogrammetry", "code": 60220, "theme": "tools", "search": "", "order": 11634272, "version": 100003, "date": "2021-05-15" }
   }
 }
