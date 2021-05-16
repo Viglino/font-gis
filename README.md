@@ -80,3 +80,10 @@ You can use it for commercial projects, open source projects, or really almost w
 Attribution is required by MIT, SIL OFL, and CC BY licenses. Font-GIS files already 
 contain embedded comments with sufficient attribution, so you shouldn't need to 
 do anything additional when using these files normally.
+
+## <img src="https://github.com/Viglino/font-gis/blob/main/svg/map/uEB2B-story-maps.svg" height="35" align="left" />Press
+
+* [GIS-Symbole gesucht? Font-GIS!](https://geoobserver.wordpress.com/2021/05/06/gis-symbole-gesucht-font-gis/)
+* [GIS-Symbole gesucht? Font-GIS! | #geoObserver](https://osgis.org/2021/05/gis-symbole-gesucht-font-gis-geoobserver/)
+* [Geotribu: Revue de presse du 7 mai 2021](https://static.geotribu.fr/rdp/2021/rdp_2021-05-07/#font-gis)
+* [OSGeo icon set](https://wiki.osgeo.org/wiki/OSGeo_icon_set)
