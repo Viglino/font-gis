@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="uEB45-theodolite.svg"
+   id="svg4460"
+   height="100"
+   width="100"
+   version="1.1">
+  <sodipodi:namedview
+     inkscape:document-rotation="0"
+     inkscape:current-layer="svg4460"
+     inkscape:window-maximized="1"
+     inkscape:window-y="-8"
+     inkscape:window-x="-8"
+     inkscape:cy="74.365727"
+     inkscape:cx="44.108704"
+     inkscape:zoom="2.0000001"
+     showgrid="false"
+     id="namedview11"
+     inkscape:window-height="1017"
+     inkscape:window-width="1920"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <defs
+     id="defs4462" />
+  <metadata
+     id="metadata4465">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     id="rect850"
+     style="color:#000000;overflow:visible;fill:#000080;stroke-width:3.48914;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
+     d="m 39,0 c -2.77,0 -5,2.23 -5,5 v 40 c 0,2.77 2.23,5 5,5 h 22 c 2.77,0 5,-2.23 5,-5 V 5 C 66,2.23 63.77,0 61,0 Z m 10.980469,15 a 10,10 0 0 1 0.01953,0 10,10 0 0 1 10,10 10,10 0 0 1 -10,10 10,10 0 0 1 -10,-10 10,10 0 0 1 9.98047,-10 z m -23.802735,5.25 c -2.677667,0 -4.833984,2.156317 -4.833984,4.833984 v 33.832032 c 0,2.677667 2.156317,4.833984 4.833984,4.833984 H 38.625 v 13.5 h 2.091797 L 34.621094,100 h 7.24414 l 6.095704,-22.75 h 4.078124 L 58.134766,100 h 7.246093 L 59.285156,77.25 H 61.375 v -13.5 h 12.447266 c 2.677667,0 4.833984,-2.156317 4.833984,-4.833984 V 25.083984 C 78.65625,22.406317 76.499933,20.25 73.822266,20.25 h -3.820313 c 4.73e-4,8.195505 0.02261,16.390763 -0.03125,24.585938 0.257366,4.56503 -3.626936,8.811731 -8.15625,9.128906 -7.542321,0.06904 -15.087571,0.02683 -22.630859,0.01953 -4.51331,0.234653 -8.745492,-3.536771 -9.132813,-8.019531 -0.0992,-8.286014 -0.03426,-16.575579 -0.05273,-24.863282 0.0013,-0.283826 -8.32e-4,-0.567729 0,-0.851562 z" />
+</svg>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="100"
+   height="100"
+   id="svg4460"
+   sodipodi:docname="uEB44-tacheometre.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     id="namedview11"
+     showgrid="false"
+     inkscape:zoom="5.6568546"
+     inkscape:cx="85.651647"
+     inkscape:cy="57.07902"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4460"
+     inkscape:document-rotation="0" />
+  <defs
+     id="defs4462">
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="TriangleOutM"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path983"
+         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.25)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="TriangleOutM-1"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM">
+      <path
+         transform="scale(0.25)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path983-4" />
+    </marker>
+  </defs>
+  <metadata
+     id="metadata4465">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     d="M 65.509766 1 L 34.449219 1.015625 C 33.641803 1.0159595 32.85933 1.2954143 32.234375 1.8066406 L 10.283203 17.78125 C 9.4709071 18.446153 8.9998957 19.44051 9 20.490234 L 9 85.75 C 9.0001933 87.682917 10.567083 89.249807 12.5 89.25 L 15.029297 89.25 C 14.965071 83.129653 15.019049 77.004154 15 70.882812 C 14.716239 67.438816 17.62046 64.114127 21.082031 63.984375 C 22.387979 63.981875 23.694037 63.984398 25 63.982422 L 25 47.5 L 30 47.5 L 30 63.982422 C 43.333225 63.969802 56.666482 63.96976 70 63.96875 L 70 47.5 L 74.984375 47.5 L 74.984375 63.966797 C 76.012377 63.966436 77.040363 63.967376 78.068359 63.966797 C 81.373655 63.708221 84.593802 66.321157 84.943359 69.632812 C 85.054729 76.15619 84.9903 82.686615 85 89.212891 L 87.484375 89.212891 C 89.417292 89.212698 90.984182 87.645808 90.984375 85.712891 L 90.998047 52.5 L 92.25 52.5 C 94.182917 52.499807 95.749807 50.932917 95.75 49 L 95.75 39.5 C 95.749807 37.567083 94.182917 36.000193 92.25 36 L 90.990234 36 L 90.984375 20.451172 C 90.984041 19.401123 90.512245 18.40671 89.699219 17.742188 L 67.726562 1.7890625 C 67.100825 1.2781145 66.317613 0.9993329 65.509766 1 z M 64.263672 8 L 82.564453 20.951172 L 78.484375 20.951172 C 76.551458 20.951365 74.984568 22.518255 74.984375 24.451172 L 74.984375 40.5 L 70 40.5 L 70 24 L 30 24 L 30 40.5 L 25 40.5 L 25 24.488281 C 24.999807 22.555364 23.432917 20.988474 21.5 20.988281 L 17.414062 20.988281 L 35.703125 8.015625 L 64.263672 8 z M 49.988281 33.267578 L 50 33.267578 C 55.927248 33.267578 60.732422 38.072752 60.732422 44 C 60.732422 49.927248 55.927248 54.732422 50 54.732422 C 44.072752 54.732422 39.267578 49.927248 39.267578 44 C 39.267574 38.077332 44.065616 33.274056 49.988281 33.267578 z M 21.5 67.966797 C 20.119345 67.966935 19.000138 69.086142 19 70.466797 L 19 91 C 19.000138 92.380655 20.119345 93.499862 21.5 93.5 L 31.722656 93.5 L 31.722656 100 L 68.277344 100 L 68.277344 93.5 L 78.5 93.5 C 79.880655 93.499862 80.999862 92.380655 81 91 L 81 70.466797 C 80.999862 69.086142 79.880655 67.966935 78.5 67.966797 L 21.5 67.966797 z M 26.339844 74.232422 L 51.585938 74.232422 L 51.585938 87.232422 L 26.339844 87.232422 L 26.339844 74.232422 z M 60.867188 74.232422 L 65.867188 74.232422 L 65.867188 79.232422 L 60.867188 79.232422 L 60.867188 74.232422 z M 68.867188 74.232422 L 73.867188 74.232422 L 73.867188 79.232422 L 68.867188 79.232422 L 68.867188 74.232422 z M 60.867188 82.232422 L 65.867188 82.232422 L 65.867188 87.232422 L 60.867188 87.232422 L 60.867188 82.232422 z M 68.867188 82.232422 L 73.867188 82.232422 L 73.867188 87.232422 L 68.867188 87.232422 L 68.867188 82.232422 z "
+     style="color:#000000;overflow:visible;fill:#000080;stroke:none;stroke-width:21.421;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+     id="rect947" />
+</svg>

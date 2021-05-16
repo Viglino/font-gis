@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="100"
+   height="100"
+   id="svg4460"
+   sodipodi:docname="uEB43-gnss-antenna.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     id="namedview11"
+     showgrid="false"
+     inkscape:zoom="11.313709"
+     inkscape:cx="104.51913"
+     inkscape:cy="81.934873"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4460"
+     inkscape:document-rotation="0" />
+  <defs
+     id="defs4462">
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="TriangleOutM"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path983"
+         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.25)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="TriangleOutM-1"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM">
+      <path
+         transform="scale(0.25)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path983-4" />
+    </marker>
+  </defs>
+  <metadata
+     id="metadata4465">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     sodipodi:nodetypes="cccscccccczcccccccccccccccccccczccccccccccccccsssss"
+     d="M 41.978516,0 C 29.72358,0.00531298 19.283052,4.4514695 17.322266,10.5 H 66.677734 C 64.715643,4.4474587 54.263067,4.6932875e-5 42,0 Z M 17.322266,14.5 C 19.074296,19.904765 27.657265,24.110364 38.5,24.876953 V 100 h 7 v -2.828125 c 5.831617,-0.263452 9.862585,-0.494488 11.822266,-2.140625 1.959681,-1.646137 5.9384,-2.274606 8.998046,-2.197266 v 5.486328 C 66.320413,99.248113 67.0722,99.999909 68,100 h 7.710938 V 98.320312 H 90.609375 V 100 h 7.710937 C 99.248113,99.999909 99.99991,99.248113 100,98.320312 V 91.626953 H 98.320312 V 61.587891 H 100 V 53.679688 C 99.99991,52.751888 99.248113,52.000092 98.320312,52 H 68 c -0.9278,9.2e-5 -1.679587,0.751887 -1.679688,1.679688 v 7.908203 H 68 V 88.826172 C 60.048935,88.960617 57.916121,89.759018 55.048828,91.740234 52.181535,93.72145 50.36506,93.049385 45.5,93.208984 V 24.876953 C 56.342735,24.110364 64.925704,19.904765 66.677734,14.5 Z M 72.400391,58.080078 H 93.919922 V 93.919922 H 72.400391 Z m 2.627337,3.472694 V 75.113319 H 91.34804 V 61.552772 Z m 8.160156,16.669922 c -2.98234,-10e-7 -5.40039,2.418052 -5.40039,5.40039 0,2.982338 2.41805,5.398439 5.40039,5.398438 2.98234,10e-7 5.400391,-2.4161 5.400391,-5.398438 0,-2.982338 -2.418051,-5.400391 -5.400391,-5.40039 z"
+     style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#000080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.36;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000;stop-opacity:1"
+     id="path937" />
+</svg>
