@@ -5,11 +5,11 @@
  */
 @font-face {
   font-family: "font-gis";
-  src: url('../fonts/font-gis.eot?t=1621178112161');
+  src: url('../fonts/font-gis.eot?t=1625033805362');
   src: url('../fonts/font-gis.eot?#iefix') format('eot'),
-    url('../fonts/font-gis.woff2?t=1621178112161') format('woff2'),
-    url('../fonts/font-gis.woff?t=1621178112161') format('woff'),
-    url('../fonts/font-gis.ttf?t=1621178112161') format('truetype'),
+    url('../fonts/font-gis.woff2?t=1625033805362') format('woff2'),
+    url('../fonts/font-gis.woff?t=1625033805362') format('woff'),
+    url('../fonts/font-gis.ttf?t=1625033805362') format('truetype'),
     url('../fonts/font-gis.svg#font-gis') format('svg');
   font-weight: normal;
   font-style: normal;
@@ -326,6 +326,11 @@
 .fg-layer-edit:before { content: "\eb2d"; }
 .fg-layer-alt-edit:before { content: "\eb2e"; }
 .fg-layer-height:before { content: "\eb41"; }
+.fg-measure:before { content: "\ea08"; }
+.fg-measure-line:before { content: "\ea13"; }
+.fg-measure-area:before { content: "\ea14"; }
+.fg-measure-area-alt:before { content: "\ea15"; }
+.fg-scale:before { content: "\eb01"; }
 .fg-map:before { content: "\ea53"; }
 .fg-map-o:before { content: "\ea54"; }
 .fg-map-poi:before { content: "\ea55"; }
@@ -380,11 +385,6 @@
 .fg-story-maps:before { content: "\eb2b"; }
 .fg-map-edit:before { content: "\eb2c"; }
 .fg-height-map:before { content: "\eb40"; }
-.fg-measure:before { content: "\ea08"; }
-.fg-measure-line:before { content: "\ea13"; }
-.fg-measure-area:before { content: "\ea14"; }
-.fg-measure-area-alt:before { content: "\ea15"; }
-.fg-scale:before { content: "\eb01"; }
 .fg-help-larrow:before { content: "\ea3e"; }
 .fg-help-rarrow:before { content: "\ea3f"; }
 .fg-home:before { content: "\eb14"; }
