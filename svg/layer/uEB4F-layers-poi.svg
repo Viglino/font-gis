@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="100"
+   height="100"
+   id="svg4460"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="uEB4F-layer-alt-poi.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     id="namedview11"
+     showgrid="false"
+     inkscape:zoom="9.8333334"
+     inkscape:cx="78.903959"
+     inkscape:cy="71.929577"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4460"
+     inkscape:document-rotation="0" />
+  <defs
+     id="defs4462" />
+  <metadata
+     id="metadata4465">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     d="M 50.048828 16.035156 A 4.725134 2.5930375 0 0 0 46.658203 16.794922 L 1.3828125 41.640625 A 4.725134 2.5930375 0 0 0 1.3828125 45.308594 L 46.658203 70.154297 A 4.725134 2.5930375 0 0 0 53.341797 70.154297 L 54.914062 69.291016 C 54.158505 67.158482 53.740461 64.910715 53.660156 62.646484 L 50 64.654297 L 11.40625 43.474609 L 50 22.294922 L 84.660156 41.314453 C 86.003658 41.887436 87.287373 42.593717 88.494141 43.417969 L 88.595703 43.474609 L 88.585938 43.480469 C 90.448461 44.765965 92.119633 46.32849 93.527344 48.101562 L 98.617188 45.308594 A 4.725134 2.5930375 0 0 0 98.617188 41.640625 L 53.341797 16.794922 A 4.725134 2.5930375 0 0 0 50.048828 16.035156 z M 4.7265625 52.857422 L 1.3828125 54.691406 A 4.725134 2.5930375 0 0 0 1.3828125 58.359375 L 46.658203 83.205078 A 4.725134 2.5930375 0 0 0 53.341797 83.205078 L 60.394531 79.335938 C 59.35256 77.541353 58.305839 75.750078 57.248047 73.964844 C 57.208835 73.90674 57.175295 73.845591 57.136719 73.787109 L 50 77.705078 L 11.404297 56.525391 L 11.408203 56.523438 L 4.7265625 52.857422 z M 96.767578 53.677734 C 97.417146 55.276074 97.857009 56.945694 98.097656 58.644531 L 98.617188 58.359375 A 4.725134 2.5930375 0 0 0 98.615234 54.691406 L 96.767578 53.677734 z "
+     style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#000080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000;stop-opacity:1"
+     id="path884" />
+  <path
+     d="m 75.980152,43.549595 c -10.090582,0 -18.359089,8.244648 -18.359089,18.306406 0,3.898519 1.245265,7.521625 3.352784,10.500316 l 12.76575,22.067494 c 1.787765,2.335519 2.97559,1.890609 4.462085,-0.124398 L 92.281617,70.339671 c 0.284445,-0.514532 0.507871,-1.063511 0.702462,-1.622976 0.86906,-2.122608 1.352242,-4.437272 1.352235,-6.860694 0,-10.061758 -8.265581,-18.306406 -18.356162,-18.306406 z m 0,8.577333 c 5.43349,0 9.753952,4.311101 9.753952,9.729073 0,5.417964 -4.320462,9.726146 -9.753952,9.726146 -5.43349,0 -9.756879,-4.308182 -9.756879,-9.726146 0,-5.417972 4.323389,-9.729073 9.756879,-9.729073 z"
+     style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#000080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5.24503;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000;stop-opacity:1"
+     id="path951" />
+</svg>
