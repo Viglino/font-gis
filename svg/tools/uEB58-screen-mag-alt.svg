@@ -11,7 +11,7 @@
    width="100"
    height="100"
    id="svg4460"
-   sodipodi:docname="uEB54-screen-dub1.svg"
+   sodipodi:docname="uEB58-screen-mag-alt.svg"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -26,9 +26,9 @@
      inkscape:window-height="1177"
      id="namedview11"
      showgrid="false"
-     inkscape:zoom="4.0000001"
-     inkscape:cx="-14.733458"
-     inkscape:cy="36.726543"
+     inkscape:zoom="5.6568544"
+     inkscape:cx="19.150062"
+     inkscape:cy="40.385664"
      inkscape:window-x="1272"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -49,11 +49,7 @@
     </rdf:RDF>
   </metadata>
   <path
-     id="path849"
      style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#000080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:20;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-     d="m 23.835938,35.625 h 4.453124 v 28.75 H 22.800781 V 43.691406 c -2.005208,1.875 -4.36849,3.261719 -7.089843,4.160156 v -4.980468 c 1.432292,-0.46875 2.988281,-1.354167 4.667968,-2.65625 1.679688,-1.315105 2.832032,-2.845053 3.457032,-4.589844 z M 57,17.5 h 38 v 65 H 57 Z m -9.5,0 h 5 v 65 h -5 z m -45,-5 A 2.50025,2.50025 0 0 0 0,15 v 70 a 2.50025,2.50025 0 0 0 2.5,2.5 h 95 A 2.50025,2.50025 0 0 0 100,85 V 15 a 2.50025,2.50025 0 0 0 -2.5,-2.5 z" />
-  <g
-     aria-label="1"
-     style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-     id="text814" />
+     d="M 2.5 12.5 A 2.50025 2.50025 0 0 0 0 15 L 0 85 A 2.50025 2.50025 0 0 0 2.5 87.5 L 97.5 87.5 A 2.50025 2.50025 0 0 0 100 85 L 100 15 A 2.50025 2.50025 0 0 0 97.5 12.5 L 2.5 12.5 z M 50.144531 27.572266 C 55.878936 27.572266 61.614057 29.768355 66.007812 34.162109 C 74.795322 42.949619 74.795322 57.101162 66.007812 65.888672 C 57.220303 74.676181 43.070713 74.676181 34.283203 65.888672 C 25.495693 57.101162 25.495693 42.949619 34.283203 34.162109 C 38.676958 29.768354 44.410126 27.572266 50.144531 27.572266 z "
+     id="rect837" />
 </svg>
