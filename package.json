@@ -1,6 +1,6 @@
 {
   "name": "font-gis",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Icon font set for use with GIS and spatial analysis tools",
   "main": "index.js",
   "scripts": {
