@@ -7,6 +7,9 @@ You can use it for commercial projects, open source projects, or really almost w
 
 ## Licenses
 
+Font-GIS is licensed under [Apache-2.0](https://github.com/Viglino/font-gis/blob/main/LICENSE-APACHE.md)
+
+Dual-license can be used for each specific part:
 * Font-GIS font is licensed under the [SIL OFL 1.1 License](https://github.com/Viglino/font-gis/blob/main/LICENSE-OFL.md)
 * Icons and SVG files are licensed under the [CC BY 4.0 License](https://creativecommons.org/licenses/by/4.0/)
 * Codes and all non font or icon files are licensed under the [MIT License](https://github.com/Viglino/font-gis/blob/main/LICENSE-MIT.md)
