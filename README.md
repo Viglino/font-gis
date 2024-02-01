@@ -67,13 +67,13 @@ npm start
 
 
 ## <img src="https://github.com/Viglino/font-gis/blob/main/svg/map/uEA7A-map-book.svg" height="35" align="left" />Licenses
+
+**Font-GIS is licensed under [Apache-2.0](https://github.com/Viglino/font-gis/blob/main/LICENSE-APACHE.md)**    
 Copyright (c) 2021 Jean-Marc Viglino
 
 [Font-GIS](https://viglino.github.io/font-gis/) is free, open source, and GPL friendly. 
 You can use it for commercial projects, open source projects, or really almost whatever you want.
 [Read full Font-GIS license](https://github.com/Viglino/font-gis/blob/main/LICENSE.md)
-
-**Font-GIS is licensed under [Apache-2.0](https://github.com/Viglino/font-gis/blob/main/LICENSE-APACHE.md)**
 
 Dual-license can be used for each specific part:
 * Font-GIS **font** is licensed under the [SIL OFL 1.1 License](https://github.com/Viglino/font-gis/blob/main/LICENSE-OFL.md)
