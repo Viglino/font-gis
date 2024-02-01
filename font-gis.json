@@ -50,7 +50,7 @@
     "fg-wfs-t": { "name": "wfs-t", "code": 60063, "theme": "format", "search": "", "order": 10146925, "version": 100001, "date": "2021-04-28" },
     "fg-mvt": { "name": "mvt", "code": 60064, "theme": "format", "search": "", "order": 10146925, "version": 100001, "date": "2021-04-28" },
     "fg-xyz": { "name": "xyz", "code": 60065, "theme": "format", "search": "", "order": 10146925, "version": 100001, "date": "2021-04-28" },
-    "fg-wcs": { "name": "wcs", "code": 60249, "theme": "format", "search": "", "order": 10146925, "version": 100005, "date": "2024-02-01" },
+    "fg-wcs": { "name": "wcs", "code": 60249, "theme": "format", "search": "", "order": 10146925, "version": 100006, "date": "2024-02-01" },
     "fg-shape-file": { "name": "shape-file", "code": 60066, "theme": "format", "search": "", "order": 10146821, "version": 100001, "date": "2021-04-28" },
     "fg-esri-json-file": { "name": "esri-json-file", "code": 60067, "theme": "format", "search": "", "order": 10146821, "version": 100001, "date": "2021-04-28" },
     "fg-topojson-file": { "name": "topojson-file", "code": 60068, "theme": "format", "search": "", "order": 10146821, "version": 100001, "date": "2021-04-28" },
