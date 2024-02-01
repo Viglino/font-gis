@@ -1,15 +1,15 @@
 /* font-gis - v.1.0.5 
  * Icon font set for use with GIS and spatial analysis tools
- * 2023 (c) Jean-Marc Viglino - OFL-1.1
+ * 2024 (c) Jean-Marc Viglino - Apache-2.0
  * https://github.com/Viglino/font-gis
  */
 @font-face {
   font-family: "font-gis";
-  src: url('../fonts/font-gis.eot?t=1691054974018');
+  src: url('../fonts/font-gis.eot?t=1706788714253');
   src: url('../fonts/font-gis.eot?#iefix') format('eot'),
-    url('../fonts/font-gis.woff2?t=1691054974018') format('woff2'),
-    url('../fonts/font-gis.woff?t=1691054974018') format('woff'),
-    url('../fonts/font-gis.ttf?t=1691054974018') format('truetype'),
+    url('../fonts/font-gis.woff2?t=1706788714253') format('woff2'),
+    url('../fonts/font-gis.woff?t=1706788714253') format('woff'),
+    url('../fonts/font-gis.ttf?t=1706788714253') format('truetype'),
     url('../fonts/font-gis.svg#font-gis') format('svg');
   font-weight: normal;
   font-style: normal;
@@ -164,42 +164,6 @@
   }
 }
 
-.fg-arrow-o:before { content: "\ea3a"; }
-.fg-arrow:before { content: "\ea3b"; }
-.fg-modify-line:before { content: "\ea3c"; }
-.fg-modify-poly:before { content: "\ea3d"; }
-.fg-modify-poly-o:before { content: "\ea40"; }
-.fg-copy-point:before { content: "\ea4f"; }
-.fg-copy-line:before { content: "\ea50"; }
-.fg-copy-poly:before { content: "\ea51"; }
-.fg-buffer:before { content: "\ea6e"; }
-.fg-difference:before { content: "\ea6f"; }
-.fg-intersection:before { content: "\ea70"; }
-.fg-union:before { content: "\ea71"; }
-.fg-sym-difference:before { content: "\ea72"; }
-.fg-move:before { content: "\ea73"; }
-.fg-move-alt:before { content: "\ea74"; }
-.fg-offset:before { content: "\ea75"; }
-.fg-snap:before { content: "\ea76"; }
-.fg-split:before { content: "\ea77"; }
-.fg-split-line:before { content: "\ea78"; }
-.fg-split-polygon:before { content: "\ea79"; }
-.fg-convex-hull:before { content: "\eaa8"; }
-.fg-select-extent:before { content: "\eaad"; }
-.fg-snap-ortho:before { content: "\eaae"; }
-.fg-color:before { content: "\eaaf"; }
-.fg-rotate:before { content: "\eae3"; }
-.fg-flip-h:before { content: "\eae4"; }
-.fg-flip-v:before { content: "\eae5"; }
-.fg-simplify:before { content: "\eae6"; }
-.fg-proj-point:before { content: "\eae7"; }
-.fg-scale-poly:before { content: "\eae8"; }
-.fg-skeletonize:before { content: "\eb17"; }
-.fg-dilatation:before { content: "\eb18"; }
-.fg-erosion:before { content: "\eb19"; }
-.fg-translate:before { content: "\eb26"; }
-.fg-translate-x:before { content: "\eb27"; }
-.fg-translate-y:before { content: "\eb28"; }
 .fg-north-arrow:before { content: "\ea8b"; }
 .fg-north-arrow-n:before { content: "\ea8c"; }
 .fg-compass:before { content: "\ea90"; }
@@ -257,6 +221,42 @@
 .fg-folder-pois:before { content: "\eb37"; }
 .fg-earth-net:before { content: "\eb38"; }
 .fg-earth-net-o:before { content: "\eb39"; }
+.fg-arrow-o:before { content: "\ea3a"; }
+.fg-arrow:before { content: "\ea3b"; }
+.fg-modify-line:before { content: "\ea3c"; }
+.fg-modify-poly:before { content: "\ea3d"; }
+.fg-modify-poly-o:before { content: "\ea40"; }
+.fg-copy-point:before { content: "\ea4f"; }
+.fg-copy-line:before { content: "\ea50"; }
+.fg-copy-poly:before { content: "\ea51"; }
+.fg-buffer:before { content: "\ea6e"; }
+.fg-difference:before { content: "\ea6f"; }
+.fg-intersection:before { content: "\ea70"; }
+.fg-union:before { content: "\ea71"; }
+.fg-sym-difference:before { content: "\ea72"; }
+.fg-move:before { content: "\ea73"; }
+.fg-move-alt:before { content: "\ea74"; }
+.fg-offset:before { content: "\ea75"; }
+.fg-snap:before { content: "\ea76"; }
+.fg-split:before { content: "\ea77"; }
+.fg-split-line:before { content: "\ea78"; }
+.fg-split-polygon:before { content: "\ea79"; }
+.fg-convex-hull:before { content: "\eaa8"; }
+.fg-select-extent:before { content: "\eaad"; }
+.fg-snap-ortho:before { content: "\eaae"; }
+.fg-color:before { content: "\eaaf"; }
+.fg-rotate:before { content: "\eae3"; }
+.fg-flip-h:before { content: "\eae4"; }
+.fg-flip-v:before { content: "\eae5"; }
+.fg-simplify:before { content: "\eae6"; }
+.fg-proj-point:before { content: "\eae7"; }
+.fg-scale-poly:before { content: "\eae8"; }
+.fg-skeletonize:before { content: "\eb17"; }
+.fg-dilatation:before { content: "\eb18"; }
+.fg-erosion:before { content: "\eb19"; }
+.fg-translate:before { content: "\eb26"; }
+.fg-translate-x:before { content: "\eb27"; }
+.fg-translate-y:before { content: "\eb28"; }
 .fg-earth:before { content: "\ea22"; }
 .fg-earth-euro-africa:before { content: "\ea23"; }
 .fg-earth-atlantic:before { content: "\ea24"; }
@@ -507,4 +507,5 @@
 .fg-screen-dub2:before { content: "\eb55"; }
 .fg-screen-dub-o:before { content: "\eb56"; }
 .fg-screen-mag-o:before { content: "\eb57"; }
-.fg-screen-mag-alt:before { content: "\eb58"; }
+.fg-screen-mag-alt:before { content: "\eb58"; }
+.fg-wcs:before { content: "\eb59"; }
