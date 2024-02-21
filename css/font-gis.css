@@ -1,15 +1,15 @@
-/* font-gis - v.1.0.5 
+/* font-gis - v.1.0.6 
  * Icon font set for use with GIS and spatial analysis tools
  * 2024 (c) Jean-Marc Viglino - Apache-2.0
  * https://github.com/Viglino/font-gis
  */
 @font-face {
   font-family: "font-gis";
-  src: url('../fonts/font-gis.eot?t=1706788714253');
+  src: url('../fonts/font-gis.eot?t=1708518638715');
   src: url('../fonts/font-gis.eot?#iefix') format('eot'),
-    url('../fonts/font-gis.woff2?t=1706788714253') format('woff2'),
-    url('../fonts/font-gis.woff?t=1706788714253') format('woff'),
-    url('../fonts/font-gis.ttf?t=1706788714253') format('truetype'),
+    url('../fonts/font-gis.woff2?t=1708518638715') format('woff2'),
+    url('../fonts/font-gis.woff?t=1708518638715') format('woff'),
+    url('../fonts/font-gis.ttf?t=1708518638715') format('truetype'),
     url('../fonts/font-gis.svg#font-gis') format('svg');
   font-weight: normal;
   font-style: normal;
@@ -172,55 +172,6 @@
 .fg-compass-rose-n:before { content: "\ea93"; }
 .fg-compass-alt:before { content: "\eb06"; }
 .fg-compass-alt-o:before { content: "\eb07"; }
-.fg-point:before { content: "\ea01"; }
-.fg-polyline-pt:before { content: "\ea02"; }
-.fg-polygon-pt:before { content: "\ea03"; }
-.fg-polygon-hole-pt:before { content: "\ea04"; }
-.fg-rectangle-pt:before { content: "\ea05"; }
-.fg-square-pt:before { content: "\ea06"; }
-.fg-circle-o:before { content: "\ea07"; }
-.fg-polyline:before { content: "\ea09"; }
-.fg-polygon-o:before { content: "\ea0a"; }
-.fg-polygon-hole-o:before { content: "\ea0b"; }
-.fg-rectangle-o:before { content: "\ea0c"; }
-.fg-square-o:before { content: "\ea0d"; }
-.fg-polygon-hole:before { content: "\ea0e"; }
-.fg-polygon:before { content: "\ea0f"; }
-.fg-rectangle:before { content: "\ea10"; }
-.fg-square:before { content: "\ea11"; }
-.fg-circle:before { content: "\ea12"; }
-.fg-multipoint:before { content: "\ea52"; }
-.fg-bbox-alt:before { content: "\eaa9"; }
-.fg-extent-alt:before { content: "\eaaa"; }
-.fg-bbox:before { content: "\eaab"; }
-.fg-extent:before { content: "\eaac"; }
-.fg-map-extent:before { content: "\eab0"; }
-.fg-regular-shape-pt:before { content: "\eaeb"; }
-.fg-regular-shape-o:before { content: "\eaec"; }
-.fg-regular-shape:before { content: "\eaed"; }
-.fg-gpx-file:before { content: "\ea99"; }
-.fg-geojson-file:before { content: "\ea9a"; }
-.fg-kml-file:before { content: "\ea9b"; }
-.fg-wms:before { content: "\ea9c"; }
-.fg-wmts:before { content: "\ea9d"; }
-.fg-wfs:before { content: "\ea9e"; }
-.fg-wfs-t:before { content: "\ea9f"; }
-.fg-mvt:before { content: "\eaa0"; }
-.fg-xyz:before { content: "\eaa1"; }
-.fg-shape-file:before { content: "\eaa2"; }
-.fg-esri-json-file:before { content: "\eaa3"; }
-.fg-topojson-file:before { content: "\eaa4"; }
-.fg-folder-map:before { content: "\eb2f"; }
-.fg-world-folder-o:before { content: "\eb30"; }
-.fg-world-folder:before { content: "\eb31"; }
-.fg-folder-globe:before { content: "\eb32"; }
-.fg-folder-globe-o:before { content: "\eb33"; }
-.fg-folder-maps:before { content: "\eb34"; }
-.fg-folder-poi:before { content: "\eb35"; }
-.fg-folder-poi-o:before { content: "\eb36"; }
-.fg-folder-pois:before { content: "\eb37"; }
-.fg-earth-net:before { content: "\eb38"; }
-.fg-earth-net-o:before { content: "\eb39"; }
 .fg-arrow-o:before { content: "\ea3a"; }
 .fg-arrow:before { content: "\ea3b"; }
 .fg-modify-line:before { content: "\ea3c"; }
@@ -257,6 +208,69 @@
 .fg-translate:before { content: "\eb26"; }
 .fg-translate-x:before { content: "\eb27"; }
 .fg-translate-y:before { content: "\eb28"; }
+.fg-gpx-file:before { content: "\ea99"; }
+.fg-geojson-file:before { content: "\ea9a"; }
+.fg-kml-file:before { content: "\ea9b"; }
+.fg-wms:before { content: "\ea9c"; }
+.fg-wmts:before { content: "\ea9d"; }
+.fg-wfs:before { content: "\ea9e"; }
+.fg-wfs-t:before { content: "\ea9f"; }
+.fg-mvt:before { content: "\eaa0"; }
+.fg-xyz:before { content: "\eaa1"; }
+.fg-shape-file:before { content: "\eaa2"; }
+.fg-esri-json-file:before { content: "\eaa3"; }
+.fg-topojson-file:before { content: "\eaa4"; }
+.fg-folder-map:before { content: "\eb2f"; }
+.fg-world-folder-o:before { content: "\eb30"; }
+.fg-world-folder:before { content: "\eb31"; }
+.fg-folder-globe:before { content: "\eb32"; }
+.fg-folder-globe-o:before { content: "\eb33"; }
+.fg-folder-maps:before { content: "\eb34"; }
+.fg-folder-poi:before { content: "\eb35"; }
+.fg-folder-poi-o:before { content: "\eb36"; }
+.fg-folder-pois:before { content: "\eb37"; }
+.fg-earth-net:before { content: "\eb38"; }
+.fg-earth-net-o:before { content: "\eb39"; }
+.fg-wcs:before { content: "\eb59"; }
+.fg-i3s-file:before { content: "\eb5a"; }
+.fg-i3s-web:before { content: "\eb5b"; }
+.fg-3dtiles-file:before { content: "\eb5c"; }
+.fg-3dtiles-web:before { content: "\eb5d"; }
+.fg-wps:before { content: "\eb5e"; }
+.fg-wcps:before { content: "\eb5f"; }
+.fg-openls:before { content: "\eb60"; }
+.fg-wmc:before { content: "\eb61"; }
+.fg-tjs:before { content: "\eb62"; }
+.fg-sld:before { content: "\eb63"; }
+.fg-sos:before { content: "\eb64"; }
+.fg-sps:before { content: "\eb65"; }
+.fg-csw:before { content: "\eb66"; }
+.fg-point:before { content: "\ea01"; }
+.fg-polyline-pt:before { content: "\ea02"; }
+.fg-polygon-pt:before { content: "\ea03"; }
+.fg-polygon-hole-pt:before { content: "\ea04"; }
+.fg-rectangle-pt:before { content: "\ea05"; }
+.fg-square-pt:before { content: "\ea06"; }
+.fg-circle-o:before { content: "\ea07"; }
+.fg-polyline:before { content: "\ea09"; }
+.fg-polygon-o:before { content: "\ea0a"; }
+.fg-polygon-hole-o:before { content: "\ea0b"; }
+.fg-rectangle-o:before { content: "\ea0c"; }
+.fg-square-o:before { content: "\ea0d"; }
+.fg-polygon-hole:before { content: "\ea0e"; }
+.fg-polygon:before { content: "\ea0f"; }
+.fg-rectangle:before { content: "\ea10"; }
+.fg-square:before { content: "\ea11"; }
+.fg-circle:before { content: "\ea12"; }
+.fg-multipoint:before { content: "\ea52"; }
+.fg-bbox-alt:before { content: "\eaa9"; }
+.fg-extent-alt:before { content: "\eaaa"; }
+.fg-bbox:before { content: "\eaab"; }
+.fg-extent:before { content: "\eaac"; }
+.fg-map-extent:before { content: "\eab0"; }
+.fg-regular-shape-pt:before { content: "\eaeb"; }
+.fg-regular-shape-o:before { content: "\eaec"; }
+.fg-regular-shape:before { content: "\eaed"; }
 .fg-earth:before { content: "\ea22"; }
 .fg-earth-euro-africa:before { content: "\ea23"; }
 .fg-earth-atlantic:before { content: "\ea24"; }
@@ -507,5 +521,4 @@
 .fg-screen-dub2:before { content: "\eb55"; }
 .fg-screen-dub-o:before { content: "\eb56"; }
 .fg-screen-mag-o:before { content: "\eb57"; }
-.fg-screen-mag-alt:before { content: "\eb58"; }
-.fg-wcs:before { content: "\eb59"; }
+.fg-screen-mag-alt:before { content: "\eb58"; }
