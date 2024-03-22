@@ -5,11 +5,11 @@
  */
 @font-face {
   font-family: "font-gis";
-  src: url('../fonts/font-gis.eot?t=1708518638715');
+  src: url('../fonts/font-gis.eot?t=1711120854760');
   src: url('../fonts/font-gis.eot?#iefix') format('eot'),
-    url('../fonts/font-gis.woff2?t=1708518638715') format('woff2'),
-    url('../fonts/font-gis.woff?t=1708518638715') format('woff'),
-    url('../fonts/font-gis.ttf?t=1708518638715') format('truetype'),
+    url('../fonts/font-gis.woff2?t=1711120854760') format('woff2'),
+    url('../fonts/font-gis.woff?t=1711120854760') format('woff'),
+    url('../fonts/font-gis.ttf?t=1711120854760') format('truetype'),
     url('../fonts/font-gis.svg#font-gis') format('svg');
   font-weight: normal;
   font-style: normal;
@@ -164,14 +164,6 @@
   }
 }
 
-.fg-north-arrow:before { content: "\ea8b"; }
-.fg-north-arrow-n:before { content: "\ea8c"; }
-.fg-compass:before { content: "\ea90"; }
-.fg-compass-needle:before { content: "\ea91"; }
-.fg-compass-rose:before { content: "\ea92"; }
-.fg-compass-rose-n:before { content: "\ea93"; }
-.fg-compass-alt:before { content: "\eb06"; }
-.fg-compass-alt-o:before { content: "\eb07"; }
 .fg-arrow-o:before { content: "\ea3a"; }
 .fg-arrow:before { content: "\ea3b"; }
 .fg-modify-line:before { content: "\ea3c"; }
@@ -208,6 +200,14 @@
 .fg-translate:before { content: "\eb26"; }
 .fg-translate-x:before { content: "\eb27"; }
 .fg-translate-y:before { content: "\eb28"; }
+.fg-north-arrow:before { content: "\ea8b"; }
+.fg-north-arrow-n:before { content: "\ea8c"; }
+.fg-compass:before { content: "\ea90"; }
+.fg-compass-needle:before { content: "\ea91"; }
+.fg-compass-rose:before { content: "\ea92"; }
+.fg-compass-rose-n:before { content: "\ea93"; }
+.fg-compass-alt:before { content: "\eb06"; }
+.fg-compass-alt-o:before { content: "\eb07"; }
 .fg-gpx-file:before { content: "\ea99"; }
 .fg-geojson-file:before { content: "\ea9a"; }
 .fg-kml-file:before { content: "\ea9b"; }
@@ -445,6 +445,11 @@
 .fg-position-man:before { content: "\eb24"; }
 .fg-poi-slash:before { content: "\eb4d"; }
 .fg-poi-slash-o:before { content: "\eb4e"; }
+.fg-proj-conic:before { content: "\eb67"; }
+.fg-proj-geo:before { content: "\eb68"; }
+.fg-proj-square:before { content: "\eb69"; }
+.fg-proj-stereo:before { content: "\eb6a"; }
+.fg-proj-utm:before { content: "\eb6b"; }
 .fg-route:before { content: "\ea7b"; }
 .fg-route-start:before { content: "\ea7c"; }
 .fg-route-end:before { content: "\ea7d"; }
