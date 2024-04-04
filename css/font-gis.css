@@ -5,11 +5,11 @@
  */
 @font-face {
   font-family: "font-gis";
-  src: url('../fonts/font-gis.eot?t=1711120854760');
+  src: url('../fonts/font-gis.eot?t=1712214591279');
   src: url('../fonts/font-gis.eot?#iefix') format('eot'),
-    url('../fonts/font-gis.woff2?t=1711120854760') format('woff2'),
-    url('../fonts/font-gis.woff?t=1711120854760') format('woff'),
-    url('../fonts/font-gis.ttf?t=1711120854760') format('truetype'),
+    url('../fonts/font-gis.woff2?t=1712214591279') format('woff2'),
+    url('../fonts/font-gis.woff?t=1712214591279') format('woff'),
+    url('../fonts/font-gis.ttf?t=1712214591279') format('truetype'),
     url('../fonts/font-gis.svg#font-gis') format('svg');
   font-weight: normal;
   font-style: normal;
@@ -164,42 +164,6 @@
   }
 }
 
-.fg-arrow-o:before { content: "\ea3a"; }
-.fg-arrow:before { content: "\ea3b"; }
-.fg-modify-line:before { content: "\ea3c"; }
-.fg-modify-poly:before { content: "\ea3d"; }
-.fg-modify-poly-o:before { content: "\ea40"; }
-.fg-copy-point:before { content: "\ea4f"; }
-.fg-copy-line:before { content: "\ea50"; }
-.fg-copy-poly:before { content: "\ea51"; }
-.fg-buffer:before { content: "\ea6e"; }
-.fg-difference:before { content: "\ea6f"; }
-.fg-intersection:before { content: "\ea70"; }
-.fg-union:before { content: "\ea71"; }
-.fg-sym-difference:before { content: "\ea72"; }
-.fg-move:before { content: "\ea73"; }
-.fg-move-alt:before { content: "\ea74"; }
-.fg-offset:before { content: "\ea75"; }
-.fg-snap:before { content: "\ea76"; }
-.fg-split:before { content: "\ea77"; }
-.fg-split-line:before { content: "\ea78"; }
-.fg-split-polygon:before { content: "\ea79"; }
-.fg-convex-hull:before { content: "\eaa8"; }
-.fg-select-extent:before { content: "\eaad"; }
-.fg-snap-ortho:before { content: "\eaae"; }
-.fg-color:before { content: "\eaaf"; }
-.fg-rotate:before { content: "\eae3"; }
-.fg-flip-h:before { content: "\eae4"; }
-.fg-flip-v:before { content: "\eae5"; }
-.fg-simplify:before { content: "\eae6"; }
-.fg-proj-point:before { content: "\eae7"; }
-.fg-scale-poly:before { content: "\eae8"; }
-.fg-skeletonize:before { content: "\eb17"; }
-.fg-dilatation:before { content: "\eb18"; }
-.fg-erosion:before { content: "\eb19"; }
-.fg-translate:before { content: "\eb26"; }
-.fg-translate-x:before { content: "\eb27"; }
-.fg-translate-y:before { content: "\eb28"; }
 .fg-north-arrow:before { content: "\ea8b"; }
 .fg-north-arrow-n:before { content: "\ea8c"; }
 .fg-compass:before { content: "\ea90"; }
@@ -245,6 +209,42 @@
 .fg-sos:before { content: "\eb64"; }
 .fg-sps:before { content: "\eb65"; }
 .fg-csw:before { content: "\eb66"; }
+.fg-arrow-o:before { content: "\ea3a"; }
+.fg-arrow:before { content: "\ea3b"; }
+.fg-modify-line:before { content: "\ea3c"; }
+.fg-modify-poly:before { content: "\ea3d"; }
+.fg-modify-poly-o:before { content: "\ea40"; }
+.fg-copy-point:before { content: "\ea4f"; }
+.fg-copy-line:before { content: "\ea50"; }
+.fg-copy-poly:before { content: "\ea51"; }
+.fg-buffer:before { content: "\ea6e"; }
+.fg-difference:before { content: "\ea6f"; }
+.fg-intersection:before { content: "\ea70"; }
+.fg-union:before { content: "\ea71"; }
+.fg-sym-difference:before { content: "\ea72"; }
+.fg-move:before { content: "\ea73"; }
+.fg-move-alt:before { content: "\ea74"; }
+.fg-offset:before { content: "\ea75"; }
+.fg-snap:before { content: "\ea76"; }
+.fg-split:before { content: "\ea77"; }
+.fg-split-line:before { content: "\ea78"; }
+.fg-split-polygon:before { content: "\ea79"; }
+.fg-convex-hull:before { content: "\eaa8"; }
+.fg-select-extent:before { content: "\eaad"; }
+.fg-snap-ortho:before { content: "\eaae"; }
+.fg-color:before { content: "\eaaf"; }
+.fg-rotate:before { content: "\eae3"; }
+.fg-flip-h:before { content: "\eae4"; }
+.fg-flip-v:before { content: "\eae5"; }
+.fg-simplify:before { content: "\eae6"; }
+.fg-proj-point:before { content: "\eae7"; }
+.fg-scale-poly:before { content: "\eae8"; }
+.fg-skeletonize:before { content: "\eb17"; }
+.fg-dilatation:before { content: "\eb18"; }
+.fg-erosion:before { content: "\eb19"; }
+.fg-translate:before { content: "\eb26"; }
+.fg-translate-x:before { content: "\eb27"; }
+.fg-translate-y:before { content: "\eb28"; }
 .fg-point:before { content: "\ea01"; }
 .fg-polyline-pt:before { content: "\ea02"; }
 .fg-polygon-pt:before { content: "\ea03"; }
@@ -347,6 +347,8 @@
 .fg-layer-alt-x-o:before { content: "\eb4a"; }
 .fg-layers-poi:before { content: "\eb4f"; }
 .fg-layer-alt-poi:before { content: "\eb50"; }
+.fg-mosaic:before { content: "\eb6c"; }
+.fg-pyramid:before { content: "\eb6d"; }
 .fg-map:before { content: "\ea53"; }
 .fg-map-o:before { content: "\ea54"; }
 .fg-map-poi:before { content: "\ea55"; }
@@ -450,6 +452,20 @@
 .fg-proj-square:before { content: "\eb69"; }
 .fg-proj-stereo:before { content: "\eb6a"; }
 .fg-proj-utm:before { content: "\eb6b"; }
+.fg-map-search:before { content: "\ea5e"; }
+.fg-search-map:before { content: "\ea5f"; }
+.fg-search-poi:before { content: "\ea60"; }
+.fg-search-globe:before { content: "\ea61"; }
+.fg-search-home:before { content: "\ea62"; }
+.fg-search-address:before { content: "\ea63"; }
+.fg-search-attribtues:before { content: "\ea64"; }
+.fg-search-propertie:before { content: "\ea65"; }
+.fg-search-feature:before { content: "\ea66"; }
+.fg-search-layer:before { content: "\ea67"; }
+.fg-search-country:before { content: "\ea69"; }
+.fg-search-globe-alt:before { content: "\eafa"; }
+.fg-search-coord:before { content: "\eb12"; }
+.fg-search-data:before { content: "\eb13"; }
 .fg-route:before { content: "\ea7b"; }
 .fg-route-start:before { content: "\ea7c"; }
 .fg-route-end:before { content: "\ea7d"; }
@@ -485,20 +501,6 @@
 .fg-phone-route:before { content: "\eb08"; }
 .fg-phone-route-alt:before { content: "\eb09"; }
 .fg-phone-route-alt-r:before { content: "\eb0a"; }
-.fg-map-search:before { content: "\ea5e"; }
-.fg-search-map:before { content: "\ea5f"; }
-.fg-search-poi:before { content: "\ea60"; }
-.fg-search-globe:before { content: "\ea61"; }
-.fg-search-home:before { content: "\ea62"; }
-.fg-search-address:before { content: "\ea63"; }
-.fg-search-attribtues:before { content: "\ea64"; }
-.fg-search-propertie:before { content: "\ea65"; }
-.fg-search-feature:before { content: "\ea66"; }
-.fg-search-layer:before { content: "\ea67"; }
-.fg-search-country:before { content: "\ea69"; }
-.fg-search-globe-alt:before { content: "\eafa"; }
-.fg-search-coord:before { content: "\eb12"; }
-.fg-search-data:before { content: "\eb13"; }
 .fg-zoom-in:before { content: "\eaa5"; }
 .fg-zoom-out:before { content: "\eaa6"; }
 .fg-full-screen:before { content: "\eaa7"; }
