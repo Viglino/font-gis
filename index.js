@@ -117,6 +117,9 @@ function save(opt) {
     case 'all': {
       var tab = Object.keys(glyphs)
       const dload = document.getElementById('loading')
+      dload.querySelector('span').innerHTML = '<i>It may take sometimes...</i><br/><button>download '+tab.length+' svg file...</button><button class="cancel">cancel</button>';
+      dload.querySelector('button').addEventListener('click', saveAll)
+      dload.querySelector('button.cancel').addEventListener('click', function() { dload.close(); });
       dload.showModal();
       function saveAll() {
         var g = tab.pop();
@@ -133,14 +136,13 @@ function save(opt) {
               rep = rep.replace(/fill:#([^;|\"]*)/g, 'fill:' + $('#icon i').css('color'));
               var blob = new Blob([rep], {type: "text/plain;charset=utf-8"});
               saveAs(blob, glyph.name + '.svg');
-              saveAll()
+              setTimeout(saveAll, 300);
             }
           })
         } else {
           dload.close()
         }
       }
-      saveAll();
       break;
     }
     case 'svg': {

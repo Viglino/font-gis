@@ -34,6 +34,11 @@ ul {
 #loading span {
   display: block;
 }
+#loading button {
+  font-size: 0.5em;
+  margin: 2em 0.5em 0;
+  padding: .5em 1em;
+}
 
 #header > *,
 #footer > *,
