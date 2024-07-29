@@ -114,6 +114,35 @@ function save(opt) {
   $('#icon select').val('none');
   switch (opt) {
     case 'none': break;
+    case 'all': {
+      var tab = Object.keys(glyphs)
+      const dload = document.getElementById('loading')
+      dload.showModal();
+      function saveAll() {
+        var g = tab.pop();
+        if (g) {
+          var glyph = glyphs[g]
+          dload.querySelector('span').innerText = g;
+          $.ajax({
+            url: './svg/' 
+            + glyph.theme
+            + '/u' + glyph.code.toString(16).toUpperCase()
+            + '-' + glyph.name +'.svg',
+            dataType : 'text',
+            success: function(rep) {
+              rep = rep.replace(/fill:#([^;|\"]*)/g, 'fill:' + $('#icon i').css('color'));
+              var blob = new Blob([rep], {type: "text/plain;charset=utf-8"});
+              saveAs(blob, glyph.name + '.svg');
+              saveAll()
+            }
+          })
+        } else {
+          dload.close()
+        }
+      }
+      saveAll();
+      break;
+    }
     case 'svg': {
       console.log('savesvg')
       $.ajax({
