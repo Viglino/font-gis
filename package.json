@@ -20,7 +20,7 @@
   "homepage": "https://github.com/Viglino/font-gis",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Viglino/font-git.git"
+    "url": "git+https://github.com/Viglino/font-gis.git"
   },
   "license": "Apache-2.0",
   "devDependencies": {
