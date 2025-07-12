@@ -15,7 +15,8 @@ fi
 
 mkdir -p "$DST_DIR"
 
-PYTHON_SCRIPT="./sanitize.py"
+SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+PYTHON_SCRIPT="$SCRIPT_DIR/sanitize.py"
 if [[ ! -f "$PYTHON_SCRIPT" ]]; then
   echo "Python script '$PYTHON_SCRIPT' not found."
   exit 1
