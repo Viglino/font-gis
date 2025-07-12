@@ -27,7 +27,7 @@ jobs:
           find SVG_sanitized -type f -name '*.svg' | wc -l
 
       - name: Upload sanitized SVGs as artifact
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: sanitized-svgs
           path: svg_sanitized/
