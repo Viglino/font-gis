@@ -1,0 +1,32 @@
+name: Sanitize SVGs
+
+on:
+  workflow_dispatch:
+
+jobs:
+  sanitize:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10.x'
+
+      - name: Run sanitize_all.sh
+        run: |
+          chmod +x ./scripts/sanitize_all.sh
+          ./scripts/sanitize_all.sh svg svg_sanitized
+
+      - name: Show sanitized files count
+        run: |
+          find SVG_sanitized -type f -name '*.svg' | wc -l
+
+      - name: Upload sanitized SVGs as artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: sanitized-svgs
+          path: svg_sanitized/
