@@ -23,6 +23,11 @@ npm install --save font-gis
 You can access the font or css in the `./font` and `./css` directory of the package.    
 The svg sprites are located in the `./dist/font-gis.svg` SVG file.
 
+### unplugin-icons
+
+You can use Font-GIS with [unplugin-icons](https://github.com/unplugin/unplugin-icons).    
+[Browse online](https://icones.js.org/collection/gis)
+
 ### using Font-GIS
 
 You can use Font-GIS as a font or as SVG symbols or images.
