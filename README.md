@@ -23,11 +23,6 @@ npm install --save font-gis
 You can access the font or css in the `./font` and `./css` directory of the package.    
 The svg sprites are located in the `./dist/font-gis.svg` SVG file.
 
-### unplugin-icons
-
-You can use Font-GIS with [unplugin-icons](https://github.com/unplugin/unplugin-icons).    
-[Browse online](https://icones.js.org/collection/gis)
-
 ### using Font-GIS
 
 You can use Font-GIS as a font or as SVG symbols or images.
@@ -50,6 +45,18 @@ Or use it as an svg sprite (svg sprites are inlocated in the `./dist/font-gis.sv
 ```html
 <svg class="font-gis fg-3x"><use xlink:href="path/to/dist/font-gis.svg#fg-polyline-pt" /></svg>
 ```
+
+ ## <img src="https://github.com/Viglino/font-gis/blob/main/svg/map/uEA94-map-options.svg" height="35" align="left" />Usefull tools
+
+### unplugin-icons
+
+You can use Font-GIS with [unplugin-icons](https://github.com/unplugin/unplugin-icons).    
+[Browse online](https://icones.js.org/collection/gis)
+
+### With other icon sets
+
+* [Iconify Design](https://icon-sets.iconify.design/gis/)
+* [icones.js](https://icones.js.org/)
 
 ## <img src="https://github.com/Viglino/font-gis/blob/main/svg/edit/uEA51-copy-poly.svg" height="35" align="left" />Contributing
 Please use the [GitHub issue tracker](https://github.com/Viglino/font-gis/issues) to ask for new features 
