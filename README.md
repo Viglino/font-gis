@@ -51,7 +51,7 @@ Or use it as an svg sprite (svg sprites are inlocated in the `./dist/font-gis.sv
 ### unplugin-icons
 
 You can use Font-GIS with [unplugin-icons](https://github.com/unplugin/unplugin-icons).    
-[Browse online](https://icones.js.org/collection/gis)
+*Access thousands of icons as components on-demand universally.*
 
 ### With other icon sets
 
